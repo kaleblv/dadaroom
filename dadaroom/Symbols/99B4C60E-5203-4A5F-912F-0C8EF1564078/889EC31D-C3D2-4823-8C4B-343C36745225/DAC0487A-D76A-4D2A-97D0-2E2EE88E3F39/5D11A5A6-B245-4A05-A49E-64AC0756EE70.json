@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Near flats"
+    "string": "Cerca de pisos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5D11A5A6-B245-4A05-A49E-64AC0756EE70",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 60,
-    "x": -7.105427357601002e-15,
+    "width": 91,
+    "x": 0.5,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {59.999999999999986, 16}}",
+  "glyphBounds": "{{0, 2}, {90, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

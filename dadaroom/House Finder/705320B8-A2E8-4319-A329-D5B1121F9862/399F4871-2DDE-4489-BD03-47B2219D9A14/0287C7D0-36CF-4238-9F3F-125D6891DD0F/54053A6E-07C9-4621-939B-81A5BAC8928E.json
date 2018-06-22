@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Button normal"
+    "string": "Botón normal"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "54053A6E-07C9-4621-939B-81A5BAC8928E",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "B6BEDEA6-6309-47E1-A64A-0F40382E55AD",
     "height": 16,
-    "width": 90,
-    "x": 27.5,
+    "width": 85,
+    "x": 30,
     "y": 12.5
   },
-  "glyphBounds": "{{0, 0}, {90, 16}}",
+  "glyphBounds": "{{0, 2}, {84, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Button normal",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

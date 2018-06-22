@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Find offers"
+    "string": "Encuentra ofertas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7077B5DF-E001-4CCB-A0F9-8D569927699C",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "FD1A0B1B-129A-4236-96FD-A51F1807EE37",
     "height": 16,
-    "width": 69,
-    "x": 38,
+    "width": 113,
+    "x": 16,
     "y": 12.5
   },
-  "glyphBounds": "{{0, 0}, {69, 16}}",
+  "glyphBounds": "{{0, 2}, {112, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Find offers",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

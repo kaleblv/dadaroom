@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "About us"
+    "string": "Sobre nosotros"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "8AD6C2F1-BD25-46DA-83D7-F7792024680A",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 47,
+    "width": 81,
     "x": 28,
     "y": 0.5
   },
-  "glyphBounds": "{{0, 0}, {47, 14}}",
+  "glyphBounds": "{{0, 2}, {80, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "About us",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

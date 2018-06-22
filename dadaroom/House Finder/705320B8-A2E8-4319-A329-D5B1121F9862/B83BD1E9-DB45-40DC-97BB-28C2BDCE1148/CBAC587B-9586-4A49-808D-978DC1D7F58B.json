@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 14,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "Link text here"
+    "string": "Enlace el texto aquí"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "CBAC587B-9586-4A49-808D-978DC1D7F58B",
@@ -49,11 +49,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 88,
+    "width": 127,
     "x": 0,
     "y": 72
   },
-  "glyphBounds": "{{0, 0}, {88, 36}}",
+  "glyphBounds": "{{1, 2}, {126, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 1,
   "name": "Link text here",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

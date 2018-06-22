@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 27,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "Create a compelling profile"
+    "string": "Crea un perfil convincente"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9D80E84A-DEF2-4B3F-BB70-1C0799787455",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "051D20F4-072A-44BE-AC93-808796FF696D",
     "height": 20,
-    "width": 203,
+    "width": 196,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {203, 20}}",
+  "glyphBounds": "{{0, 3}, {196, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Create a compelling ",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

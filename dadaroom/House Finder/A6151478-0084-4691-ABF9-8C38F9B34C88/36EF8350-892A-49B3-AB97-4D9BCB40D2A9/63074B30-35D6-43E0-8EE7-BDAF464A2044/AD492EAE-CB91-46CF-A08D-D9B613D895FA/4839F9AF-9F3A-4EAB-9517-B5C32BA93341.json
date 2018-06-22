@@ -27,11 +27,11 @@
             "minimumLineHeight": 21
           }
         },
-        "length": 723,
+        "length": 782,
         "location": 0
       }
     ],
-    "string": "Being the savage's bowsman, that is, the person who pulled the bow-oar in his boat (the second one from forward), it was my cheerful duty to attend upon him while taking that hard-scrabble scramble upon the dead whale's back. You have seen Italian organ-boys holding a dancing-ape by a long cord. Just so, from the ship's steep side, did I hold Queequeg down there in the sea, by what is technically called in the fishery a monkey-rope, attached to a strong strip of canvas belted round his waist. Being the savage's bowsman, that is, the person who pulled the bow-oar in his boat (the second one from forward), it was my cheerful duty to attend upon him while taking that hard-scrabble scramble upon the dead whale's back."
+    "string": "Siendo el arquero del salvaje, es decir, la persona que sacó el remo de proa en su bote (el segundo desde adelante), fue mi alegre deber atenderlo mientras luchaba con el duro scrabble sobre la espalda de la ballena muerta. Has visto a muchachos de órganos italianos que sostienen a un mono danzante con una cuerda larga. Del mismo modo, desde el lado empinado de la nave, sostuve a Queequeg allí abajo en el mar, por lo que técnicamente se llama en la industria pesquera una cuerda de mono, sujeta a una fuerte franja de lona ceñida alrededor de su cintura. Siendo el arquero del salvaje, es decir, la persona que sacó el remo de proa en su bote (el segundo desde adelante), fue mi alegre deber atenderlo mientras luchaba con el duro scrabble sobre la espalda de la ballena muerta."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4839F9AF-9F3A-4EAB-9517-B5C32BA93341",
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 294,
+    "height": 336,
     "width": 310,
-    "x": 15,
+    "x": 22,
     "y": 76
   },
-  "glyphBounds": "{{0, 0}, {310, 294}}",
+  "glyphBounds": "{{0, 2}, {308, 326}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

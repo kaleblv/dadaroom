@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 9,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "ROOMINESS"
+    "string": "ESPACIOSIDAD"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6D2EF031-9188-498C-9780-F4C57860114A",
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "433A596F-78BE-4483-A043-AECC247F119B",
     "height": 16,
-    "width": 80,
-    "x": 40,
+    "width": 99,
+    "x": 21,
     "y": 34
   },
-  "glyphBounds": "{{0, 0}, {80, 16}}",
+  "glyphBounds": "{{0, 2}, {98, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -63,7 +63,7 @@
   "lineSpacingBehaviour": 0,
   "name": "ROOMINESS",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

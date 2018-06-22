@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 12,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Reserve home"
+    "string": "Reserve su casa"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "09B93ABD-94F4-4E21-BCDE-EBF0EE08ED8D",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "EA504A7E-5142-4D9C-80DF-635713925650",
     "height": 20,
-    "width": 107,
+    "width": 122,
     "x": 73,
     "y": 5
   },
-  "glyphBounds": "{{0, 0}, {107, 20}}",
+  "glyphBounds": "{{1, 3}, {120, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Reserve home",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

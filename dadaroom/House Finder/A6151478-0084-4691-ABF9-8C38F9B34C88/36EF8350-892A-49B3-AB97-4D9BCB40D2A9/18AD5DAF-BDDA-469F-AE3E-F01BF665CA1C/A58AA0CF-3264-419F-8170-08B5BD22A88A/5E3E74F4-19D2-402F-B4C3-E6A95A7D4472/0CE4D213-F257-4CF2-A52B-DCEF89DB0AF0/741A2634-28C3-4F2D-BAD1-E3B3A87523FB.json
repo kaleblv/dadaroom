@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Panorama"
+    "string": "panorama"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "741A2634-28C3-4F2D-BAD1-E3B3A87523FB",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "4AB9A1E1-5165-42ED-9227-52241610C2AD",
     "height": 16,
-    "width": 64,
-    "x": 30.5,
+    "width": 63,
+    "x": 31,
     "y": 18
   },
-  "glyphBounds": "{{0, 0}, {64, 16}}",
+  "glyphBounds": "{{1, 5}, {61, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Panorama",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

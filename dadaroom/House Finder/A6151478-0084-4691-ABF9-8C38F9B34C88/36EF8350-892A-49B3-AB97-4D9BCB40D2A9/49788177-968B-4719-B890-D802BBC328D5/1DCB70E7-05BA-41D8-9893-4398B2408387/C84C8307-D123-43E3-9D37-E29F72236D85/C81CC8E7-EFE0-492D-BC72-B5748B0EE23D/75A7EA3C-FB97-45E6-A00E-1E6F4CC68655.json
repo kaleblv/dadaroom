@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Calendar"
+    "string": "Calendario"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "75A7EA3C-FB97-45E6-A00E-1E6F4CC68655",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "A593063F-712F-4A7B-A8F0-79CC5099DDED",
     "height": 16,
-    "width": 57,
-    "x": 34,
+    "width": 68,
+    "x": 28.5,
     "y": 16
   },
-  "glyphBounds": "{{0, 0}, {57, 16}}",
+  "glyphBounds": "{{0, 2}, {68, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Calendar",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

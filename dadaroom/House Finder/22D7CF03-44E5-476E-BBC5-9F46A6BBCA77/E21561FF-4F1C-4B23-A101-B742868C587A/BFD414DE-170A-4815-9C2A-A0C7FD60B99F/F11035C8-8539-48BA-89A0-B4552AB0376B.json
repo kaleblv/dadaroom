@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 32,
+        "length": 42,
         "location": 0
       }
     ],
-    "string": "Luxury apartment near Red Square"
+    "string": "Apartamento de lujo cerca de la Plaza Roja"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F11035C8-8539-48BA-89A0-B4552AB0376B",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "B0FA8714-D5E4-4C6D-9A43-522D9F719638",
     "height": 27,
-    "width": 350,
-    "x": 134,
+    "width": 430,
+    "x": 76,
     "y": 43
   },
-  "glyphBounds": "{{-4, -3}, {358, 35}}",
+  "glyphBounds": "{{0, 3}, {429, 23}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Luxury apartment nea",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

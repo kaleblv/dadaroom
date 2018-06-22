@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "3 rooms"
+    "string": "3 habitaciones"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7EB2294C-296B-4A0A-B5F8-04EF1CDE04FE",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "BE4E61A1-5D62-46B2-889C-EAF025F6A4C2",
     "height": 16,
-    "width": 52,
+    "width": 92,
     "x": 97,
     "y": 26
   },
-  "glyphBounds": "{{0, 0}, {52, 16}}",
+  "glyphBounds": "{{0, 2}, {92, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "3 rooms",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

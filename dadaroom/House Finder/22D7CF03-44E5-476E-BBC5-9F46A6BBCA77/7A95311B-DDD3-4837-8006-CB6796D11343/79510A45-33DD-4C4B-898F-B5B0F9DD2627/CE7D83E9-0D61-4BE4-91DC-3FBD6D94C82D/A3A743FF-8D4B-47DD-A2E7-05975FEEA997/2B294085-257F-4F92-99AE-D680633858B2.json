@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Rooms"
+    "string": "Habitaciones"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2B294085-257F-4F92-99AE-D680633858B2",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "2B06B963-38DE-40FB-9DD6-285A5EE7FCA8",
     "height": 16,
-    "width": 45,
-    "x": 17.5,
+    "width": 83,
+    "x": 0.5,
     "y": 12.5
   },
-  "glyphBounds": "{{0, 0}, {45, 16}}",
+  "glyphBounds": "{{1, 2}, {81, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Rooms",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

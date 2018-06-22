@@ -28,67 +28,11 @@
             "minimumLineHeight": 20
           }
         },
-        "length": 30,
+        "length": 54,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.231372549,
-            "green": 0.2352941176,
-            "red": 0.2352941176
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Regular",
-              "size": 13
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
-          }
-        },
-        "length": 21,
-        "location": 30
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.231372549,
-            "green": 0.2352941176,
-            "red": 0.2352941176
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Bold",
-              "size": 13
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
-          }
-        },
-        "length": 7,
-        "location": 51
       }
     ],
-    "string": "Susanville, AZ, Caliangt 8597\nfrom 17.08 to 24.08  12 days"
+    "string": "Susanville, AZ, Caliangt 8597 de 17.08 a 24.08 12 días"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "642625F7-C947-4D44-BF56-218B09ADAA0E",
@@ -106,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F60AF49F-8E39-464B-9B47-2768B1611F5C",
-    "height": 40,
-    "width": 167,
+    "height": 20,
+    "width": 312,
     "x": 67,
     "y": 16
   },
-  "glyphBounds": "{{0, 0}, {167, 40}}",
+  "glyphBounds": "{{0, 2}, {311, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -120,7 +64,7 @@
   "lineSpacingBehaviour": 1,
   "name": "Susanville, AZ, Cali",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

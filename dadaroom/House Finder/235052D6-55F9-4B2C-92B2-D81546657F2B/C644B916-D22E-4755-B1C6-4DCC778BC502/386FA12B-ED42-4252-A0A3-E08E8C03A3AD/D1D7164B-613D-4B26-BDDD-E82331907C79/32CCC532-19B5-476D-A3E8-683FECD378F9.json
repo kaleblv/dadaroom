@@ -50,7 +50,7 @@
     "do_objectID": "8CEE117E-1171-40E7-B02E-E237E1BC6CA6",
     "height": 14,
     "width": 33,
-    "x": 766,
+    "x": 782,
     "y": 0
   },
   "glyphBounds": "{{0, 0}, {33, 14}}",
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Tu, 11",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 18,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Write your problem"
+    "string": "Escribe tu problema"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "85EB7F78-9014-4487-AB99-BB18A3F7F930",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "47337ED3-609A-4CD5-BA2E-C8E302F8E341",
     "height": 21,
-    "width": 150,
+    "width": 158,
     "x": 56,
     "y": 16.5
   },
-  "glyphBounds": "{{0, 0}, {150, 21}}",
+  "glyphBounds": "{{1, 3}, {156, 18}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Write your problem",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

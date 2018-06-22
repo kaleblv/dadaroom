@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 12,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Conveniences"
+    "string": "Conveniencias"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B04F7A4D-E714-4443-80F7-2D879499D450",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "E3994CB8-293A-4AED-B101-A9679B4FD828",
     "height": 16,
-    "width": 86,
+    "width": 90,
     "x": 0,
     "y": 2.5
   },
-  "glyphBounds": "{{0, 0}, {86, 16}}",
+  "glyphBounds": "{{0, 2}, {89, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Conveniences",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

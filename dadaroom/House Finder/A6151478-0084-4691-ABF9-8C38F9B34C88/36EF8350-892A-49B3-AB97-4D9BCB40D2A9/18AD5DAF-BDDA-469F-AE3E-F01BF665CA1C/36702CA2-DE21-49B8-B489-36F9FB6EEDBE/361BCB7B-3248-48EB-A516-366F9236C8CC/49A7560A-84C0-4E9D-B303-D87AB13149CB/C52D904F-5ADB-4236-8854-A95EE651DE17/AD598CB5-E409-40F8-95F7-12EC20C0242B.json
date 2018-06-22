@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 3,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Gym"
+    "string": "Gimnasio"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "AD598CB5-E409-40F8-95F7-12EC20C0242B",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "C10AD075-DBF8-4802-95A3-20C391CE427F",
     "height": 14,
-    "width": 25,
+    "width": 51,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {25, 14}}",
+  "glyphBounds": "{{0, 2}, {50, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Gym",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

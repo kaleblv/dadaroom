@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "SIGN IN"
+    "string": "REGISTRARSE"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "36E8C483-59F6-4F83-8FB7-43B68CEF748E",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "45ABD99E-44AD-463E-9DD4-3A74E18A0E6E",
     "height": 15,
-    "width": 46,
+    "width": 84,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {46, 15}}",
+  "glyphBounds": "{{1, 2}, {82, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "SIGN IN",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

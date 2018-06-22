@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "RANDY "
+    "string": "CACHONDO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7CABFE9B-E880-4E3C-B214-98784692B8DA",
@@ -47,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
+    "height": 28,
     "width": 53.62677750743318,
     "x": 42.77298626120319,
     "y": 10.5
   },
-  "glyphBounds": "{{0, 0}, {53.626777507433175, 14}}",
+  "glyphBounds": "{{0, 2}, {48, 24}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

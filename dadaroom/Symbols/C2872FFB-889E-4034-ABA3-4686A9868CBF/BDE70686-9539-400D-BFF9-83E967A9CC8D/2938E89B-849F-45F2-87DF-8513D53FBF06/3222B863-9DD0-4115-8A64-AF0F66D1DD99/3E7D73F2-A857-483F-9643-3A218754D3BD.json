@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Price"
+    "string": "Precio"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3E7D73F2-A857-483F-9643-3A218754D3BD",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 32,
-    "x": 21,
+    "width": 40,
+    "x": 17,
     "y": 12.5
   },
-  "glyphBounds": "{{0, 0}, {32, 16}}",
+  "glyphBounds": "{{1, 2}, {38, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

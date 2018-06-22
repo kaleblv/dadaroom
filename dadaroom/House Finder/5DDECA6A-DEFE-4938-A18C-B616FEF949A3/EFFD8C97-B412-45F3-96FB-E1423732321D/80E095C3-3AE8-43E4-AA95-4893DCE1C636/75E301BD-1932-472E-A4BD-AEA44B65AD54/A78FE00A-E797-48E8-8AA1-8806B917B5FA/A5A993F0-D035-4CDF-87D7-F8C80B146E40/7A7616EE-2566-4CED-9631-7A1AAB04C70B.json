@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Common room"
+    "string": "Sala común"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7A7616EE-2566-4CED-9631-7A1AAB04C70B",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 94,
-    "x": 60.5,
+    "width": 73,
+    "x": 71,
     "y": 37
   },
-  "glyphBounds": "{{0, 0}, {94, 16}}",
+  "glyphBounds": "{{0, 2}, {72, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Common room",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

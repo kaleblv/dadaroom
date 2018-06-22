@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "May 2013"
+    "string": "Mayo 2013"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2ADC21E5-2720-4E83-AAE5-AAE18845FDE0",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "C348E8AF-0605-46A7-B17D-745178E74B49",
     "height": 14,
-    "width": 52,
-    "x": 458,
+    "width": 59,
+    "x": 451,
     "y": 17
   },
-  "glyphBounds": "{{0, 0}, {52, 14}}",
+  "glyphBounds": "{{1, 2}, {57, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "May 2013",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

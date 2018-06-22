@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Villa in Mytishchi"
+    "string": "Villa en Mytishchi"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B7A09546-6D20-4DB4-A172-1B319405652A",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 124,
+    "width": 128,
     "x": 12,
     "y": 139
   },
-  "glyphBounds": "{{0, 0}, {124, 19}}",
+  "glyphBounds": "{{0, 3}, {127, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Villa in Mytishchi",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -26,89 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 24,
+        "length": 135,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.6,
-            "green": 0.5882352941,
-            "red": 0.5803921569
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Regular",
-              "size": 13
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 58,
-        "location": 24
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2392156863,
-            "green": 0.2196078431,
-            "red": 0.2078431373
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Regular",
-              "size": 13
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 42,
-        "location": 82
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.6,
-            "green": 0.5882352941,
-            "red": 0.5803921569
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Regular",
-              "size": 13
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 8,
-        "location": 124
       }
     ],
-    "string": "Add your first apartment\n\nMake a unique description of the accommodation (+ 15%)\n\nAdd more than 7 pictures of each apartment (+ 15%)"
+    "string": "Agregue su primer departamento Haga una descripción única del alojamiento (+ 15%) Agregue más de 7 imágenes de cada apartamento (+ 15%)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "02AC9029-67C8-45D8-BDB7-92ED97A218A7",
@@ -126,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2CAE965E-F679-4D9A-A166-9AFF2B4E4807",
-    "height": 75,
-    "width": 334,
+    "height": 15,
+    "width": 835,
     "x": 30,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {334, 75}}",
+  "glyphBounds": "{{0, 1}, {834, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -140,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Add your first apart",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

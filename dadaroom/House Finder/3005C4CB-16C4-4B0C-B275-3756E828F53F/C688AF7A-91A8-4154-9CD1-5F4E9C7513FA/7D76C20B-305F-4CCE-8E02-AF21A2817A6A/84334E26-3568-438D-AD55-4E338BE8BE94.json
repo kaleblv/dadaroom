@@ -27,125 +27,11 @@
             "minimumLineHeight": 30
           }
         },
-        "length": 288,
+        "length": 244,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2392156863,
-            "green": 0.2196078431,
-            "red": 0.2078431373
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Light",
-              "size": 13
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 30,
-            "minimumLineHeight": 30,
-            "tabStops": [
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 28,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 56,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 84,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 112,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 140,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 168,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 196,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 224,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 252,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 280,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 308,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 336,
-                "options": {
-                }
-              }
-            ]
-          }
-        },
-        "length": 35,
-        "location": 288
       }
     ],
-    "string": "Being the savage's bowsman, that is\nBeing the savage's bowsman, that is\nBeing the savage's bowsman, that is\nBeing the savage's bowsman, that is\nBeing the savage's bowsman, that is\nBeing the savage's bowsman, that is\nBeing the savage's bowsman, that is\nBeing the savage's bowsman, that is\nBeing the savage's bowsman, that is"
+    "string": "Ser el arquero salvaje, ser el arquero salvaje, ser el arquero salvaje, ser el arquero salvaje, ser el arquero salvaje, ser el arquero salvaje, ser el arquero salvaje, eso es ser el arquero del salvaje, que es ser el arquero del salvaje, eso es"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "84334E26-3568-438D-AD55-4E338BE8BE94",
@@ -163,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3217A943-9A34-4642-A8C2-149E0EA3EAAA",
-    "height": 270,
+    "height": 150,
     "width": 310,
-    "x": 16,
+    "x": 23,
     "y": 395
   },
-  "glyphBounds": "{{0, 0}, {310, 270}}",
+  "glyphBounds": "{{0, 2}, {304, 133}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

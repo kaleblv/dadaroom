@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "FAVORITES"
+    "string": "FAVORITOS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BCABC42E-6B85-4634-87B7-C1F30ACC68B1",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "C29826ED-6B13-47D4-9431-F5D348C521CD",
     "height": 14,
-    "width": 60,
+    "width": 62,
     "x": 0.2729862612031866,
     "y": 32.5
   },
-  "glyphBounds": "{{0, 0}, {60, 14}}",
+  "glyphBounds": "{{1, 2}, {60, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -63,7 +63,7 @@
   "name": "FAVORITES",
   "nameIsFixed": false,
   "originalObjectID": "BCABC42E-6B85-4634-87B7-C1F30ACC68B1",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

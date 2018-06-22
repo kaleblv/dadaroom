@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "187 offers"
+    "string": "187 ofertas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D8972967-6A82-4A95-829B-8178A7098C46",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "8E18B324-8E95-4DD1-A73A-10CBC8BF1FCE",
     "height": 19,
-    "width": 72,
+    "width": 81,
     "x": 149,
     "y": 7.5
   },
-  "glyphBounds": "{{0, 0}, {72, 19}}",
+  "glyphBounds": "{{1, 2}, {79, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "187 offers",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

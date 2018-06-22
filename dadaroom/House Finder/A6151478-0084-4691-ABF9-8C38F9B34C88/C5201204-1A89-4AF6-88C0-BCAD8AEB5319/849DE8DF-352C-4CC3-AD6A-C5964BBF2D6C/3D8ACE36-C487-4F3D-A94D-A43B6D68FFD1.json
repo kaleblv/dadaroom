@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "For more\ninformation"
+    "string": "Para más información"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3D8ACE36-C487-4F3D-A94D-A43B6D68FFD1",
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 61,
+    "height": 16,
+    "width": 117,
     "x": 0,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {61, 32}}",
+  "glyphBounds": "{{1, 1}, {115, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 1,
   "name": "For more",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

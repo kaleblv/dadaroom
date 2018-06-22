@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Address"
+    "string": "Dirección"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6E91449D-228D-4709-A623-F0C4DDC15D58",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "AB6EA1EF-9AFC-4861-8680-8CAA813EA5F6",
     "height": 16,
-    "width": 52,
-    "x": 15,
+    "width": 59,
+    "x": 11.5,
     "y": 12.5
   },
-  "glyphBounds": "{{0, 0}, {52, 16}}",
+  "glyphBounds": "{{1, 2}, {57, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Address",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

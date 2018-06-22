@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "OFFER"
+    "string": "OFERTA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A1C6CAD8-90B9-4789-88BF-21F55DB184AC",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 42,
+    "width": 53,
     "x": 39,
     "y": 36
   },
-  "glyphBounds": "{{0, 0}, {42, 16}}",
+  "glyphBounds": "{{0, 2}, {53, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "OFFER",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

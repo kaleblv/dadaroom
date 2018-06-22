@@ -28,11 +28,11 @@
             "minimumLineHeight": 14
           }
         },
-        "length": 8,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "CANCELED"
+    "string": "CANCELADO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5408E1B5-2B13-4DEB-906E-746B31509828",
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "7B57800E-DBBE-4716-82FA-41A66FB72F83",
     "height": 14,
-    "width": 50,
+    "width": 57,
     "x": 42,
     "y": 12
   },
-  "glyphBounds": "{{0, 0}, {50, 14}}",
+  "glyphBounds": "{{0, 1}, {57, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -64,7 +64,7 @@
   "lineSpacingBehaviour": 1,
   "name": "CANCELED",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

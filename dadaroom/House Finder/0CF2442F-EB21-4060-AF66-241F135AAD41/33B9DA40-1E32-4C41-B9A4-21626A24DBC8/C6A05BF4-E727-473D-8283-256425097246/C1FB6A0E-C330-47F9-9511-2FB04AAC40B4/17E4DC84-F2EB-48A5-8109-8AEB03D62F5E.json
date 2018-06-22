@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 26,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "Flats for a day in Siettle"
+    "string": "Pisos por un día en Siettle"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "17E4DC84-F2EB-48A5-8109-8AEB03D62F5E",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "33C0F734-3D38-4D04-A60F-353F9B5AE681",
     "height": 30,
-    "width": 270,
+    "width": 300,
     "x": 0,
     "y": 21
   },
-  "glyphBounds": "{{0, 0}, {270, 30}}",
+  "glyphBounds": "{{2, 4}, {297, 26}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Flats for a day in S",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

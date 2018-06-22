@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 14,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Similar offers"
+    "string": "Ofertas similares"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E46DDEA9-271B-4B43-8804-DFD62D20A1B6",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 94,
+    "width": 119,
     "x": 18,
     "y": 25
   },
-  "glyphBounds": "{{0, 0}, {94, 19}}",
+  "glyphBounds": "{{0, 2}, {119, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

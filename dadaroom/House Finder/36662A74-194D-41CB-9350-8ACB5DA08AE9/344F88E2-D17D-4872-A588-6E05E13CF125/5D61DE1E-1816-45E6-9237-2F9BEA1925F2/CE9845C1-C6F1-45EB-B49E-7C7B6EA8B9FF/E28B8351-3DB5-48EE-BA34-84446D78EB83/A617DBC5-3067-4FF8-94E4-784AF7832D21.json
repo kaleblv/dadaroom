@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 14,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "SECURE PAYMENT"
+    "string": "PAGO SEGURO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A617DBC5-3067-4FF8-94E4-784AF7832D21",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "7647E9F9-CE3C-4B58-9ADC-A958E2CB4357",
     "height": 11,
-    "width": 84,
-    "x": 8,
+    "width": 66,
+    "x": 17,
     "y": 10
   },
-  "glyphBounds": "{{0, 0}, {84, 11}}",
+  "glyphBounds": "{{0, 1}, {66, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "SECURE PAYMENT",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

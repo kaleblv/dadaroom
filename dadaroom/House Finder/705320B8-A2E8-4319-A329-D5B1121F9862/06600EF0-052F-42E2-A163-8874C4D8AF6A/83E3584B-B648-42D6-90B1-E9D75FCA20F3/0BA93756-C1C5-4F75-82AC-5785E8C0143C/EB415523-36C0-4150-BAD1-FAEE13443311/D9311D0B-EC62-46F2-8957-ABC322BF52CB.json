@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "ORDERS"
+    "string": "PEDIDOS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D9311D0B-EC62-46F2-8957-ABC322BF52CB",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 46,
-    "x": 17,
+    "width": 49,
+    "x": 15.5,
     "y": 48.5
   },
-  "glyphBounds": "{{0, 0}, {46, 14}}",
+  "glyphBounds": "{{1, 2}, {47, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "name": "ORDERS",
   "nameIsFixed": false,
   "originalObjectID": "58E7C1AE-55C5-4C16-A41C-E5EEBE50E6D8",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

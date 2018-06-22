@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 28,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "Order successfully completed"
+    "string": "Orden completada con éxito"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "CA0498A6-FE0D-48C0-95F4-6250DD44CD52",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "992B429A-F598-4FEA-988E-114149F1AF2B",
     "height": 15,
-    "width": 175,
-    "x": 0,
+    "width": 164,
+    "x": 0.5,
     "y": 110
   },
-  "glyphBounds": "{{0, 0}, {175, 15}}",
+  "glyphBounds": "{{0, 2}, {164, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Order successfully c",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

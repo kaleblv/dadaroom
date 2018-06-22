@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 9,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Check out"
+    "string": "Revisa"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B583BB9B-532E-475E-9908-1A2A62ABF608",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "AAA109F2-4364-486E-8E2E-33F63BD8DF9F",
     "height": 14,
-    "width": 54,
+    "width": 36,
     "x": 1.5,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {54, 14}}",
+  "glyphBounds": "{{0, 2}, {35, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Check out",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

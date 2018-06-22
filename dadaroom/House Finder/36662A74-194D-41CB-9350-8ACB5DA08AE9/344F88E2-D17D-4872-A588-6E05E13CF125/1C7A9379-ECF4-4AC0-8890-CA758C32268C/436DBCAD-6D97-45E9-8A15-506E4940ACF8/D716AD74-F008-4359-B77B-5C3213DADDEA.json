@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 15,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "ORDER COMPLETED"
+    "string": "PEDIDO COMPLETADO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D716AD74-F008-4359-B77B-5C3213DADDEA",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "50F82F64-1323-48DF-AFBF-3D64FD5FAFC2",
     "height": 14,
-    "width": 110,
+    "width": 122,
     "x": 0,
     "y": 98
   },
-  "glyphBounds": "{{0, 0}, {110, 14}}",
+  "glyphBounds": "{{1, 2}, {120, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "ORDER COMPLETED",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

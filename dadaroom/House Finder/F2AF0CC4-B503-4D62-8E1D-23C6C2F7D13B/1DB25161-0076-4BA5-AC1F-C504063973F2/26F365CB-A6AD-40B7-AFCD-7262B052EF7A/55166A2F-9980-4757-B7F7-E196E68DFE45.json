@@ -25,123 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 680,
+        "length": 1389,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2392156863,
-            "green": 0.2196078431,
-            "red": 0.2078431373
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Light",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "tabStops": [
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 28,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 56,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 84,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 112,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 140,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 168,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 196,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 224,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 252,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 280,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 308,
-                "options": {
-                }
-              },
-              {
-                "_class": "textTab",
-                "alignment": 0,
-                "location": 336,
-                "options": {
-                }
-              }
-            ]
-          }
-        },
-        "length": 559,
-        "location": 680
       }
     ],
-    "string": "Kogi Cosby sweater ethical squid irony disrupt, organic tote bag gluten-free XOXO wolf typewriter mixtape small batch.\n\nDIY pickled four loko McSweeney's, Odd Future dreamcatcher plaid. PBR&B single-origin coffee gluten-free McSweeney's banjo, bicycle rights food truck gastropub vinyl four loko umami +1 narwhal chia.\n\nFashion axe Banksy chia umami artisan, bitters 90's fanny pack. Single-origin coffee drinking vinegar blog semiotics.\n\nFap mumblecore church-key PBR&B, direct trade 8-bit swag asymmetrical slow-carb Marfa ethical.\n\nMustache retro four loko, church-key Thundercats Portland Helvetica Cosby sweater Echo Park sartorial 8-bit ugh bicycle rights iPhone tote bag.\n\nKogi Cosby sweater ethical squid irony disrupt, organic tote bag gluten-free XOXO wolf typewriter mixtape small batch.\n\nDIY pickled four loko McSweeney's, Odd Future dreamcatcher plaid. PBR&B single-origin coffee gluten-free McSweeney's banjo, bicycle rights food truck gastropub vinyl four loko umami +1 narwhal chia.\n\nFap mumblecore church-key PBR&B, direct trade 8-bit swag asymmetrical slow-carb Marfa ethical.\n\nMustache retro four loko, church-key Thundercats Portland Helvetica Cosby sweater Echo Park sartorial 8-bit ugh bicycle rights iPhone tote bag."
+    "string": "La ironía ética del calamar de Kogi Cosby interrumpe, la bolsa de asas orgánica mezcla de XOXO lobo máquina de escribir mixtape pequeño lote. DIY en escabeche cuatro loko McSweeney's, Odd Future dreamcatcher plaid. PBR &amp; B café de un solo origen sin gluten McSweeney's banjo, bicicletas, derechos food truck gastropub vinilo cuatro loko umami +1 narwhal chia. Hacha de moda Banksy chia umami artesanal, riñonera de los bitters 90. Semiótica del blog de vinagre de café de un solo origen. Fap mumblecore iglesia-clave PBR &amp; B, comercio directo 8-bit swag asimétrico lento-carb Marfa ético. Bigote retro cuatro loko, llave de iglesia Thundercats Portland Helvetica Cosby suéter Echo Park sartorial de 8 bits ugh bicicleta derechos iPhone bolsa de mano. La ironía ética del calamar de Kogi Cosby interrumpe, la bolsa de asas orgánica mezcla de XOXO lobo máquina de escribir mixtape pequeño lote. DIY en escabeche cuatro loko McSweeney's, Odd Future dreamcatcher plaid. PBR &amp; B café de un solo origen sin gluten McSweeney's banjo, bicicletas, derechos food truck gastropub vinilo cuatro loko umami +1 narwhal chia. Fap mumblecore iglesia-clave PBR &amp; B, comercio directo 8-bit swag asimétrico lento-carb Marfa ético. Bigote retro cuatro loko, llave de iglesia Thundercats Portland Helvetica Cosby suéter Echo Park sartorial de 8 bits ugh bicicleta derechos iPhone bolsa de mano."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "55166A2F-9980-4757-B7F7-E196E68DFE45",
@@ -159,12 +47,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A5D9A33C-83BE-4538-B0A1-91DEFEBF4591",
-    "height": 384,
+    "height": 224,
     "width": 640,
     "x": 1,
     "y": 61
   },
-  "glyphBounds": "{{0, 0}, {640, 384}}",
+  "glyphBounds": "{{0, 2}, {635, 222}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

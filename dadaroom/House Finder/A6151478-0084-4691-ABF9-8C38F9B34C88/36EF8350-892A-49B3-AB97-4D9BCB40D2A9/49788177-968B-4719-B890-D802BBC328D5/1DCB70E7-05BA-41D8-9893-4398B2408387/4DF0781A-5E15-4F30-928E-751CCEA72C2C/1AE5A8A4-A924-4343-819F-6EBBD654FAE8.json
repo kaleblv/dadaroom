@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 20,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Refreshed 5 min. ago"
+    "string": "Refrescado 5 min. hace"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1AE5A8A4-A924-4343-819F-6EBBD654FAE8",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 131,
+    "width": 145,
     "x": 30,
     "y": 1.375
   },
-  "glyphBounds": "{{0, 0}, {131, 16}}",
+  "glyphBounds": "{{1, 2}, {143, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Refreshed 5 min. ago",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

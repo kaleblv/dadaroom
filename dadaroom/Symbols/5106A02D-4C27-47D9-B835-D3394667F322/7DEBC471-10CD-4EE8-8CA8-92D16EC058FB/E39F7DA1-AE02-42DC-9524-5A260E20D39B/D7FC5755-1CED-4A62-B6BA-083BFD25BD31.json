@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Contacts"
+    "string": "Contactos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D7FC5755-1CED-4A62-B6BA-083BFD25BD31",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 48,
+    "width": 55,
     "x": 28,
     "y": 0.5
   },
-  "glyphBounds": "{{0, 0}, {48, 14}}",
+  "glyphBounds": "{{0, 2}, {54, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

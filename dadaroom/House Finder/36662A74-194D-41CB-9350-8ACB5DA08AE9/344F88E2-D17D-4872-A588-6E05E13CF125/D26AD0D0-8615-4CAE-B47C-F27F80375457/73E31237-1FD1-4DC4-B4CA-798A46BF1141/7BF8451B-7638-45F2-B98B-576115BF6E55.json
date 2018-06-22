@@ -27,92 +27,11 @@
             "minimumLineHeight": 18
           }
         },
-        "length": 10,
+        "length": 57,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Bold",
-              "size": 13
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 18,
-            "minimumLineHeight": 18
-          }
-        },
-        "length": 11,
-        "location": 10
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Light",
-              "size": 13
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 18,
-            "minimumLineHeight": 18
-          }
-        },
-        "length": 11,
-        "location": 21
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Bold",
-              "size": 13
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 18,
-            "minimumLineHeight": 18
-          }
-        },
-        "length": 10,
-        "location": 32
       }
     ],
-    "string": "Check in: 17 aug, Sa\nCheck out: 24 aug, Sa"
+    "string": "Hora de llegada: 17 aug, sáb Hora de salida: 24 aug, sáb."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7BF8451B-7638-45F2-B98B-576115BF6E55",
@@ -130,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C866F2A6-0BA0-454A-8F6D-0FF648012EFC",
-    "height": 36,
-    "width": 125,
+    "height": 18,
+    "width": 319,
     "x": 39,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {125, 36}}",
+  "glyphBounds": "{{1, 2}, {317, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -144,7 +63,7 @@
   "lineSpacingBehaviour": 1,
   "name": "Check in: 17 aug, Sa",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

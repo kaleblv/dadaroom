@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "One room"
+    "string": "Una habitación"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "97FE628F-52EB-4B52-A88A-E9FA42917E9E",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 61,
-    "x": 61,
+    "width": 92,
+    "x": 45.5,
     "y": 44
   },
-  "glyphBounds": "{{0, 0}, {60.999999999999993, 16}}",
+  "glyphBounds": "{{1, 2}, {90, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "One room",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 4,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "SALE"
+    "string": "VENTA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "EAF8C8A2-1AF5-476E-AF22-F0AA011DA83C",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 32,
+    "width": 41,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {32, 15}}",
+  "glyphBounds": "{{0, 2}, {41, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "SALE",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

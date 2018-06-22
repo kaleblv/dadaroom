@@ -28,35 +28,9 @@
         },
         "length": 4,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2392156863,
-            "green": 0.2196078431,
-            "red": 0.2078431373
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Bold",
-              "size": 18
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 1,
-        "location": 4
       }
     ],
-    "string": "HOUSE"
+    "string": "CASA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "49DA30A0-520E-4699-8CC7-496ACACFD0F9",
@@ -74,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 63,
+    "width": 52,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {63, 21}}",
+  "glyphBounds": "{{0, 4}, {51, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Price per day"
+    "string": "Precio por día"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F729B06B-8598-4AF7-847D-F9C43631247E",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 74,
+    "width": 79,
     "x": 12,
     "y": 31
   },
-  "glyphBounds": "{{0, 0}, {74, 15}}",
+  "glyphBounds": "{{1, 2}, {77, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Price per day",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

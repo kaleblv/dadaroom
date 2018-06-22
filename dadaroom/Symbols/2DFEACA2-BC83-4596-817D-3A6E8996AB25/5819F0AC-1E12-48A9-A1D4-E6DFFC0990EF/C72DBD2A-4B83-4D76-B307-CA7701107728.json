@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "PROPERTY"
+    "string": "PROPIEDAD"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C72DBD2A-4B83-4D76-B307-CA7701107728",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 59,
+    "width": 64,
     "x": 20,
     "y": 36.5
   },
-  "glyphBounds": "{{0, 0}, {59, 14}}",
+  "glyphBounds": "{{1, 2}, {62, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

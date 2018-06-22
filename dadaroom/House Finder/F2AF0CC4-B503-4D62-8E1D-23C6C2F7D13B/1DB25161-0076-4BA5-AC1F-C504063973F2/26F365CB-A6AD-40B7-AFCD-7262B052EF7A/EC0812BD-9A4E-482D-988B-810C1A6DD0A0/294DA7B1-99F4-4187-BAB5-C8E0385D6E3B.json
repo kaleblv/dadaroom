@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 23,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "This answer helped you?"
+    "string": "Esta respuesta te ayudó?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "294DA7B1-99F4-4187-BAB5-C8E0385D6E3B",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "7ED0404F-03F0-403A-AC83-7D33980159B0",
     "height": 16,
-    "width": 156,
+    "width": 158,
     "x": 25,
     "y": 17
   },
-  "glyphBounds": "{{0, 0}, {156, 16}}",
+  "glyphBounds": "{{0, 2}, {158, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "This answer helped y",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

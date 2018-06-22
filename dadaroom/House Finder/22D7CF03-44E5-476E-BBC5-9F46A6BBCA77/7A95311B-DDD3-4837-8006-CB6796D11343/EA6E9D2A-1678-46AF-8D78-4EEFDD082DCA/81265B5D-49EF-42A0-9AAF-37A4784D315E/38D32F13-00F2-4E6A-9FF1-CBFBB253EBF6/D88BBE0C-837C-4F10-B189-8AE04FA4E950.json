@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "New offers"
+    "string": "Nuevas ofertas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D88BBE0C-837C-4F10-B189-8AE04FA4E950",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "12DF54EE-185D-4311-A224-F0F2148A6D8C",
     "height": 30,
-    "width": 128,
+    "width": 176,
     "x": 1,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {128, 30}}",
+  "glyphBounds": "{{2, 4}, {173, 21}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "New offers",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

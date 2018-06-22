@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 15,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Advanced search"
+    "string": "Búsqueda Avanzada"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "88D9A2CC-E8DF-4D59-8D8C-0DC01320A048",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "0055F9B6-9BF9-42D7-AA46-140B7CAE95EA",
     "height": 15,
-    "width": 100,
-    "x": 50,
+    "width": 118,
+    "x": 41,
     "y": 9.5
   },
-  "glyphBounds": "{{0, 0}, {100, 15}}",
+  "glyphBounds": "{{1, 2}, {116, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Advanced search",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

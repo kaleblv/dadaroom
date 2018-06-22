@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Links"
+    "string": "Campo de golf"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1FE1D85A-E02C-446E-973B-C8A3453A44AE",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "FEB0733B-C40A-4F20-A1B2-88C22B8F5151",
     "height": 42,
-    "width": 83,
+    "width": 231,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {83, 42}}",
+  "glyphBounds": "{{2, 5}, {230, 36}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Links",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "DWELLING TYPE"
+    "string": "TIPO DE VIVIENDA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A3B2B619-91FA-496E-B3EF-6764FD281774",
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "2DF2581F-C098-4EF8-8A22-AA77AE487201",
     "height": 16,
-    "width": 106,
-    "x": 39,
+    "width": 119,
+    "x": 26,
     "y": 34
   },
-  "glyphBounds": "{{0, 0}, {106, 16}}",
+  "glyphBounds": "{{0, 2}, {119, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -63,7 +63,7 @@
   "lineSpacingBehaviour": 0,
   "name": "DWELLING TYPE",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

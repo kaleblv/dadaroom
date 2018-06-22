@@ -28,11 +28,11 @@
             "minimumLineHeight": 19
           }
         },
-        "length": 103,
+        "length": 101,
         "location": 0
       }
     ],
-    "string": "One room\n\nReal bed\n\n2\n\n1\n\n1\n\n1\n\nFree\n\n$ 560\n\n$ 2 200\n\n13:00\n\n12:00\n\nUSA\n\nBrooklyn\n\nWilliamsburg\n\nMedium"
+    "string": "Una habitación Cama real 2 1 1 1 Gratis $ 560 $ 2 200 13:00 12:00 EE.UU. Brooklyn Williamsburg Medium"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FE0D39AB-C6A1-4939-93DB-0C50196C0F70",
@@ -50,21 +50,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8375E837-2A6B-4842-B953-8A5B342FF996",
-    "height": 551,
-    "width": 77,
-    "x": 183,
+    "height": 19,
+    "width": 612,
+    "x": 0,
     "y": 15
   },
-  "glyphBounds": "{{0, 0}, {77, 551}}",
+  "glyphBounds": "{{0, 1}, {611, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "One room",
+  "name": "One room Real bed 2",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

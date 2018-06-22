@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Shops"
+    "string": "Tiendas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3B42DC00-A215-45C3-88C5-EF4CFBB3E6CC",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 34,
+    "width": 42,
     "x": 23,
     "y": 2
   },
-  "glyphBounds": "{{0, 0}, {34, 14}}",
+  "glyphBounds": "{{0, 2}, {42, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Shops",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

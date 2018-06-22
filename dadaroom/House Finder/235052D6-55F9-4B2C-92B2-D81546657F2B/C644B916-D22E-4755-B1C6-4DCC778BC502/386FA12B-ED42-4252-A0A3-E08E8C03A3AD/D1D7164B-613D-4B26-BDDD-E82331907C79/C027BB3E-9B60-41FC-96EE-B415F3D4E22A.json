@@ -49,7 +49,7 @@
     "constrainProportions": false,
     "height": 14,
     "width": 22,
-    "x": 532.5,
+    "x": 548.5,
     "y": 0
   },
   "glyphBounds": "{{0, 0}, {22, 14}}",
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Fr, 7",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

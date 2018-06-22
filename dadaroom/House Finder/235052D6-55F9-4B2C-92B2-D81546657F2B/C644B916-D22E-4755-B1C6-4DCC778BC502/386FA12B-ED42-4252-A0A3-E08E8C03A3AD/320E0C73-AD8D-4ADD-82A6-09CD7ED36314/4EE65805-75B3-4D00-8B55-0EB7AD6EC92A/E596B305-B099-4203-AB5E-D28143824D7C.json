@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Note"
+    "string": "Nota"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E596B305-B099-4203-AB5E-D28143824D7C",
@@ -53,7 +53,7 @@
     "x": 0.5,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {26, 14}}",
+  "glyphBounds": "{{0, 2}, {26, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Note",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

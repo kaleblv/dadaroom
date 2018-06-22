@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 41,
     "width": 45,
-    "x": 80,
+    "x": 82,
     "y": 1
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

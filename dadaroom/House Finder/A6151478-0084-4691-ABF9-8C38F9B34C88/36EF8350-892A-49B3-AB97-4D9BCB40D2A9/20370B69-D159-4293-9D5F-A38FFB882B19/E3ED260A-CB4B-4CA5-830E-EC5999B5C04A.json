@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 32,
+        "length": 31,
         "location": 0
       }
     ],
-    "string": "Preobrazhenskaya square, 12 min."
+    "string": "Plaza Preobrazhenskaya, 12 min."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E3ED260A-CB4B-4CA5-830E-EC5999B5C04A",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 195,
+    "width": 187,
     "x": 0,
     "y": 34
   },
-  "glyphBounds": "{{0, 0}, {195, 15}}",
+  "glyphBounds": "{{1, 2}, {185, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Preobrazhenskaya squ",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

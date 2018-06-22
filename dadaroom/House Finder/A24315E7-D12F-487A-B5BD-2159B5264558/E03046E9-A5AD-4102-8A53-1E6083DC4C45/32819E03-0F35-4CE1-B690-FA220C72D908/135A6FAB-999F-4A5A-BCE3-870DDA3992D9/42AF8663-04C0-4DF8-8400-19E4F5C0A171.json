@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "First steps"
+    "string": "Primeros pasos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "42AF8663-04C0-4DF8-8400-19E4F5C0A171",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "1ABDAAC0-E71B-4FF1-85D7-FEC34A6F1524",
     "height": 16,
-    "width": 65,
-    "x": 13.5,
+    "width": 97,
+    "x": 0.5,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {65, 16}}",
+  "glyphBounds": "{{1, 2}, {95, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "First steps",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

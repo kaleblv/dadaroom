@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "JOURNAL"
+    "string": "DIARIO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "205EB6C9-BDE7-4331-9E58-E1E9F706EE55",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 53,
-    "x": 0.7729862612027318,
+    "width": 38,
+    "x": 0.2729862612031866,
     "y": 33.5
   },
-  "glyphBounds": "{{0, 0}, {53, 14}}",
+  "glyphBounds": "{{1, 2}, {36, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "name": "JOURNAL",
   "nameIsFixed": false,
   "originalObjectID": "205EB6C9-BDE7-4331-9E58-E1E9F706EE55",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

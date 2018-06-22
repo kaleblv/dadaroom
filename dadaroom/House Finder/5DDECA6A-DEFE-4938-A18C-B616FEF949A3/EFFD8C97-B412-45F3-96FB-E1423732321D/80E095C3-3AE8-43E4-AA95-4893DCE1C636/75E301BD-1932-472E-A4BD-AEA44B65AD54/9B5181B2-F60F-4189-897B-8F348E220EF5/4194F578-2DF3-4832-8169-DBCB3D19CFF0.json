@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 15,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Holder language"
+    "string": "Idioma del titular"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4194F578-2DF3-4832-8169-DBCB3D19CFF0",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "369A3C25-993D-40F0-9A84-004FB3C6CB51",
     "height": 16,
-    "width": 101,
+    "width": 103,
     "x": 0,
     "y": 2.5
   },
-  "glyphBounds": "{{0, 0}, {101, 16}}",
+  "glyphBounds": "{{1, 2}, {102, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Holder language",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

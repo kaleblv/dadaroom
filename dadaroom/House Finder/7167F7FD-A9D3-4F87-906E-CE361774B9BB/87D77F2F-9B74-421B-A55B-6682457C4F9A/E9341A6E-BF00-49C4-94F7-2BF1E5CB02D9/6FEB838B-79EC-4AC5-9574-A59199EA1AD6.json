@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 32,
+        "length": 43,
         "location": 0
       }
     ],
-    "string": "Your rating available apartments"
+    "string": "Su calificación de apartamentos disponibles"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6FEB838B-79EC-4AC5-9574-A59199EA1AD6",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 173,
-    "x": 423.5,
+    "width": 236,
+    "x": 392,
     "y": 84
   },
-  "glyphBounds": "{{0, 0}, {173, 14}}",
+  "glyphBounds": "{{0, 1}, {235, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Your rating availabl",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

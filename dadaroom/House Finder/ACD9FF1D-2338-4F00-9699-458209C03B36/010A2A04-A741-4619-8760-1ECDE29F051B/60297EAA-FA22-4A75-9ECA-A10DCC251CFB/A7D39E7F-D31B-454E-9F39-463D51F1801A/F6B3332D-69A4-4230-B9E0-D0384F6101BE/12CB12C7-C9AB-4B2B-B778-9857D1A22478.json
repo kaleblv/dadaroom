@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Image Here"
+    "string": "Imagen aquí"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "12CB12C7-C9AB-4B2B-B778-9857D1A22478",
@@ -53,7 +53,7 @@
     "x": 10,
     "y": 18
   },
-  "glyphBounds": "{{0, 0}, {67, 32}}",
+  "glyphBounds": "{{11, 3}, {45, 29}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

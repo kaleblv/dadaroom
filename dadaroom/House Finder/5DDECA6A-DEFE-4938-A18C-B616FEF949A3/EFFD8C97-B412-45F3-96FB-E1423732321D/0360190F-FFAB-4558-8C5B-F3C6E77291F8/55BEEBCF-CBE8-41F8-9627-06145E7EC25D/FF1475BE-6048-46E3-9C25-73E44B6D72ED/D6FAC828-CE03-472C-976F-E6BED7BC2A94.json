@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 24,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "Apartment in the Kremlin"
+    "string": "Apartamento en el Kremlin"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D6FAC828-CE03-472C-976F-E6BED7BC2A94",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 181,
+    "width": 193,
     "x": 12,
     "y": 139
   },
-  "glyphBounds": "{{0, 0}, {181, 19}}",
+  "glyphBounds": "{{0, 3}, {192, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Apartment in the Kre",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

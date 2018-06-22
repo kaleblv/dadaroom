@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 19,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "How to add an offer"
+    "string": "Cómo agregar una oferta"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7C59ACC7-A501-42A1-B6BA-096BDE0561F4",
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2429EAA4-69DB-43D5-8369-5D9397AD8AFD",
-    "height": 42,
+    "height": 84,
     "width": 352,
     "x": 334,
     "y": 46
   },
-  "glyphBounds": "{{0, 0}, {352, 42}}",
+  "glyphBounds": "{{31, 6}, {290, 70}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

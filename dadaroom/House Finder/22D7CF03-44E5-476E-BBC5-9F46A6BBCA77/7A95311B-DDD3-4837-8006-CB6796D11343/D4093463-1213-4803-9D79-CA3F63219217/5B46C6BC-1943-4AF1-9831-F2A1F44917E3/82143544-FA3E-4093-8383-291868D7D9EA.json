@@ -27,11 +27,11 @@
             "minimumLineHeight": 18
           }
         },
-        "length": 48,
+        "length": 53,
         "location": 0
       }
     ],
-    "string": "Send a message and the agent will call you back."
+    "string": "Envía un mensaje y el agente te devolverá la llamada."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "82143544-FA3E-4093-8383-291868D7D9EA",
@@ -54,7 +54,7 @@
     "x": 73,
     "y": 31
   },
-  "glyphBounds": "{{0, 0}, {181, 36}}",
+  "glyphBounds": "{{0, 2}, {178, 29}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

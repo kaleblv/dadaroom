@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Order price"
+    "string": "Precio del pedido"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "0E6B7471-E2A2-48D2-A8CD-C4D8C3252317",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 73,
+    "width": 113,
     "x": 12,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {73, 18}}",
+  "glyphBounds": "{{1, 2}, {111, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Order price",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 4,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Back"
+    "string": "Espalda"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "8884B05A-94D4-4B48-BDEF-B0BC65DD0ADB",
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "DB97B32D-09C3-4C4F-8FD1-4307230D3214",
     "height": 36,
-    "width": 33,
+    "width": 53,
     "x": 16,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {33, 36}}",
+  "glyphBounds": "{{1, 2}, {51, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -63,7 +63,7 @@
   "lineSpacingBehaviour": 1,
   "name": "Back",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

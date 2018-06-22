@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 20,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Conveniences outside"
+    "string": "Conveniencias fuera"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "10256262-ADDF-47C3-8DF4-03DC18EEDF66",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "4EB5291F-9AEE-49B2-A17B-50484362FB93",
     "height": 16,
-    "width": 139,
-    "x": 21.25,
+    "width": 129,
+    "x": 26.25,
     "y": 16
   },
-  "glyphBounds": "{{0, 0}, {139, 16}}",
+  "glyphBounds": "{{0, 2}, {128, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Conveniences outside",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

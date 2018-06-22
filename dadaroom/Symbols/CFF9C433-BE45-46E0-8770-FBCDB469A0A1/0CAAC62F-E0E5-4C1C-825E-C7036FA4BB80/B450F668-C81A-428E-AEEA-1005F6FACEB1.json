@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 3,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Map"
+    "string": "Mapa"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B450F668-C81A-428E-AEEA-1005F6FACEB1",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 28,
-    "x": 28.5,
+    "width": 36,
+    "x": 24.5,
     "y": 12.5
   },
-  "glyphBounds": "{{0, 0}, {28, 16}}",
+  "glyphBounds": "{{1, 3}, {34, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 15,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Washing machine"
+    "string": "Lavadora"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "837E7479-19C7-440A-94C2-266BD6EA935A",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "65A48ED1-EB4D-454F-A9EE-6BD03C71AC63",
     "height": 14,
-    "width": 94,
+    "width": 49,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {94, 14}}",
+  "glyphBounds": "{{1, 2}, {47, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Washing machine",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

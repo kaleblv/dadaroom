@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Occupied"
+    "string": "Ocupado"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BF3F614A-13F4-4BE2-A457-ED324449869B",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "9D79DB53-9215-436D-AC87-E3529F30478C",
     "height": 14,
-    "width": 51,
+    "width": 49,
     "x": 14.5,
     "y": 9
   },
-  "glyphBounds": "{{0, 0}, {51, 14}}",
+  "glyphBounds": "{{0, 2}, {48, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Occupied",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

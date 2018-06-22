@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Check in"
+    "string": "Registrarse"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C286D2F3-32B8-47DB-A822-4F4640E5C5E5",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 46,
+    "width": 61,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {46, 14}}",
+  "glyphBounds": "{{0, 2}, {61, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Check in",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

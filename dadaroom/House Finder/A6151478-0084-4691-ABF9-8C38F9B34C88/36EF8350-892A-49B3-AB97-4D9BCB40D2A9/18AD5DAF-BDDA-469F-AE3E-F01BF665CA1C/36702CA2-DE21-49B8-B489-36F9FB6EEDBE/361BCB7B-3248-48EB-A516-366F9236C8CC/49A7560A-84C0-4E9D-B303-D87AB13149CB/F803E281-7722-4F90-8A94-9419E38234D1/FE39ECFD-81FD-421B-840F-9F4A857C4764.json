@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Swimming pool"
+    "string": "Piscina"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FE39ECFD-81FD-421B-840F-9F4A857C4764",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "D447A4F9-4E97-4053-9A00-F4A7EC25CC78",
     "height": 14,
-    "width": 82,
+    "width": 39,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {82, 14}}",
+  "glyphBounds": "{{1, 2}, {37, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Swimming pool",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

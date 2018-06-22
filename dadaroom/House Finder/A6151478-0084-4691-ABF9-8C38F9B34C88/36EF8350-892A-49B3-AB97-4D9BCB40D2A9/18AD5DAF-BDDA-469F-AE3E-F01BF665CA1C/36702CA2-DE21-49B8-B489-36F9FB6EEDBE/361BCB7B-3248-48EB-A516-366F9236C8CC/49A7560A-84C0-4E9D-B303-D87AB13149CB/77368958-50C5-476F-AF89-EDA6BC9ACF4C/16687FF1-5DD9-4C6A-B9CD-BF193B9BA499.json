@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Subway"
+    "string": "Subterraneo"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "16687FF1-5DD9-4C6A-B9CD-BF193B9BA499",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "A989C087-C3E3-4140-8366-54E54621C071",
     "height": 14,
-    "width": 42,
+    "width": 65,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {42, 14}}",
+  "glyphBounds": "{{0, 2}, {64, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Subway",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

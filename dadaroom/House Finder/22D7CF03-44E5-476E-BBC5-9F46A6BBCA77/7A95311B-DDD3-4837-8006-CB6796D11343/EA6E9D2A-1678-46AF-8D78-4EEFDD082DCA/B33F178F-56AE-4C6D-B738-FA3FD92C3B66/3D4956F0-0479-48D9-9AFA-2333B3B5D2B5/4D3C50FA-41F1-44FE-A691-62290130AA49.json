@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Best offers"
+    "string": "Las mejores ofertas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4D3C50FA-41F1-44FE-A691-62290130AA49",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "E1C523E6-2825-4DE8-A03D-7B59FA6C7D4B",
     "height": 30,
-    "width": 128,
+    "width": 231,
     "x": 1,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {128, 30}}",
+  "glyphBounds": "{{2, 4}, {228, 26}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Best offers",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

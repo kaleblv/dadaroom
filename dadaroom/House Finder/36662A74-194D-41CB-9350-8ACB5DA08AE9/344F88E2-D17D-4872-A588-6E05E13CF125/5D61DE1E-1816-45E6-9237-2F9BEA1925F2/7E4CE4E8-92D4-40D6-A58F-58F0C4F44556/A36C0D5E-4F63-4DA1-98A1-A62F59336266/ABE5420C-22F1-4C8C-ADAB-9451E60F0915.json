@@ -28,11 +28,11 @@
             "minimumLineHeight": 14
           }
         },
-        "length": 3,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "NEW"
+    "string": "NUEVO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "ABE5420C-22F1-4C8C-ADAB-9451E60F0915",
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 22,
+    "width": 33,
     "x": 42,
     "y": 12
   },
-  "glyphBounds": "{{0, 0}, {22, 14}}",
+  "glyphBounds": "{{0, 1}, {32, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -63,7 +63,7 @@
   "lineSpacingBehaviour": 1,
   "name": "NEW",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 12,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Free parking"
+    "string": "Estacionamiento gratis"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "AD63FE07-6751-44F0-B1CE-F03CB0228564",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "661EE936-11F0-4700-8E0E-CE4F4CBDC94C",
     "height": 14,
-    "width": 65,
+    "width": 121,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {65, 14}}",
+  "glyphBounds": "{{1, 2}, {120, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Free parking",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

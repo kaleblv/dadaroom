@@ -27,11 +27,11 @@
             "minimumLineHeight": 18
           }
         },
-        "length": 113,
+        "length": 108,
         "location": 0
       }
     ],
-    "string": "Being the savage's bowsman, that is, the person who pulled the bow-oar in his boat (the second one from forward)."
+    "string": "Siendo el arquero del salvaje, es decir, la persona que sacó el remo en su bote (el segundo desde adelante)."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "056E1055-EBB7-4831-A8E5-30CC475B6BD9",
@@ -53,7 +53,7 @@
     "x": 26,
     "y": 46
   },
-  "glyphBounds": "{{0, 0}, {484, 36}}",
+  "glyphBounds": "{{0, 1}, {455, 32}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

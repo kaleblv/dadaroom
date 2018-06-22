@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 3,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "FAQ"
+    "string": "Preguntas más frecuentes"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "118FF584-E2DC-4975-A14E-38AD1303E726",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "85BF2003-E476-47CC-BB1C-31A4E5178D8B",
     "height": 27,
-    "width": 41,
+    "width": 266,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {41, 27}}",
+  "glyphBounds": "{{2, 3}, {263, 23}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "FAQ",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

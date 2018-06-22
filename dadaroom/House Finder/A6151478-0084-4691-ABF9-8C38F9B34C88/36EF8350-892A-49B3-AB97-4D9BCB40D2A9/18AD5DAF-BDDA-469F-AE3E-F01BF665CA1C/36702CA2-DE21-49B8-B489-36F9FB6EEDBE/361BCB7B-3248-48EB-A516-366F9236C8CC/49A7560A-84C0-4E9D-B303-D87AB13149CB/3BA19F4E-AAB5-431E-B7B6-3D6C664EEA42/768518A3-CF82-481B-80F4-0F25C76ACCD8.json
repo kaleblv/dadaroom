@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Memo security"
+    "string": "Memo de seguridad"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "768518A3-CF82-481B-80F4-0F25C76ACCD8",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "F151E86E-612B-4322-8207-1CA75C6A13D1",
     "height": 14,
-    "width": 79,
+    "width": 105,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {79, 14}}",
+  "glyphBounds": "{{1, 2}, {103, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Memo security",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 29,
+        "length": 32,
         "location": 0
       }
     ],
-    "string": "How Estimate your Estate (h1)"
+    "string": "Cómo calcular su patrimonio (h1)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "10CD4687-A805-4A9E-B81D-09A0941C7186",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "29276483-5966-479C-BE68-BBE4D60A878A",
     "height": 42,
-    "width": 486,
-    "x": 275.5,
+    "width": 535,
+    "x": 251,
     "y": 219
   },
-  "glyphBounds": "{{-2, 0}, {490, 46}}",
+  "glyphBounds": "{{2, 4}, {531, 38}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "How Estimate your Es",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

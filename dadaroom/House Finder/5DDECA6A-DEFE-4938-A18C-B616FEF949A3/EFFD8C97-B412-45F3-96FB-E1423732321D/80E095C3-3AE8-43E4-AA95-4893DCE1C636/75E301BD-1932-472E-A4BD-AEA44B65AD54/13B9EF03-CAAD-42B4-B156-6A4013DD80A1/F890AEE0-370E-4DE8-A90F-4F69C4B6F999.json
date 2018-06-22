@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Property size"
+    "string": "Tamaño de propiedad"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F890AEE0-370E-4DE8-A90F-4F69C4B6F999",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "52B2E59E-E5EB-4F19-84BF-EA6B72A6B1E1",
     "height": 16,
-    "width": 80,
+    "width": 134,
     "x": 0,
     "y": 12.5
   },
-  "glyphBounds": "{{0, 0}, {80, 16}}",
+  "glyphBounds": "{{0, 2}, {133, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Property size",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

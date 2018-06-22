@@ -28,11 +28,11 @@
             "minimumLineHeight": 14
           }
         },
-        "length": 4,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "LIVE"
+    "string": "VIVIR"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "80CC2263-9A1D-42CF-9E97-E430561BA666",
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "D8106804-0A13-4FE4-B585-D61A17E74B0E",
     "height": 14,
-    "width": 20,
+    "width": 25,
     "x": 42,
     "y": 12
   },
-  "glyphBounds": "{{0, 0}, {20, 14}}",
+  "glyphBounds": "{{0, 1}, {24, 8}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -64,7 +64,7 @@
   "lineSpacingBehaviour": 1,
   "name": "LIVE",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

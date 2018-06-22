@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "FOR EXAMPLE"
+    "string": "POR EJEMPLO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "20B6E965-39D9-45E5-BEF9-59E710F860DD",
@@ -52,7 +52,7 @@
     "x": 22,
     "y": 129
   },
-  "glyphBounds": "{{0, 0}, {99, 18}}",
+  "glyphBounds": "{{1, 3}, {97, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "FOR EXAMPLE",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

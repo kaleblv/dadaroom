@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 16,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "More about agent"
+    "string": "Más acerca del agente"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3BC94F09-00C1-406F-A4FD-85D087618178",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "F64C5791-ACF4-4453-A552-3E8C43049A53",
     "height": 15,
-    "width": 101,
+    "width": 129,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {101, 15}}",
+  "glyphBounds": "{{1, 2}, {127, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "More about agent",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

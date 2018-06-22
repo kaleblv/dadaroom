@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 31,
+        "length": 36,
         "location": 0
       }
     ],
-    "string": "How to verify your phone number"
+    "string": "Cómo verificar su número de teléfono"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7E93BCDA-022B-48F7-8A56-27D1853634DA",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "F7917903-B506-4513-B577-8BDB3A08A181",
     "height": 16,
-    "width": 204,
-    "x": 13,
+    "width": 231,
+    "x": 0.5,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {204, 16}}",
+  "glyphBounds": "{{0, 2}, {230, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "How to verify your p",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

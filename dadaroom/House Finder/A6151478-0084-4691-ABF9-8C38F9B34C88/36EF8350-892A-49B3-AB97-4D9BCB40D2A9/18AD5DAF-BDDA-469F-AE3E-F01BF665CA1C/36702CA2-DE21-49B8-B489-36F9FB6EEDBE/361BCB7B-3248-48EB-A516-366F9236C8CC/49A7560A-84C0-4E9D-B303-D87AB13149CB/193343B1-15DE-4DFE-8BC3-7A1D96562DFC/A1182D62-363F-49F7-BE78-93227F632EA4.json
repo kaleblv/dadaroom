@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 17,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Fire extinguisher"
+    "string": "Extintor de incendios"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A1182D62-363F-49F7-BE78-93227F632EA4",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "955063F1-D7DF-485A-8496-087DE0692775",
     "height": 14,
-    "width": 87,
+    "width": 110,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {87, 14}}",
+  "glyphBounds": "{{1, 2}, {108, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Fire extinguisher",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

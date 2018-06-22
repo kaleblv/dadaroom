@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 26,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "Enter the name of the city"
+    "string": "Ingrese el nombre de la ciudad"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D1D48C2C-A5CB-4F58-9E97-4E8638BFE090",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "0304CF37-1525-4B3D-A4F1-CEB6ECFBAC0F",
     "height": 16,
-    "width": 157,
+    "width": 187,
     "x": 60,
     "y": 34
   },
-  "glyphBounds": "{{0, 0}, {157, 16}}",
+  "glyphBounds": "{{1, 2}, {185, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Enter the name of th",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

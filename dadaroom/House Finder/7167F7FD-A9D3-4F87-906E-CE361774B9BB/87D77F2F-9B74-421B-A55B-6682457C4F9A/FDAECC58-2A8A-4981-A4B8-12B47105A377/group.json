@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "do_objectID": "FA34892C-A9F7-4A7C-8673-8FA28AAF27DD",
     "height": 167,
-    "width": 307,
+    "width": 1221,
     "x": 313,
     "y": 688
   },
@@ -24,7 +24,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",

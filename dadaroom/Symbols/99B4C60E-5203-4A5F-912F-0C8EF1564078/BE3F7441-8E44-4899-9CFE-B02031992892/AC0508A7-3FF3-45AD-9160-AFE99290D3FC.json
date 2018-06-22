@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 28,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "Rooms in Suburbs up to $ 200"
+    "string": "Habitaciones en suburbios hasta $ 200"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "AC0508A7-3FF3-45AD-9160-AFE99290D3FC",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 185,
-    "x": 23,
+    "width": 239,
+    "x": 0,
     "y": 14
   },
-  "glyphBounds": "{{0, 0}, {185, 16}}",
+  "glyphBounds": "{{1, 1}, {237, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

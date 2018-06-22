@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Buttons"
+    "string": "Botones"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C6543DAA-DAA1-4138-A5CA-A0CBA7992310",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "C2790B96-CB95-4D08-889B-D9D07FB8206A",
     "height": 42,
-    "width": 123,
+    "width": 131,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {123, 42}}",
+  "glyphBounds": "{{3, 7}, {126, 27}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Buttons",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

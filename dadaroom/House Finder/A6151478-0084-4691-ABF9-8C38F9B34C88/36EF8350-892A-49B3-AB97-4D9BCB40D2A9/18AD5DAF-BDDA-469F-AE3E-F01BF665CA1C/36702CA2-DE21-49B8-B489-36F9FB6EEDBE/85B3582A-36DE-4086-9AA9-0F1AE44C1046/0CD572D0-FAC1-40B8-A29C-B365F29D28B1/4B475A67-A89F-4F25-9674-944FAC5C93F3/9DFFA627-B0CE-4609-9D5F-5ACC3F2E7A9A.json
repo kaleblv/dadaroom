@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 9,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Breakfast"
+    "string": "Desayuno"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9DFFA627-B0CE-4609-9D5F-5ACC3F2E7A9A",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "F4D255CC-C6DB-4072-9EB1-8C3F6395D2BE",
     "height": 14,
-    "width": 51,
+    "width": 53,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {51, 14}}",
+  "glyphBounds": "{{1, 2}, {51, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Breakfast",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

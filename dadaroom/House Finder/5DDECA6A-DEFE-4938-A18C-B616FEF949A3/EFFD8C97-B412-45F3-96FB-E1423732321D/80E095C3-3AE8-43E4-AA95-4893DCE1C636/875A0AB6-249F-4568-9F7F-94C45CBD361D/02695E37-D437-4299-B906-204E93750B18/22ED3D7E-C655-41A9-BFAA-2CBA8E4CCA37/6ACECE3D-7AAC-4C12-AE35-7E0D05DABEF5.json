@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 4,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "City"
+    "string": "Ciudad"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6ACECE3D-7AAC-4C12-AE35-7E0D05DABEF5",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 24,
-    "x": 24.5,
+    "width": 44,
+    "x": 14.5,
     "y": 12.5
   },
-  "glyphBounds": "{{0, 0}, {24, 16}}",
+  "glyphBounds": "{{0, 2}, {43, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "City",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

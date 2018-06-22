@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "RATING"
+    "string": "CLASIFICACIÓN"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E4659FE9-A112-462F-B127-3D56A9F148F5",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "30B6D555-4785-46D1-AD59-FBD8A266DB63",
     "height": 14,
-    "width": 42,
-    "x": 19.27298626120319,
+    "width": 85,
+    "x": 0.7729862612031866,
     "y": 48.5
   },
-  "glyphBounds": "{{0, 0}, {42, 14}}",
+  "glyphBounds": "{{0, 0}, {84, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -63,7 +63,7 @@
   "name": "RATING",
   "nameIsFixed": false,
   "originalObjectID": "BCABC42E-6B85-4634-87B7-C1F30ACC68B1",
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

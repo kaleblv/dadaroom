@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 35,
+        "length": 44,
         "location": 0
       }
     ],
-    "string": "This is an Example of a Text Header"
+    "string": "Este es un ejemplo de un encabezado de texto"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A842205E-AAC6-4072-8FC1-6696D7B9AC5E",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "EAF0DA6B-743F-4D7E-8887-CDB9213E5F52",
     "height": 27,
-    "width": 360,
+    "width": 466,
     "x": 100,
     "y": 49
   },
-  "glyphBounds": "{{0, 0}, {360, 27}}",
+  "glyphBounds": "{{2, 3}, {463, 23}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "This is an Example o",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

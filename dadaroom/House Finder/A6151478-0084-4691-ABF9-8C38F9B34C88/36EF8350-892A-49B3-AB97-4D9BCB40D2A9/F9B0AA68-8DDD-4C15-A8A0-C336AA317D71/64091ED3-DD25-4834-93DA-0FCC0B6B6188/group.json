@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A10A82F9-C35F-4F00-AA34-37D305EDA226",
-    "height": 691,
+    "height": 690,
     "width": 640,
     "x": 0,
     "y": 500
@@ -24,7 +24,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

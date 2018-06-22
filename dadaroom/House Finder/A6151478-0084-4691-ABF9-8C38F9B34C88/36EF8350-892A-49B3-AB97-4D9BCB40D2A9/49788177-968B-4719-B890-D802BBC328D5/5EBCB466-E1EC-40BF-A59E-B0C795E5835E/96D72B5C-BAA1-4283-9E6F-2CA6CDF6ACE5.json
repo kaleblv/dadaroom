@@ -27,11 +27,11 @@
             "minimumLineHeight": 21
           }
         },
-        "length": 333,
+        "length": 366,
         "location": 0
       }
     ],
-    "string": "Being the savage's bowsman, that is, the person who pulled the bow-oar in his boat (the second one from forward), it was my cheerful duty to attend upon him while taking that hard-scrabble scramble upon the dead whale's back. You have seen Italian organ-boys holding a dancing-ape by a long cord. Just so, from the ship's steep side."
+    "string": "Siendo el arquero del salvaje, es decir, la persona que sacó el remo de proa en su bote (el segundo desde adelante), fue mi alegre deber atenderlo mientras luchaba con el duro scrabble sobre la espalda de la ballena muerta. Has visto a muchachos de órganos italianos que sostienen a un mono danzante con una cuerda larga. Solo así, desde el lado empinado de la nave."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "96D72B5C-BAA1-4283-9E6F-2CA6CDF6ACE5",
@@ -54,7 +54,7 @@
     "x": 15,
     "y": 75
   },
-  "glyphBounds": "{{0, 0}, {610, 84}}",
+  "glyphBounds": "{{0, 1}, {594, 77}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

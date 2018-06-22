@@ -49,7 +49,7 @@
     "constrainProportions": false,
     "height": 14,
     "width": 26,
-    "x": 355.5,
+    "x": 371.5,
     "y": 0
   },
   "glyphBounds": "{{0, 0}, {26, 14}}",
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Tu, 4",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

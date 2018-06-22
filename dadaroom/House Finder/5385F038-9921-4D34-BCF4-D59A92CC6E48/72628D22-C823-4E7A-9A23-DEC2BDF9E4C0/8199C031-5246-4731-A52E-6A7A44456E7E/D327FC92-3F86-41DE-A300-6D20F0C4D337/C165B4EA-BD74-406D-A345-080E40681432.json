@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "REGISTER"
+    "string": "REGISTRO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C165B4EA-BD74-406D-A345-080E40681432",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "142010E6-5D7B-48CC-8406-333BACBC0B08",
     "height": 18,
-    "width": 70,
-    "x": 93,
+    "width": 72,
+    "x": 92,
     "y": 13.5
   },
-  "glyphBounds": "{{0, 0}, {70, 18}}",
+  "glyphBounds": "{{0, 3}, {71, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "REGISTER",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

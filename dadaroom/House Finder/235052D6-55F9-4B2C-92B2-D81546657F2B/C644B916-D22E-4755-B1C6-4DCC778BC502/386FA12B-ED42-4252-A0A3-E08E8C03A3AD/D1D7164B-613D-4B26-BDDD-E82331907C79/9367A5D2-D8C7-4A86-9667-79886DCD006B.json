@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Mo, 10"
+    "string": "Tú, 10"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9367A5D2-D8C7-4A86-9667-79886DCD006B",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 37,
-    "x": 703,
+    "width": 33,
+    "x": 721,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {37, 14}}",
+  "glyphBounds": "{{0, 2}, {32, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Mo, 10",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

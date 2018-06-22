@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 16,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "How does it work"
+    "string": "Como funciona"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "472B19A9-6940-4DEC-BDF2-F0C0A82E1E66",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "0C8F06B0-FA5B-455F-8CC3-9304121CAA0A",
     "height": 42,
-    "width": 273,
-    "x": 92.5,
+    "width": 242,
+    "x": 177,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {273, 42}}",
+  "glyphBounds": "{{2, 5}, {238, 29}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "How does it work",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

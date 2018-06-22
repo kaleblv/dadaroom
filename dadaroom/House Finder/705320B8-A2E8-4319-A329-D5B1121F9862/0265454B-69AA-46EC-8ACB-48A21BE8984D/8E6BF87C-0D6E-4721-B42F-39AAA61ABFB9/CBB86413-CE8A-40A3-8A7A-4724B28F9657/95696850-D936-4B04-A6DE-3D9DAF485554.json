@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 2,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "We"
+    "string": "Nosotros"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "95696850-D936-4B04-A6DE-3D9DAF485554",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 17,
-    "x": 113.9571428571417,
+    "width": 49,
+    "x": 97.9571428571417,
     "y": 7.5
   },
-  "glyphBounds": "{{0, 0}, {17, 14}}",
+  "glyphBounds": "{{1, 2}, {47, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "We",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

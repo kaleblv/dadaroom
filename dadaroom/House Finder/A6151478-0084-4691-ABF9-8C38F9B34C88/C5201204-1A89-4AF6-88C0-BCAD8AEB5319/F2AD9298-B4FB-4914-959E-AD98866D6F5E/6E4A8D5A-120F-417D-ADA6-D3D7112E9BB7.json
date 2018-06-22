@@ -27,11 +27,11 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 35,
+        "length": 33,
         "location": 0
       }
     ],
-    "string": "Design and development\nby Rondesign"
+    "string": "Diseño y desarrollo por Rondesign"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6E4A8D5A-120F-417D-ADA6-D3D7112E9BB7",
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 130,
+    "height": 16,
+    "width": 179,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {130, 32}}",
+  "glyphBounds": "{{1, 2}, {177, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 1,
   "name": "Design and developme",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

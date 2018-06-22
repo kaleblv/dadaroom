@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Toiletries"
+    "string": "Artículos de aseo"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7ADD39A8-52B4-4337-AED7-0FF2DFA5F5C1",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "6B1280BA-A722-47FB-9188-882FB3E5FBA2",
     "height": 14,
-    "width": 48,
+    "width": 91,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {48, 14}}",
+  "glyphBounds": "{{0, 2}, {91, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Toiletries",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

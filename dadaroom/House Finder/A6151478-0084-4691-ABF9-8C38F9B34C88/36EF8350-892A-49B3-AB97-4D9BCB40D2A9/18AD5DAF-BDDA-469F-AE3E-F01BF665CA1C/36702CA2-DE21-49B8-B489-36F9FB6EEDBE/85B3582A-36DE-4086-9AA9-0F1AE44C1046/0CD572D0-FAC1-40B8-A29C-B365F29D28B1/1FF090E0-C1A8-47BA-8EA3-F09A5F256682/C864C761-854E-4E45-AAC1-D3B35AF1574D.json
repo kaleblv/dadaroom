@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 2,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "TV"
+    "string": "televisión"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C864C761-854E-4E45-AAC1-D3B35AF1574D",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 15,
+    "width": 50,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {15, 14}}",
+  "glyphBounds": "{{0, 2}, {49, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "TV",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

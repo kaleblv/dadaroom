@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 19,
+        "length": 35,
         "location": 0
       }
     ],
-    "string": "Request a call back"
+    "string": "Solicitar una devolución de llamada"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4D0C5238-97B2-4B27-B19E-AD88FF73147F",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 123,
-    "x": 65,
+    "width": 224,
+    "x": 14.5,
     "y": 15
   },
-  "glyphBounds": "{{0, 0}, {123, 16}}",
+  "glyphBounds": "{{0, 2}, {223, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Request a call back",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

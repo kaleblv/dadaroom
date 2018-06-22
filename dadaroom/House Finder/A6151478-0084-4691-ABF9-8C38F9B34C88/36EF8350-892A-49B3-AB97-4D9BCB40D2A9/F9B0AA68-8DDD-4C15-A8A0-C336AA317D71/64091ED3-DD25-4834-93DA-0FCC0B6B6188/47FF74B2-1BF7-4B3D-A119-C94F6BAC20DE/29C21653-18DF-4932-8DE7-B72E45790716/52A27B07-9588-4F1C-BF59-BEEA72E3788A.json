@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "Baby products"
+    "string": "Productos para bebés"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "52A27B07-9588-4F1C-BF59-BEEA72E3788A",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 76,
+    "width": 115,
     "x": 23,
     "y": 2
   },
-  "glyphBounds": "{{0, 0}, {76, 14}}",
+  "glyphBounds": "{{1, 2}, {114, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Baby products",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

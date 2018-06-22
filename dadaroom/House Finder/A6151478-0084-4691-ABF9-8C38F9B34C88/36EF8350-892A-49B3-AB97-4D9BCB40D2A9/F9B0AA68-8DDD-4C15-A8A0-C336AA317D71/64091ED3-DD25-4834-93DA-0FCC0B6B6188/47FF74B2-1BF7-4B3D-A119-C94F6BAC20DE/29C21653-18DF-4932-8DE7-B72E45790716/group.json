@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 111,
+    "width": 138,
     "x": 213.3014169003291,
     "y": 0.306239464382088
   },
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

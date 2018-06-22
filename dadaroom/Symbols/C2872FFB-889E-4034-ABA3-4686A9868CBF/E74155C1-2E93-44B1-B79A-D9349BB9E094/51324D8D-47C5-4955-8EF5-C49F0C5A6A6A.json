@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 41,
+        "length": 38,
         "location": 0
       }
     ],
-    "string": "1 – 18 of more than 1000 offers in Moscow"
+    "string": "1 - 18 de más de 1000 ofertas en Moscú"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "51324D8D-47C5-4955-8EF5-C49F0C5A6A6A",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 266,
-    "x": 642.5,
+    "width": 247,
+    "x": 661,
     "y": 29
   },
-  "glyphBounds": "{{0, 0}, {266, 16}}",
+  "glyphBounds": "{{1, 2}, {245, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

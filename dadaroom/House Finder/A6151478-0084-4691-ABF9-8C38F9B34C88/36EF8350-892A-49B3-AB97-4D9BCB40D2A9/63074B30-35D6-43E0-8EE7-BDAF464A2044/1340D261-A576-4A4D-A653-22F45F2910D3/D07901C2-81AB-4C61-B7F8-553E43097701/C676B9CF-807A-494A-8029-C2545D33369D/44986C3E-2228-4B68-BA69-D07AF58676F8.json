@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Photos"
+    "string": "Fotos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "44986C3E-2228-4B68-BA69-D07AF58676F8",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 45,
-    "x": 32.5,
+    "width": 36,
+    "x": 37,
     "y": 16
   },
-  "glyphBounds": "{{0, 0}, {45, 16}}",
+  "glyphBounds": "{{0, 3}, {35, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Photos",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

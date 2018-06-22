@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 46,
+        "length": 56,
         "location": 0
       }
     ],
-    "string": "Wednesday October 29 - Sunday November 4, 2014"
+    "string": "Miércoles 29 de octubre - domingo 4 de noviembre de 2014"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "AE1C8427-E752-4010-BF3B-9079C8531CE9",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "213A335F-A073-4EE9-A425-3D56CB15A391",
     "height": 14,
-    "width": 272,
+    "width": 316,
     "x": 278,
     "y": 20.5
   },
-  "glyphBounds": "{{0, 0}, {272, 14}}",
+  "glyphBounds": "{{0, 2}, {316, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Wednesday October 29",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

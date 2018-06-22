@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "House"
+    "string": "Casa"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "26D37BF3-B60B-496C-9B55-031866B18E5C",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "0E25F7F7-E50D-419E-B97E-20034267860E",
     "height": 16,
-    "width": 40,
-    "x": 57,
+    "width": 32,
+    "x": 61,
     "y": 49
   },
-  "glyphBounds": "{{0, 0}, {40, 16}}",
+  "glyphBounds": "{{0, 2}, {31, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "House",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

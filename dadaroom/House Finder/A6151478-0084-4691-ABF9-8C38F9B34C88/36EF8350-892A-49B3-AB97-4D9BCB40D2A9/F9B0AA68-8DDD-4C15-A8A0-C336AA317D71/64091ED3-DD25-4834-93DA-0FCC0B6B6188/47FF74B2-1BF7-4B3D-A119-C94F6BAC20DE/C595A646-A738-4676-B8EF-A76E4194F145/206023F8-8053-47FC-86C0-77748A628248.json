@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Health"
+    "string": "Salud"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "206023F8-8053-47FC-86C0-77748A628248",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 35,
+    "width": 30,
     "x": 24,
     "y": 2
   },
-  "glyphBounds": "{{0, 0}, {35, 14}}",
+  "glyphBounds": "{{0, 2}, {29, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Health",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

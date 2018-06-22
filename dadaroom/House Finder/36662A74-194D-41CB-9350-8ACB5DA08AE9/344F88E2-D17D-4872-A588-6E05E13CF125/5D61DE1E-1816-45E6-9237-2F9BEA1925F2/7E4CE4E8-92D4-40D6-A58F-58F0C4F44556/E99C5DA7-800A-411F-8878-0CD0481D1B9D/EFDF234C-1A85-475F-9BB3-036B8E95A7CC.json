@@ -28,11 +28,11 @@
             "minimumLineHeight": 14
           }
         },
-        "length": 9,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "CHECK OUT"
+    "string": "REVISA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "EFDF234C-1A85-475F-9BB3-036B8E95A7CC",
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "55B94296-1039-4D66-815F-9AD7B07418B7",
     "height": 14,
-    "width": 54,
+    "width": 34,
     "x": 42,
     "y": 12
   },
-  "glyphBounds": "{{0, 0}, {54, 14}}",
+  "glyphBounds": "{{0, 1}, {33, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -64,7 +64,7 @@
   "lineSpacingBehaviour": 1,
   "name": "CHECK OUT",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

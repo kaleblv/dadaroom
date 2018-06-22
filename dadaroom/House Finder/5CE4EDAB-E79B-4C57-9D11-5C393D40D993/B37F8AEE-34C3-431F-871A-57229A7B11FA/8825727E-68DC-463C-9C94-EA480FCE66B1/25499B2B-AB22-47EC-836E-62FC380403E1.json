@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 19,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Rent your apartment"
+    "string": "Alquile su departamento"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "25499B2B-AB22-47EC-836E-62FC380403E1",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "D7F35954-F550-4D1C-8FC4-A45CCC2AE2F6",
     "height": 42,
-    "width": 327,
-    "x": 142.5,
+    "width": 392,
+    "x": 90,
     "y": 0
   },
-  "glyphBounds": "{{-4, -3}, {335, 50}}",
+  "glyphBounds": "{{0, 6}, {390, 35}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Rent your apartment",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Guests"
+    "string": "Invitados"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B8ACC73C-D2B1-40E3-829A-4ED8B627A38B",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "738686DD-73FB-457A-B97D-689879B1E635",
     "height": 14,
-    "width": 38,
+    "width": 49,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {38, 14}}",
+  "glyphBounds": "{{1, 2}, {48, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Guests",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

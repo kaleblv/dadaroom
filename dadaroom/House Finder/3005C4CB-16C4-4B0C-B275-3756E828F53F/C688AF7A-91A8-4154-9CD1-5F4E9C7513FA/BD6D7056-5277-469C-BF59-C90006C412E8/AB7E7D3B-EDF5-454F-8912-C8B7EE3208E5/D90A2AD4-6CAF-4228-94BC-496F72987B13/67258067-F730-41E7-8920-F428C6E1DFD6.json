@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Reserve"
+    "string": "reserva"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "67258067-F730-41E7-8920-F428C6E1DFD6",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "E8601F27-D1FD-44FE-B94B-D38E284DF3E5",
     "height": 16,
-    "width": 52,
-    "x": 100.5,
+    "width": 48,
+    "x": 102.5,
     "y": 15
   },
-  "glyphBounds": "{{0, 0}, {52, 16}}",
+  "glyphBounds": "{{0, 5}, {47, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Reserve",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

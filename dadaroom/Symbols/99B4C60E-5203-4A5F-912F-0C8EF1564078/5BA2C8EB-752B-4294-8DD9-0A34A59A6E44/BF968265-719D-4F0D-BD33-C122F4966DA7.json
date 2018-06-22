@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "New search"
+    "string": "Nueva búsqueda"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BF968265-719D-4F0D-BD33-C122F4966DA7",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 73.00000000000001,
-    "x": 26.25,
+    "width": 103,
+    "x": 11.25000000000001,
     "y": 14
   },
-  "glyphBounds": "{{0, 0}, {73.000000000000014, 16}}",
+  "glyphBounds": "{{1, 2}, {101, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

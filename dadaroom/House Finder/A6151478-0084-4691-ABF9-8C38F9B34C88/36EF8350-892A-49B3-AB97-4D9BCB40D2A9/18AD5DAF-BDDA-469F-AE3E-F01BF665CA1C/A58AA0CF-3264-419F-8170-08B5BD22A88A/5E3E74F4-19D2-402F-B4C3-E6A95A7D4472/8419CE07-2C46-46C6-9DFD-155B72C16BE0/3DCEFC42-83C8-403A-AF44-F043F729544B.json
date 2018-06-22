@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 3,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Map"
+    "string": "Mapa"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3DCEFC42-83C8-403A-AF44-F043F729544B",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 28,
-    "x": 36,
+    "width": 36,
+    "x": 32,
     "y": 16
   },
-  "glyphBounds": "{{0, 0}, {28, 16}}",
+  "glyphBounds": "{{0, 3}, {35, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Map",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

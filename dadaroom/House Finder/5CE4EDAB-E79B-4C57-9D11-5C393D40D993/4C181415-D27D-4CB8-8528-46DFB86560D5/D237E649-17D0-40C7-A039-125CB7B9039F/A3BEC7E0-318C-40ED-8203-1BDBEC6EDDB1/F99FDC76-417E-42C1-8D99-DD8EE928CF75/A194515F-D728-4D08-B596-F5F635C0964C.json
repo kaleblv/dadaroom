@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Other"
+    "string": "Otro"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A194515F-D728-4D08-B596-F5F635C0964C",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "31F92DD0-E7BE-4C94-8ABA-1485C3CE9585",
     "height": 16,
-    "width": 34,
-    "x": 61,
+    "width": 27,
+    "x": 64.5,
     "y": 49
   },
-  "glyphBounds": "{{0, 0}, {34, 16}}",
+  "glyphBounds": "{{0, 2}, {26, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Other",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

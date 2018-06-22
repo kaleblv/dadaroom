@@ -27,11 +27,11 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 20,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Payment\nby services:"
+    "string": "Pago por servicios:"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DD3CFC03-4EC5-416A-808E-169CB165FDE2",
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 62,
+    "height": 16,
+    "width": 100,
     "x": 0,
     "y": 0.5
   },
-  "glyphBounds": "{{0, 0}, {62, 32}}",
+  "glyphBounds": "{{1, 2}, {98, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

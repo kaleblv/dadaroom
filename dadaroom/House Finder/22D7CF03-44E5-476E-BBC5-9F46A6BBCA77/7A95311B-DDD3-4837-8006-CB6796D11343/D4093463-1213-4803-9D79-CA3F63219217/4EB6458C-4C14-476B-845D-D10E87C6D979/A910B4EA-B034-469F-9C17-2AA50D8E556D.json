@@ -27,11 +27,11 @@
             "minimumLineHeight": 18
           }
         },
-        "length": 52,
+        "length": 68,
         "location": 0
       }
     ],
-    "string": "With smart search find suitable home for themselves."
+    "string": "Con la búsqueda inteligente, encuentre un hogar adecuado para ellos."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A910B4EA-B034-469F-9C17-2AA50D8E556D",
@@ -49,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "34C69983-6AFF-4698-9802-FEBAF920BAA5",
-    "height": 36,
+    "height": 54,
     "width": 180,
     "x": 73,
     "y": 31
   },
-  "glyphBounds": "{{0, 0}, {180, 36}}",
+  "glyphBounds": "{{0, 2}, {170, 49}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

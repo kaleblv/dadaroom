@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Area"
+    "string": "Zona"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9121246F-45A7-4EE4-A4B3-E4AF88197512",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 29,
-    "x": 22,
+    "width": 32,
+    "x": 20.5,
     "y": 12.5
   },
-  "glyphBounds": "{{0, 0}, {29, 16}}",
+  "glyphBounds": "{{0, 3}, {31, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Area",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

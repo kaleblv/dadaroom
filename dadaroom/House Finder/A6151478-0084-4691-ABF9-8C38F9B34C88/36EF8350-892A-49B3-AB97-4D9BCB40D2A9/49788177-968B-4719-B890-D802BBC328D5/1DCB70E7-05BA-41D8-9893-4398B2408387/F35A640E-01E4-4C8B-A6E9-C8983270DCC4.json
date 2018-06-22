@@ -27,11 +27,11 @@
             "minimumLineHeight": 20
           }
         },
-        "length": 67,
+        "length": 59,
         "location": 0
       }
     ],
-    "string": "So strongly and metaphysically did I conceive of my situation then."
+    "string": "Tan fuerte y metafísicamente concebí mi situación entonces."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F35A640E-01E4-4C8B-A6E9-C8983270DCC4",
@@ -49,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5DDBD8E6-1E48-4165-9517-255D6072B7AA",
-    "height": 60,
+    "height": 40,
     "width": 194,
     "x": 411,
     "y": 220.5
   },
-  "glyphBounds": "{{0, 0}, {194, 60}}",
+  "glyphBounds": "{{0, 2}, {189, 32}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

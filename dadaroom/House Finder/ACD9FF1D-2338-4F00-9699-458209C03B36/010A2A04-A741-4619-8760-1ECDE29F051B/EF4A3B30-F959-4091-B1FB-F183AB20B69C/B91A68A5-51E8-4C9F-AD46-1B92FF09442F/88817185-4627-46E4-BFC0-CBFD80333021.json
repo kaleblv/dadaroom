@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Flats for a day in Moscow"
+    "string": "Pisos por un día en Moscú"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "88817185-4627-46E4-BFC0-CBFD80333021",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 297,
+    "width": 306,
     "x": 0,
     "y": 21
   },
-  "glyphBounds": "{{0, 0}, {297, 30}}",
+  "glyphBounds": "{{2, 4}, {302, 26}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Flats for a day in M",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

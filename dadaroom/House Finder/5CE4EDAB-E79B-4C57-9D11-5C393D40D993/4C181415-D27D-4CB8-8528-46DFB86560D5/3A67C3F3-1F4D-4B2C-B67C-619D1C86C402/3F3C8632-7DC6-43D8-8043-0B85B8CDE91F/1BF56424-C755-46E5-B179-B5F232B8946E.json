@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 62,
+        "length": 83,
         "location": 0
       }
     ],
-    "string": "Rent a unique home on House Finder worldwide, with any budget."
+    "string": "Alquile una casa única en House Finder en todo el mundo, con cualquier presupuesto."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1BF56424-C755-46E5-B179-B5F232B8946E",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 457,
-    "x": 281.5,
+    "width": 596,
+    "x": 212,
     "y": 88
   },
-  "glyphBounds": "{{0, 0}, {457, 19}}",
+  "glyphBounds": "{{0, 3}, {595, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Rent a unique home o",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

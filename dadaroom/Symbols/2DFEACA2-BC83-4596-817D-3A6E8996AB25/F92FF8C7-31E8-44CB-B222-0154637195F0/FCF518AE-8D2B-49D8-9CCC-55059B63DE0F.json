@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 4,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "CITY"
+    "string": "CIUDAD"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FCF518AE-8D2B-49D8-9CCC-55059B63DE0F",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 26,
-    "x": 37,
+    "width": 42,
+    "x": 21,
     "y": 22
   },
-  "glyphBounds": "{{0, 0}, {26, 14}}",
+  "glyphBounds": "{{0, 2}, {42, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

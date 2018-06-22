@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Hide examples"
+    "string": "Ocultar ejemplos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BF99BF4C-C7BC-4EA8-A9FF-6A5632459E2E",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "D97986B9-09E1-42A4-8BF0-737CA8F66CF9",
     "height": 14,
-    "width": 78,
+    "width": 89,
     "x": 23.5,
     "y": 6.5
   },
-  "glyphBounds": "{{0, 0}, {78, 14}}",
+  "glyphBounds": "{{0, 2}, {89, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Hide examples",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

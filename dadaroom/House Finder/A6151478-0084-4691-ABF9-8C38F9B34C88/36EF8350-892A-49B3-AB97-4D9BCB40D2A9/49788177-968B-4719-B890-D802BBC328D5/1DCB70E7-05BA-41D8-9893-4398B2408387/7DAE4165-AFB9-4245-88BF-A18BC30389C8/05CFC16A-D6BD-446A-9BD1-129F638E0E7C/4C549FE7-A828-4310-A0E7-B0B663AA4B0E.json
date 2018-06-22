@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Sa"
+    "string": "su"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4C549FE7-A828-4310-A0E7-B0B663AA4B0E",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 14,
-    "x": 265.0428571428583,
+    "width": 13,
+    "x": 265.5428571428583,
     "y": 7.5
   },
-  "glyphBounds": "{{0, 0}, {14, 14}}",
+  "glyphBounds": "{{0, 4}, {12, 8}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Sa",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

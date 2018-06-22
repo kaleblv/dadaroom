@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "do_objectID": "07CEB6C4-2D3B-4350-B7FD-CA5DCD096901",
     "height": 48,
-    "width": 54,
-    "x": 223,
+    "width": 39,
+    "x": 231,
     "y": 15
   },
   "hasClickThrough": false,
@@ -24,7 +24,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",

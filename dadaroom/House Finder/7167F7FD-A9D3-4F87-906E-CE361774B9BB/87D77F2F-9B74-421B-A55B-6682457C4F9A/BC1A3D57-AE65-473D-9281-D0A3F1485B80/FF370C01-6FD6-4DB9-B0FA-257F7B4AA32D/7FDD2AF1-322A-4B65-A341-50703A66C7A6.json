@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 90,
+        "length": 97,
         "location": 0
       }
     ],
-    "string": "Start a log of employment (+ 20%)\n\nActivate automatic confirmation of new bookings (+ 25%)"
+    "string": "Inicie un registro de empleo (+ 20%) Active la confirmación automática de nuevas reservas (+ 25%)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7FDD2AF1-322A-4B65-A341-50703A66C7A6",
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EC231CBB-239D-4A78-A85D-88C1F43CAF9A",
-    "height": 45,
-    "width": 331,
+    "height": 15,
+    "width": 568,
     "x": 30,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {331, 45}}",
+  "glyphBounds": "{{1, 1}, {566, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Start a log of emplo",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

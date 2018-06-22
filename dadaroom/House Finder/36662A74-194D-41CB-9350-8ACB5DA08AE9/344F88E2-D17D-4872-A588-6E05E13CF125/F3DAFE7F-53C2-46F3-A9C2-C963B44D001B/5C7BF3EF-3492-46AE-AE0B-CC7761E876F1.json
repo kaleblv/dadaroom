@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 53,
+        "length": 51,
         "location": 0
       }
     ],
-    "string": "There will be a list of completed and canceled orders"
+    "string": "Habrá una lista de pedidos completados y cancelados"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5C7BF3EF-3492-46AE-AE0B-CC7761E876F1",
@@ -52,7 +52,7 @@
     "x": 22,
     "y": 60
   },
-  "glyphBounds": "{{0, 0}, {260, 30}}",
+  "glyphBounds": "{{0, 2}, {242, 26}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

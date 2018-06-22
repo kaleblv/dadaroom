@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 14,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "Full apartment"
+    "string": "Apartamento completo"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A4C4112E-5972-4BE0-8626-D2995FC83328",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 90,
-    "x": 61.5,
+    "width": 142,
+    "x": 35.5,
     "y": 40
   },
-  "glyphBounds": "{{0, 0}, {90, 16}}",
+  "glyphBounds": "{{0, 2}, {142, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Full apartment",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

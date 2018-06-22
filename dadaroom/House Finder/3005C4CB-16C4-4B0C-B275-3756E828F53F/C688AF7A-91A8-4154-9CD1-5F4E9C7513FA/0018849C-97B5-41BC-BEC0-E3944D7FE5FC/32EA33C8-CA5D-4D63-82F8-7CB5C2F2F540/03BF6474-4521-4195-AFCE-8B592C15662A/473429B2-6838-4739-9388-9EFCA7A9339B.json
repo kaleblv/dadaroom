@@ -26,37 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 11,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2392156863,
-            "green": 0.2196078431,
-            "red": 0.2078431373
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Light",
-              "size": 14
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2,
-            "allowsDefaultTighteningForTruncation": 0
-          }
-        },
-        "length": 4,
-        "location": 7
       }
     ],
-    "string": "Reviews (2)"
+    "string": "Reseñas (2)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "473429B2-6838-4739-9388-9EFCA7A9339B",
@@ -75,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "E2AAD33E-DB45-4296-9AB5-AA520B5DAAC2",
     "height": 16,
-    "width": 73,
-    "x": 23.5,
+    "width": 76,
+    "x": 22,
     "y": 16
   },
-  "glyphBounds": "{{0, 0}, {73, 16}}",
+  "glyphBounds": "{{0, 1}, {75, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -88,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Reviews (2)",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

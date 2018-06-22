@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "For more\ninformation"
+    "string": "Para más información"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4E001F92-4A56-4C7E-98F7-0729E6F24F72",
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 61,
+    "height": 16,
+    "width": 117,
     "x": 0,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {61, 32}}",
+  "glyphBounds": "{{1, 1}, {115, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

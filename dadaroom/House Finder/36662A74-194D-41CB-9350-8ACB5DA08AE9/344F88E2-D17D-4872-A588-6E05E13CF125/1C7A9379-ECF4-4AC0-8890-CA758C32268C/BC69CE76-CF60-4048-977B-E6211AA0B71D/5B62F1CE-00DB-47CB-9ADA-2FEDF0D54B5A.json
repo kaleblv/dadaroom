@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Discount"
+    "string": "Descuento"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5B62F1CE-00DB-47CB-9ADA-2FEDF0D54B5A",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "33C73131-151A-425A-B154-F35BCE47043C",
     "height": 15,
-    "width": 51,
+    "width": 61,
     "x": 12,
     "y": 58
   },
-  "glyphBounds": "{{0, 0}, {51, 15}}",
+  "glyphBounds": "{{1, 2}, {60, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Discount",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

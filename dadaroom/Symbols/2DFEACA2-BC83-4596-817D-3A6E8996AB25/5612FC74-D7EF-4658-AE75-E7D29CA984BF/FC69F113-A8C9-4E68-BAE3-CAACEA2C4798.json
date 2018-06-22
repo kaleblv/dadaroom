@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "REGISTER"
+    "string": "REGISTRO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FC69F113-A8C9-4E68-BAE3-CAACEA2C4798",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 55,
+    "width": 56,
     "x": 0,
     "y": 17
   },
-  "glyphBounds": "{{0, 0}, {55, 14}}",
+  "glyphBounds": "{{1, 2}, {55, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

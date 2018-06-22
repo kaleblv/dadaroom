@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Parking"
+    "string": "Estacionamiento"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "98C3D2F9-3EFB-41FD-85B8-61D80B4159A2",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "522F99CB-3361-4490-8CDF-647E6964316A",
     "height": 14,
-    "width": 40,
+    "width": 89,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {40, 14}}",
+  "glyphBounds": "{{1, 2}, {87, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Parking",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

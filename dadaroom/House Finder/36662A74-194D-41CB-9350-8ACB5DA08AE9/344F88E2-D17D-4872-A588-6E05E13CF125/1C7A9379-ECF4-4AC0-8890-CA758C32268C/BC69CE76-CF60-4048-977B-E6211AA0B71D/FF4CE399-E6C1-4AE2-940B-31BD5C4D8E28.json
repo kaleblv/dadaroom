@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 17,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Comission service"
+    "string": "Servicio de la comisión"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FF4CE399-E6C1-4AE2-940B-31BD5C4D8E28",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "87ACC7BF-BDC3-47E6-A1AB-2F7AD82C44DE",
     "height": 15,
-    "width": 105,
+    "width": 131,
     "x": 12,
     "y": 85
   },
-  "glyphBounds": "{{0, 0}, {105, 15}}",
+  "glyphBounds": "{{0, 2}, {130, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Comission service",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

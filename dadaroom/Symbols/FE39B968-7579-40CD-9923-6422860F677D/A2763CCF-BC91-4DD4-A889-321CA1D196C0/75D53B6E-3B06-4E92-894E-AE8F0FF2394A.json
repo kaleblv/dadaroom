@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "SEARCH"
+    "string": "BUSCAR"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "75D53B6E-3B06-4E92-894E-AE8F0FF2394A",
@@ -49,11 +49,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 54,
-    "x": 23,
+    "width": 55,
+    "x": 22.5,
     "y": 19
   },
-  "glyphBounds": "{{0, 0}, {54, 16}}",
+  "glyphBounds": "{{0, 2}, {54, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

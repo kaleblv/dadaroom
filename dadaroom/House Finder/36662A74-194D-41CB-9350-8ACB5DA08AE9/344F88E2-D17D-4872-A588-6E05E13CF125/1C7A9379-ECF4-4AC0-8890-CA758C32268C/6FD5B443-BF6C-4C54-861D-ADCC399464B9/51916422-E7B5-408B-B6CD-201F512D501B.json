@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 31,
+        "length": 41,
         "location": 0
       }
     ],
-    "string": "$ 700 paid by Visa July 6, 2014"
+    "string": "$ 700 pagados por Visa 6 de julio de 2014"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "51916422-E7B5-408B-B6CD-201F512D501B",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "0AFF75E9-2770-4034-943F-0EE1A014E10F",
     "height": 15,
-    "width": 175,
-    "x": 205,
+    "width": 238,
+    "x": 173.5,
     "y": 17
   },
-  "glyphBounds": "{{0, 0}, {175, 15}}",
+  "glyphBounds": "{{0, 1}, {237, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "$ 700 paid by Visa J",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "We, 5"
+    "string": "Nosotros, 5"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "965C8B37-DD94-467D-BA96-5887AB7F00CF",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 29,
-    "x": 412,
+    "width": 62,
+    "x": 411.5,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {29, 14}}",
+  "glyphBounds": "{{0, 2}, {61, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "We, 5",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

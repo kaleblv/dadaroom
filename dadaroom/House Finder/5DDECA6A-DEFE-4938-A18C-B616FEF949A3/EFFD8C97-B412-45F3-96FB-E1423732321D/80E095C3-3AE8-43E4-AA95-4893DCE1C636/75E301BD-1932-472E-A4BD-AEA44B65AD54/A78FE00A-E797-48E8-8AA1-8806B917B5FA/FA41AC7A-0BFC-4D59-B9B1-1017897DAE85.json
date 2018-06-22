@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Dwelling type"
+    "string": "Tipo de vivienda"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FA41AC7A-0BFC-4D59-B9B1-1017897DAE85",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 82,
+    "width": 99,
     "x": 0,
     "y": 20.7666015625
   },
-  "glyphBounds": "{{0, 0}, {82, 16}}",
+  "glyphBounds": "{{0, 2}, {98, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Dwelling type",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

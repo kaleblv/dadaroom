@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "Today"
+    "string": "Hoy"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D3FD1A1A-F94E-4A1E-B4FA-84C0427E03B9",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "D571ECB6-E1AA-44F6-B21E-259C0305EABC",
     "height": 14,
-    "width": 33,
+    "width": 21,
     "x": 7.5,
     "y": 6.5
   },
-  "glyphBounds": "{{0, 0}, {33, 14}}",
+  "glyphBounds": "{{1, 2}, {20, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Today",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

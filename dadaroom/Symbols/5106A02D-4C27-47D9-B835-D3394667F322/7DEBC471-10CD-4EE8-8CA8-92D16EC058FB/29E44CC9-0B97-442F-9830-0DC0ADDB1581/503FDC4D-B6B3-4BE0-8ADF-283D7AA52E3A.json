@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Partnership"
+    "string": "Asociación"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "503FDC4D-B6B3-4BE0-8ADF-283D7AA52E3A",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 61,
+    "width": 58,
     "x": 28,
     "y": 0.5
   },
-  "glyphBounds": "{{0, 0}, {61, 14}}",
+  "glyphBounds": "{{0, 2}, {57, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

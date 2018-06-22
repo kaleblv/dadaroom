@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 19,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Conveniences inside"
+    "string": "Comodidades dentro"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "AC59D171-312E-4B77-85E4-AB7E883694D6",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "E2CBF677-1D20-4D24-BBFE-9700D13AF4AA",
     "height": 16,
-    "width": 126,
-    "x": 22.5,
+    "width": 129,
+    "x": 21,
     "y": 18
   },
-  "glyphBounds": "{{0, 0}, {126, 16}}",
+  "glyphBounds": "{{0, 2}, {128, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Conveniences inside",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

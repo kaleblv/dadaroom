@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 9,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "June 2013"
+    "string": "Junio ​​del 2013"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4A7D62A2-6235-4983-A31E-FA114B333434",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 56,
-    "x": 454,
+    "width": 78,
+    "x": 432,
     "y": 17
   },
-  "glyphBounds": "{{0, 0}, {56, 14}}",
+  "glyphBounds": "{{0, 2}, {77, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "June 2013",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

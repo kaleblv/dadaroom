@@ -28,11 +28,11 @@
             "minimumLineHeight": 14
           }
         },
-        "length": 22,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "AUTOMATIC\nCONFIRMATION"
+    "string": "CONFIRMACIÓN AUTOMÁTICA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7E8EC790-04EB-4FD4-AEC7-F6A68A2BC896",
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 28,
-    "width": 72,
-    "x": 14,
+    "height": 14,
+    "width": 137,
+    "x": 0.5,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {72, 28}}",
+  "glyphBounds": "{{0, -1}, {137, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -63,7 +63,7 @@
   "lineSpacingBehaviour": 1,
   "name": "AUTOMATIC",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

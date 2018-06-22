@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 110,
+        "length": 109,
         "location": 0
       }
     ],
-    "string": "So strongly and metaphysically did I conceive of my situation then, that while earnestly watching his motions."
+    "string": "Tan fuerte y metafísicamente concebí mi situación entonces, que mientras miraba sus movimientos con seriedad."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "AFF6A868-CDE7-46D2-9604-6C85C81BA73B",
@@ -51,7 +51,7 @@
     "x": 0,
     "y": 32
   },
-  "glyphBounds": "{{0, 0}, {489, 32}}",
+  "glyphBounds": "{{0, 2}, {455, 28}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

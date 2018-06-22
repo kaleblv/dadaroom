@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "308 offers"
+    "string": "308 ofertas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E34EE49B-2F5B-4072-807C-B721842BAE88",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "868A09E4-7402-4D7C-9FA5-EDF6D9076B93",
     "height": 19,
-    "width": 72,
+    "width": 81,
     "x": 149,
     "y": 7.5
   },
-  "glyphBounds": "{{0, 0}, {72, 19}}",
+  "glyphBounds": "{{0, 2}, {80, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "308 offers",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

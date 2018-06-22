@@ -28,11 +28,11 @@
             "minimumLineHeight": 14
           }
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "IN PAY"
+    "string": "EN PAGO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2A51AB74-CC2C-4AB3-A3FE-EE77D49877DD",
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "C87030CA-DB25-4C5E-A8A9-BCA4DF0D931A",
     "height": 14,
-    "width": 30,
+    "width": 41,
     "x": 42,
     "y": 12
   },
-  "glyphBounds": "{{0, 0}, {30, 14}}",
+  "glyphBounds": "{{0, 1}, {40, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -64,7 +64,7 @@
   "lineSpacingBehaviour": 1,
   "name": "IN PAY",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

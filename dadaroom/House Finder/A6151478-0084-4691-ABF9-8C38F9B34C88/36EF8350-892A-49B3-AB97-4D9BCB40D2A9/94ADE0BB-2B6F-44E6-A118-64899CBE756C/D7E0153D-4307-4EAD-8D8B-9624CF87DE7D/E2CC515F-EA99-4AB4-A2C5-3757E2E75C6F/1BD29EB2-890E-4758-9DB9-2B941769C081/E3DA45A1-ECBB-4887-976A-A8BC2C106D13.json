@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 9,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "for a day"
+    "string": "por un día"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E3DA45A1-ECBB-4887-976A-A8BC2C106D13",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 55,
+    "width": 62,
     "x": 12,
     "y": 9.5
   },
-  "glyphBounds": "{{0, 0}, {55, 16}}",
+  "glyphBounds": "{{0, 2}, {62, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "for a day",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

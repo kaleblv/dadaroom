@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 1191,
     "width": 640,
-    "x": 2010,
+    "x": 2017,
     "y": 158
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",

@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Conditioner"
+    "string": "Acondicionador"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "59C7B2F6-7FFC-4609-AE69-47FFCED58DC9",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "8A2FFE7B-8932-44F9-B86C-9DB04D322FD5",
     "height": 14,
-    "width": 61,
+    "width": 83,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {61, 14}}",
+  "glyphBounds": "{{0, 2}, {83, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Conditioner",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 42,
+        "length": 40,
         "location": 0
       }
     ],
-    "string": "1 – 18 of more than 1000 offers in Siettle"
+    "string": "1 - 18 de más de 1000 ofertas en Siettle"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B40016B6-838C-413D-8993-A57892C41302",
@@ -52,7 +52,7 @@
     "x": 410,
     "y": 981
   },
-  "glyphBounds": "{{0, 0}, {154, 32}}",
+  "glyphBounds": "{{19, 2}, {135, 28}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

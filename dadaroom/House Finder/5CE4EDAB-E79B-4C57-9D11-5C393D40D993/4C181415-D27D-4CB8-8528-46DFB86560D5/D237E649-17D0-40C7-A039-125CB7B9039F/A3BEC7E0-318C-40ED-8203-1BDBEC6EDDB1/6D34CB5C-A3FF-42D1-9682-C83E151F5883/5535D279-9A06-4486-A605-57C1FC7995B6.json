@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Guest House"
+    "string": "Casa de huespedes"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5535D279-9A06-4486-A605-57C1FC7995B6",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 80,
-    "x": 51,
+    "width": 120,
+    "x": 31,
     "y": 49
   },
-  "glyphBounds": "{{0, 0}, {80, 16}}",
+  "glyphBounds": "{{0, 2}, {120, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Guest House",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

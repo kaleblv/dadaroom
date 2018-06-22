@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Footer"
+    "string": "Pie de página"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DB1F2DFF-83F3-4697-970B-63CF790A22DF",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "88891E8F-D31F-46AC-AA34-8617B923C3DB",
     "height": 42,
-    "width": 103,
+    "width": 212,
     "x": 35,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {103, 42}}",
+  "glyphBounds": "{{3, 6}, {206, 35}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Footer",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

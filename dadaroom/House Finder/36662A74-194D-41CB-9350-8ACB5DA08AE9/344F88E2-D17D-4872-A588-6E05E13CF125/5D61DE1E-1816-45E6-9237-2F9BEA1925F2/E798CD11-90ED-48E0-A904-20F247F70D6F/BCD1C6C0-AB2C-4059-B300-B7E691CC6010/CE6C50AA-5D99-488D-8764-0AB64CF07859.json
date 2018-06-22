@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "DISABLED"
+    "string": "DISCAPACITADO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "CE6C50AA-5D99-488D-8764-0AB64CF07859",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "65EF39B0-A6B7-4D43-ABFF-507FC3090AF3",
     "height": 11,
-    "width": 46,
-    "x": 27,
+    "width": 74,
+    "x": 13,
     "y": 13
   },
-  "glyphBounds": "{{0, 0}, {46, 11}}",
+  "glyphBounds": "{{0, 1}, {74, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "DISABLED",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

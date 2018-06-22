@@ -28,11 +28,11 @@
             "minimumLineHeight": 14
           }
         },
-        "length": 7,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "PAYMENT"
+    "string": "PAGO"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9F88B53A-3548-499F-94F1-0FD5762D12E8",
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "1CECF02C-4353-4799-85D7-5C564B806C15",
     "height": 14,
-    "width": 45,
-    "x": 27.5,
+    "width": 26,
+    "x": 37,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {45, 14}}",
+  "glyphBounds": "{{0, 1}, {25, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -64,7 +64,7 @@
   "lineSpacingBehaviour": 1,
   "name": "PAYMENT",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

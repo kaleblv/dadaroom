@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 25,
+        "length": 28,
         "location": 0
       }
     ],
-    "string": "The apartment is occupied"
+    "string": "El departamento esta ocupado"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E1ED3BF5-0787-4ED2-8444-D8150BBDD7CB",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 164,
+    "width": 189,
     "x": 30,
     "y": 62
   },
-  "glyphBounds": "{{0, 0}, {164, 16}}",
+  "glyphBounds": "{{1, 2}, {187, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "The apartment is occ",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

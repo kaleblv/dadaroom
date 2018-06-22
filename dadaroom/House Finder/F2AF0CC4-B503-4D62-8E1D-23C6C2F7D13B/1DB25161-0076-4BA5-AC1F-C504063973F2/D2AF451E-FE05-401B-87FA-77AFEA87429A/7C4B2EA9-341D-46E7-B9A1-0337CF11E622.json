@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 90,
+        "length": 110,
         "location": 0
       }
     ],
-    "string": "First steps\nAccount\nProfile\nMeeting guests\nTravel\nTrust and security\nTaxes\nRules\nCommunity"
+    "string": "Primeros pasos Perfil de la cuenta Huéspedes del viaje Viajes Confianza y seguridad Impuestos Reglas Comunidad"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7C4B2EA9-341D-46E7-B9A1-0337CF11E622",
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 324,
-    "width": 118,
+    "height": 36,
+    "width": 752,
     "x": 16,
     "y": 46
   },
-  "glyphBounds": "{{0, 0}, {118, 324}}",
+  "glyphBounds": "{{1, 2}, {749, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 1,
   "name": "First steps",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

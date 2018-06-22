@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 22,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "Apartments in downtown"
+    "string": "Apartamentos en el centro"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2DC3E8B3-5C84-46F0-A055-7EC7542FAAB2",
@@ -48,11 +48,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 155,
-    "x": 24,
+    "width": 163,
+    "x": 20,
     "y": 14
   },
-  "glyphBounds": "{{0, 0}, {155, 16}}",
+  "glyphBounds": "{{0, 2}, {162, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Description"
+    "string": "Descripción"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BE2DF90A-5885-4ADA-840C-35CCAB052DB4",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "3CC4521E-394A-46A7-A725-F0D006C45D70",
     "height": 16,
-    "width": 70,
-    "x": 25,
+    "width": 73,
+    "x": 23.5,
     "y": 18
   },
-  "glyphBounds": "{{0, 0}, {70, 16}}",
+  "glyphBounds": "{{1, 2}, {71, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Description",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

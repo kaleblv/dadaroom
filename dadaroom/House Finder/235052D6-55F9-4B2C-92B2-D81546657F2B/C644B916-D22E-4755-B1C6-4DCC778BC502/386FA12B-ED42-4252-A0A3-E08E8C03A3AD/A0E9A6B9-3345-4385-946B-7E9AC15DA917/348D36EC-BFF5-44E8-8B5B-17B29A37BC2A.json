@@ -28,11 +28,11 @@
             "minimumLineHeight": 17
           }
         },
-        "length": 30,
+        "length": 29,
         "location": 0
       }
     ],
-    "string": "Susanville, AZ, Caliangt \n8597"
+    "string": "Susanville, AZ, Caliangt 8597"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "348D36EC-BFF5-44E8-8B5B-17B29A37BC2A",
@@ -50,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "86ADF937-CA32-451F-A0A1-348E2B15258F",
-    "height": 34,
-    "width": 138,
+    "height": 17,
+    "width": 167,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {138, 34}}",
+  "glyphBounds": "{{0, 2}, {166, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -64,7 +64,7 @@
   "lineSpacingBehaviour": 1,
   "name": "Susanville, AZ, Cali",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

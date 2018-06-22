@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 9,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Show from"
+    "string": "Mostrar desde"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "41846B46-0FBC-438A-9AAE-CEDD0162121A",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "5FD90194-9E0E-4E8B-8CCD-20CD2FE860CA",
     "height": 14,
-    "width": 58,
+    "width": 77,
     "x": 23.5,
     "y": 6.5
   },
-  "glyphBounds": "{{0, 0}, {58, 14}}",
+  "glyphBounds": "{{1, 2}, {75, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Show from",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

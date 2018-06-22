@@ -28,11 +28,11 @@
             "minimumLineHeight": 14
           }
         },
-        "length": 7,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "HISTORY"
+    "string": "HISTORIA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "332CDE97-D07B-4580-A6AB-ED000D7B1776",
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "C9F58D61-3CEF-4A0C-9C08-1CDA391F929E",
     "height": 14,
-    "width": 41,
+    "width": 44,
     "x": 42,
     "y": 12
   },
-  "glyphBounds": "{{0, 0}, {41, 14}}",
+  "glyphBounds": "{{0, 1}, {44, 9}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -64,7 +64,7 @@
   "lineSpacingBehaviour": 1,
   "name": "HISTORY",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 37,
+        "length": 36,
         "location": 0
       }
     ],
-    "string": "Apartments in the Downtown of Siettle"
+    "string": "Apartamentos en el centro de Siettle"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F473C742-8648-47FE-9677-75EA8B079FB2",
@@ -49,11 +49,11 @@
     "constrainProportions": false,
     "do_objectID": "E6DDB1EC-8C94-48BE-9970-3228D5D559CD",
     "height": 42,
-    "width": 617,
-    "x": 0.5,
+    "width": 582,
+    "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{-4, -3}, {625, 50}}",
+  "glyphBounds": "{{0, 6}, {581, 35}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Apartments in the Do",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

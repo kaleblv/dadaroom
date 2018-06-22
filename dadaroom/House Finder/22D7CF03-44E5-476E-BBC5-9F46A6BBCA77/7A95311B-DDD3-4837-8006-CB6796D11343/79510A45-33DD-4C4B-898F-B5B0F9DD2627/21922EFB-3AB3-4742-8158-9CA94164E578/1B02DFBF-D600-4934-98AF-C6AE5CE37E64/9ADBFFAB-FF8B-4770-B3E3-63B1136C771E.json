@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 4,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Flat"
+    "string": "Plano"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9ADBFFAB-FF8B-4770-B3E3-63B1136C771E",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "8696F18B-9B5B-4A28-B125-0EA8AE65CB98",
     "height": 16,
-    "width": 24,
+    "width": 36,
     "x": 12,
     "y": 12.5
   },
-  "glyphBounds": "{{0, 0}, {24, 16}}",
+  "glyphBounds": "{{1, 2}, {34, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Flat",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 9,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "HOME TYPE"
+    "string": "TIPO DE CASA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "3F9419D9-397E-495F-86DA-928C38D08D45",
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "47099EFF-C843-4270-8BB8-8E63681D9375",
     "height": 16,
-    "width": 78,
-    "x": 39,
+    "width": 92,
+    "x": 25,
     "y": 34
   },
-  "glyphBounds": "{{0, 0}, {78, 16}}",
+  "glyphBounds": "{{0, 2}, {92, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -63,7 +63,7 @@
   "lineSpacingBehaviour": 0,
   "name": "HOME TYPE",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

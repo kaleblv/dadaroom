@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Flat in Taman"
+    "string": "Piso en Taman"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5A5C780D-B722-4441-AFE6-D2F4593383CB",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 97,
+    "width": 106,
     "x": 11,
     "y": 139
   },
-  "glyphBounds": "{{0, 0}, {97, 19}}",
+  "glyphBounds": "{{1, 3}, {104, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Flat in Taman",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

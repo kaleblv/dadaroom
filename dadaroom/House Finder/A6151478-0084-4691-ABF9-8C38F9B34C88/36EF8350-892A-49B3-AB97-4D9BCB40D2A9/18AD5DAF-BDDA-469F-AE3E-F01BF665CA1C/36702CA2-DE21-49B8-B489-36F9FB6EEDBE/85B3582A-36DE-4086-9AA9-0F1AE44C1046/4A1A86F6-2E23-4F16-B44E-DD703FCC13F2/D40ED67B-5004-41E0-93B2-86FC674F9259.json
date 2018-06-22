@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Presence"
+    "string": "Presencia"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D40ED67B-5004-41E0-93B2-86FC674F9259",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "F9659DCB-CA17-41F2-93BC-9CF29F9C632B",
     "height": 18,
-    "width": 61,
+    "width": 65,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {61, 18}}",
+  "glyphBounds": "{{1, 3}, {63, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Presence",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

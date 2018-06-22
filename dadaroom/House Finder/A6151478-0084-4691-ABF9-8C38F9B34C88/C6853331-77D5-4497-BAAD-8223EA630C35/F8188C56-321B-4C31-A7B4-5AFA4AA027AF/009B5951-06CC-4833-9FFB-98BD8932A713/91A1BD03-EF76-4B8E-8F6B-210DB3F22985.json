@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "MOSCOW"
+    "string": "MOSCÚ"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "91A1BD03-EF76-4B8E-8F6B-210DB3F22985",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 53,
+    "width": 42,
     "x": 104,
     "y": 22
   },
-  "glyphBounds": "{{0, 0}, {53, 14}}",
+  "glyphBounds": "{{1, 0}, {40, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "MOSCOW",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

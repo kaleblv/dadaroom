@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 4,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "RENT"
+    "string": "ALQUILAR"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5A5E57A4-47A8-4A64-A6F8-70ECA4FF7C88",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 33,
+    "width": 61,
     "x": 20,
     "y": 19.5
   },
-  "glyphBounds": "{{0, 0}, {33, 15}}",
+  "glyphBounds": "{{0, 2}, {61, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "RENT",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

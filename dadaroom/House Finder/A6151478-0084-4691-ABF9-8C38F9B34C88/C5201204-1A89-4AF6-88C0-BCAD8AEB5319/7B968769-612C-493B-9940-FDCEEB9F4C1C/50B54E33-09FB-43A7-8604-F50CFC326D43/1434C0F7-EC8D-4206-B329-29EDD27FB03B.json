@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Offers"
+    "string": "Ofertas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1434C0F7-EC8D-4206-B329-29EDD27FB03B",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 33,
+    "width": 39,
     "x": 28,
     "y": 0.5
   },
-  "glyphBounds": "{{0, 0}, {33, 14}}",
+  "glyphBounds": "{{0, 1}, {39, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Offers",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

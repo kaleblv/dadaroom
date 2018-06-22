@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "SEARCH"
+    "string": "BUSCAR"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2E8832D5-9CDB-4ACE-921A-206C415302F1",
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "9AAB2560-D422-4352-8E7A-67EEEDF7C888",
     "height": 16,
-    "width": 54,
-    "x": 23,
+    "width": 55,
+    "x": 22.5,
     "y": 19
   },
-  "glyphBounds": "{{0, 0}, {54, 16}}",
+  "glyphBounds": "{{0, 2}, {54, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -63,7 +63,7 @@
   "lineSpacingBehaviour": 0,
   "name": "SEARCH",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

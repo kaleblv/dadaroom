@@ -16,7 +16,7 @@
     "do_objectID": "8CC294B2-8C5B-4A33-8C95-314EED2F3E3D",
     "height": 214,
     "width": 564,
-    "x": 0,
+    "x": 2,
     "y": 72
   },
   "hasClickThrough": false,
@@ -24,7 +24,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",

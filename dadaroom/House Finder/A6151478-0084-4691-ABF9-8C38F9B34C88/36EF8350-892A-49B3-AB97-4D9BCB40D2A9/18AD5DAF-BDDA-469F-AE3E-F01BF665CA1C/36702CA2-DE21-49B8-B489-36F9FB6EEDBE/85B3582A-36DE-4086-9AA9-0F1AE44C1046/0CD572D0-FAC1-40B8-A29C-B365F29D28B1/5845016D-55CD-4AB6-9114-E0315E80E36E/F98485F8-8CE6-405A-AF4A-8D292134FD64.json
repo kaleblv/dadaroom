@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Kitchen"
+    "string": "Cocina"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F98485F8-8CE6-405A-AF4A-8D292134FD64",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "383C9043-FBF8-424F-B689-85904AC506EE",
     "height": 14,
-    "width": 40,
+    "width": 37,
     "x": 31,
     "y": 3
   },
-  "glyphBounds": "{{0, 0}, {40, 14}}",
+  "glyphBounds": "{{0, 2}, {36, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Kitchen",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

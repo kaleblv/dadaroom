@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Colors"
+    "string": "Colores"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "0131B8D8-D227-4C80-9726-E612F5B1126B",
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 42,
-    "width": 103,
+    "width": 121,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {103, 42}}",
+  "glyphBounds": "{{2, 6}, {117, 28}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Colors",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

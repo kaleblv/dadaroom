@@ -32,8 +32,8 @@
       "id": "CB868A4B-19BD-4769-8ABF-A6B8AEDB50DC"
     }
   ],
-  "name": "1",
-  "nameIsFixed": false,
+  "name": "1 main color",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 20,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Interactive elements"
+    "string": "Elementos interactivos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5B8975DE-DEF7-48AD-B6E0-7093BAEB2D16",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "EE3968DA-621F-40DF-A8B1-849BF65493BE",
     "height": 42,
-    "width": 319,
-    "x": 0,
+    "width": 359,
+    "x": 2,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {319, 42}}",
+  "glyphBounds": "{{3, 6}, {354, 28}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Interactive elements",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

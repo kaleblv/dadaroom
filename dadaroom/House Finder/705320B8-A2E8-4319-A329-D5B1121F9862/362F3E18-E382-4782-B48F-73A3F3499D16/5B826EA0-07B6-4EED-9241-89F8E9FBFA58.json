@@ -27,11 +27,11 @@
             "minimumLineHeight": 21
           }
         },
-        "length": 723,
+        "length": 782,
         "location": 0
       }
     ],
-    "string": "Being the savage's bowsman, that is, the person who pulled the bow-oar in his boat (the second one from forward), it was my cheerful duty to attend upon him while taking that hard-scrabble scramble upon the dead whale's back. You have seen Italian organ-boys holding a dancing-ape by a long cord. Just so, from the ship's steep side, did I hold Queequeg down there in the sea, by what is technically called in the fishery a monkey-rope, attached to a strong strip of canvas belted round his waist. Being the savage's bowsman, that is, the person who pulled the bow-oar in his boat (the second one from forward), it was my cheerful duty to attend upon him while taking that hard-scrabble scramble upon the dead whale's back."
+    "string": "Siendo el arquero del salvaje, es decir, la persona que sacó el remo de proa en su bote (el segundo desde adelante), fue mi alegre deber atenderlo mientras luchaba con el duro scrabble sobre la espalda de la ballena muerta. Has visto a muchachos de órganos italianos que sostienen a un mono danzante con una cuerda larga. Del mismo modo, desde el lado empinado de la nave, sostuve a Queequeg allí abajo en el mar, por lo que técnicamente se llama en la industria pesquera una cuerda de mono, sujeta a una fuerte franja de lona ceñida alrededor de su cintura. Siendo el arquero del salvaje, es decir, la persona que sacó el remo de proa en su bote (el segundo desde adelante), fue mi alegre deber atenderlo mientras luchaba con el duro scrabble sobre la espalda de la ballena muerta."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "5B826EA0-07B6-4EED-9241-89F8E9FBFA58",
@@ -54,7 +54,7 @@
     "x": 100,
     "y": 96
   },
-  "glyphBounds": "{{0, 0}, {950, 105}}",
+  "glyphBounds": "{{0, 1}, {944, 98}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

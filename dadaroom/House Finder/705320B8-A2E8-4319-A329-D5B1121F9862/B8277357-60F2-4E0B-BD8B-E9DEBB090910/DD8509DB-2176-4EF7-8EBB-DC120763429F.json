@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 29,
+        "length": 35,
         "location": 0
       }
     ],
-    "string": "Search (input field + button)"
+    "string": "Búsqueda (campo de entrada + botón)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DD8509DB-2176-4EF7-8EBB-DC120763429F",
@@ -48,11 +48,11 @@
     "constrainProportions": false,
     "do_objectID": "99EE2C05-B1F1-4209-89E2-381B27E2AE44",
     "height": 42,
-    "width": 436,
+    "width": 605,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {436, 42}}",
+  "glyphBounds": "{{3, 4}, {600, 38}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Search (input field ",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

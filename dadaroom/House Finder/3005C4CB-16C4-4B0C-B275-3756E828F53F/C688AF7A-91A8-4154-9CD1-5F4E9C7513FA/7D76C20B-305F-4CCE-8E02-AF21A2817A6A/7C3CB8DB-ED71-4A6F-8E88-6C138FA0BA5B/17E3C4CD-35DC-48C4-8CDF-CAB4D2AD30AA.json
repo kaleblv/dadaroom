@@ -27,11 +27,11 @@
             "minimumLineHeight": 19
           }
         },
-        "length": 193,
+        "length": 189,
         "location": 0
       }
     ],
-    "string": "Dwelling type:\n\nBed type:\n\nRoominess:\n\nBedrooms:\n\nBathrooms:\n\nBeds:\n\nExtra guest:\n\nPrice per week:\n\nPrice per month:\n\nCheck in:\n\nCheck out:\n\nCountry:\n\nCity:\n\nArea:\n\nCancellation\nof the reserve:"
+    "string": "Tipo de vivienda: Tipo de cama: Espaciosa: Dormitorios: Baños: Camas: Huéspedes extra: Precio por semana: Precio por mes: Check in: Check out: País: Ciudad: Zona: Cancelación de la reserva:"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "17E3C4CD-35DC-48C4-8CDF-CAB4D2AD30AA",
@@ -49,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1AF46279-75AD-41EB-B1F2-C125A974D351",
-    "height": 570,
-    "width": 94,
-    "x": 15,
+    "height": 19,
+    "width": 1089,
+    "x": 367,
     "y": 15
   },
-  "glyphBounds": "{{0, 0}, {94, 570}}",
+  "glyphBounds": "{{0, 2}, {1088, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -63,7 +63,7 @@
   "lineSpacingBehaviour": 1,
   "name": "Dwelling type:",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
