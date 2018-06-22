@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 42,
+    "height": 34,
     "width": 187,
     "x": 322,
     "y": 145
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -36,10 +36,6 @@
     {
       "class": "text",
       "id": "141CC71F-8E2F-424C-AB34-718E9BF61D34"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7A79AA56-C8D7-47A2-B8D2-79F850F4BBB3"
     }
   ],
   "name": "Button + hover",

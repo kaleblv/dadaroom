@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "BebasNeueBold",
               "size": 36
             }
           },
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E6DDB1EC-8C94-48BE-9970-3228D5D559CD",
-    "height": 42,
-    "width": 582,
-    "x": 0,
+    "height": 43,
+    "width": 451,
+    "x": 0.5,
     "y": 0
   },
-  "glyphBounds": "{{0, 6}, {581, 35}}",
+  "glyphBounds": "{{0, 8}, {450, 27}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -106,7 +106,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "BebasNeueBold",
             "size": 36
           }
         },

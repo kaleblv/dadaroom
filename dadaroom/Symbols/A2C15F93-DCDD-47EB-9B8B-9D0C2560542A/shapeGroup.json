@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "6D89EB8B-786F-45AF-A516-27F1E15210E4",
+  "do_objectID": "A2C15F93-DCDD-47EB-9B8B-9D0C2560542A",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "99DA351F-8EBE-4122-A895-776F2D50ABB2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "3114A6C8-085C-4168-A64B-ED3BD0DE3847",
-    "height": 5,
-    "width": 5,
-    "x": 155.9999999999998,
-    "y": 24
+    "do_objectID": "3683B49C-7E02-4D95-A20D-A34844512D5D",
+    "height": 64,
+    "width": 64,
+    "x": -313,
+    "y": -236
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -30,17 +31,34 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "DB4F6BD0-DF87-45B4-AAD1-4002AA8E71C7"
+      "id": "6630A54E-F390-4EDA-A4FA-1DB30457B50B"
     }
   ],
-  "name": "ic arrow",
-  "nameIsFixed": true,
+  "name": "Rectangle Copy 8",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 45,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "2D2AACFD-1498-4476-B0DC-7CC1BBA86194",
     "endDecorationType": 0,
     "fills": [
       {
@@ -48,16 +66,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7686274509803922,
-          "green": 0.7686274509803922,
-          "red": 0.7686274509803922
+          "blue": 0.3725490196078431,
+          "green": 0.4,
+          "red": 0.9176470588235294
         },
-        "do_objectID": "0F5EEC19-EB58-4418-8EF3-C55D323A6DF6",
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],

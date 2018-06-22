@@ -92,29 +92,11 @@
     "com.lalomrtnz.sketch.chain": {
       "layer-chains": [
         {
-          "chainedLayer": "BAD450EC-D8C4-4B16-898B-542FE47733B3",
-          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
-          "referenceTarget": "Fill",
-          "target": "Fill",
-          "timestamp": 1529698524224,
-          "type": "Hue",
-          "value": 1
-        },
-        {
           "chainedLayer": "1E5846E8-1D84-45E4-AEDB-A8EAF4D8B239",
           "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
           "referenceTarget": "Fill",
           "target": "Fill",
           "timestamp": 1529698524249,
-          "type": "Hue",
-          "value": 1
-        },
-        {
-          "chainedLayer": "B0C80D26-9F6A-4F3A-A3E2-6C4732B15AE2",
-          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
-          "referenceTarget": "Fill",
-          "target": "Fill",
-          "timestamp": 1529698524255,
           "type": "Hue",
           "value": 1
         },
@@ -205,15 +187,6 @@
           "referenceTarget": "Fill",
           "target": "Fill",
           "timestamp": 1529698524319,
-          "type": "Hue",
-          "value": 1
-        },
-        {
-          "chainedLayer": "669AF9F6-E5B3-4F6F-9DE8-3C26FDD77796",
-          "guideLayer": "B115E6A8-25D1-4CE4-9736-C3649C490ED9",
-          "referenceTarget": "Fill",
-          "target": "Fill",
-          "timestamp": 1529699686863,
           "type": "Hue",
           "value": 1
         },

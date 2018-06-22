@@ -32,7 +32,7 @@
       "id": "92D75D6D-7D97-4666-8A35-4483E035C934"
     }
   ],
-  "name": "1 + hover",
+  "name": "1",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,9 +47,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6588235294117647,
-          "green": 0.6705882352941176,
-          "red": 0.9294117647058824
+          "blue": 0.9465020576131687,
+          "green": 0.9465020576131687,
+          "red": 0.9465020576131687
         },
         "do_objectID": "CBF032AB-852D-49B9-A1F7-E7D1D5A94791",
         "fillType": 0,

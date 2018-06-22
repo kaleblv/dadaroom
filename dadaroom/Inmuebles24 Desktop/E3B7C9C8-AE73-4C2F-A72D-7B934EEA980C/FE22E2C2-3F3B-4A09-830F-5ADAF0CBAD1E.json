@@ -1,10 +1,11 @@
 {
   "_class": "oval",
   "booleanOperation": -1,
-  "do_objectID": "9308AF64-3A3D-4B9A-9146-94CEBBDCDC63",
+  "do_objectID": "FE22E2C2-3F3B-4A09-830F-5ADAF0CBAD1E",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F8898203-1A78-4C3F-927B-F9126BEA8E15",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 19,
-    "x": 3,
-    "y": 3
+    "do_objectID": "0944EB19-6995-46DD-9DEC-71564D1D07B5",
+    "height": 64,
+    "width": 64,
+    "x": 0,
+    "y": 0
   },
   "isClosed": true,
   "isFlippedHorizontal": false,
@@ -26,8 +28,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Shape",
-  "nameIsFixed": true,
+  "name": "Path",
+  "nameIsFixed": false,
   "pointRadiusBehaviour": 0,
   "points": [
     {

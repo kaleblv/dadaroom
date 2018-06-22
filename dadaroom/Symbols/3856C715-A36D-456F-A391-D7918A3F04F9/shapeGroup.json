@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "2E172D79-EBA3-4974-8252-9230FB760A7D",
+  "do_objectID": "3856C715-A36D-456F-A391-D7918A3F04F9",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "53F54511-7011-4485-A1BE-FBC759B72320",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,11 +14,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 41,
-    "width": 74,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "do_objectID": "127E0B02-FAA8-4A8C-9669-6F7BB0AF7C63",
+    "height": 64,
+    "width": 64,
+    "x": -412,
+    "y": -425
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,17 +31,34 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "88F11EEE-FC93-44EC-85F7-80EC8534CDB1"
+      "id": "B7DB8FEB-7064-470F-A273-76D4836F9335"
     }
   ],
-  "name": "Base",
-  "nameIsFixed": true,
+  "name": "Rectangle Copy 5",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "5020A4A1-981E-42BE-AC42-5AC71D3C7D8E",
     "endDecorationType": 0,
     "fills": [
       {
@@ -47,41 +66,19 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8549019607843137,
-          "green": 0,
-          "red": 0.4784313725490204
+          "blue": 0.3725490196078431,
+          "green": 0.4,
+          "red": 0.9176470588235294
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 0,
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.7568627450980392,
-          "green": 0.3450980392156862,
-          "red": 0.5372549019607844
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 2,
-        "spread": 0
-      }
-    ],
     "startDecorationType": 0
   },
   "windingRule": 1
