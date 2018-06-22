@@ -33,6 +33,10 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "artboard",
+      "id": "AF4CF42A-9380-426F-ABD4-F53BCA6F4E58"
+    },
+    {
       "class": "symbolMaster",
       "id": "2DFEACA2-BC83-4596-817D-3A6E8996AB25"
     },
