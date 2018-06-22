@@ -54,9 +54,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3725490196078431,
-          "green": 0.4,
-          "red": 0.9176470588235294
+          "blue": 1,
+          "green": 0.4980392156862745,
+          "red": 0.7725490196078432
         },
         "fillType": 0,
         "isEnabled": true,

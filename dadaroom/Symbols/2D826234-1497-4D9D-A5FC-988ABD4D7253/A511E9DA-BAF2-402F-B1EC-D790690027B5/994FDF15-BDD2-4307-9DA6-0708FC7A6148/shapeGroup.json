@@ -48,9 +48,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3063384332436021,
-          "green": 0.3302695634468191,
-          "red": 0.7815423044217688
+          "blue": 0.58,
+          "green": 0,
+          "red": 0.328666666666667
         },
         "fillType": 0,
         "isEnabled": true,
@@ -68,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1954037444760101,
-          "green": 0.2084910945122999,
-          "red": 0.4702380952380952
+          "blue": 0.7568627450980392,
+          "green": 0.3450980392156862,
+          "red": 0.5372549019607844
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
