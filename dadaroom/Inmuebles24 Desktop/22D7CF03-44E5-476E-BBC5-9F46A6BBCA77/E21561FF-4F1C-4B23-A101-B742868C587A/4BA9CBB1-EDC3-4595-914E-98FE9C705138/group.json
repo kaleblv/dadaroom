@@ -23,19 +23,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "F196B03B-E07D-4F44-90C6-048E88F56593"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E624C1EE-F98D-4611-B4F9-7FFE0BD2C860"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C93D4003-FB74-4E26-A1AA-76BF447FE32D"
     }
   ],
   "name": "Slider",
