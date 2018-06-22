@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "2BD269A8-69F9-4C09-AC18-483C3E21E07E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 92,
+    "x": 116,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "54C90281-E239-4B0C-8CC6-C9A729FD188E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5370C7F7-F587-4718-BA37-F0DF6E9171C1"
+    }
+  ],
+  "name": "First steps",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

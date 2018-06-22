@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "5B654383-23DE-44FD-8F85-A7BC62A5123F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 471,
+    "width": 640,
+    "x": 306,
+    "y": 440
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "37513EF6-E989-4E05-B1EA-9A807756C26C"
+    },
+    {
+      "class": "group",
+      "id": "45678C9B-246E-4DCC-88D8-ACD0B266E56D"
+    },
+    {
+      "class": "group",
+      "id": "AAB617A0-0E49-4657-A486-0E848F65A167"
+    },
+    {
+      "class": "group",
+      "id": "2B3494DB-D379-41A1-AFD9-EEFA54127EDD"
+    }
+  ],
+  "name": "First steps",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

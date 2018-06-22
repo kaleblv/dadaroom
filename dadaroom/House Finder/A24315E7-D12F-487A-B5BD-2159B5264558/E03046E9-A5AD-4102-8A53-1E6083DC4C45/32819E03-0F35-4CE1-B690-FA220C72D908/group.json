@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "32819E03-0F35-4CE1-B690-FA220C72D908",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F99BBB05-87B6-4F8A-A47D-6B8DC1F442DA",
+    "height": 40,
+    "width": 1020,
+    "x": 0,
+    "y": 270
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4E38EF09-416D-48EE-8E62-837AF87F505F"
+    },
+    {
+      "class": "group",
+      "id": "AC8C98B1-017C-429E-B52D-67EF80F6109B"
+    },
+    {
+      "class": "group",
+      "id": "135A6FAB-999F-4A5A-BCE3-870DDA3992D9"
+    }
+  ],
+  "name": "Bread crumbs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

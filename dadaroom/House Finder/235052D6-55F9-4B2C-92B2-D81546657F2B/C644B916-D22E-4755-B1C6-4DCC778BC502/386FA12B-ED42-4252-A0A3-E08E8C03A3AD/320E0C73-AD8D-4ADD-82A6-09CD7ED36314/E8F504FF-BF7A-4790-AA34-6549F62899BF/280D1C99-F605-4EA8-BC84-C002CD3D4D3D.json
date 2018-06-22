@@ -1,0 +1,70 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": 0,
+  "do_objectID": "280D1C99-F605-4EA8-BC84-C002CD3D4D3D",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 13.15685424949232,
+    "width": 13.15685424949231,
+    "x": 2.286311919301411,
+    "y": 17.22487373415333
+  },
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ic mark",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 0,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-2.0354088784794535e-17, 2.4980018054066007e-17}",
+      "curveMode": 1,
+      "curveTo": "{-2.0354088784794535e-17, 2.4980018054066007e-17}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{-2.0354088784794535e-17, 2.4980018054066007e-17}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.023570226390775297, 0.97642977360922423}",
+      "curveMode": 1,
+      "curveTo": "{0.023570226390775297, 0.97642977360922423}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.023570226390775297, 0.97642977360922423}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 315,
+  "shouldBreakMaskChain": false
+}

@@ -1,0 +1,130 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "705320B8-A2E8-4319-A329-D5B1121F9862",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0699C58A-DC4B-47DB-AC1C-6A6D4D8B6C3B",
+    "height": 2365,
+    "width": 1150,
+    "x": 16110,
+    "y": -7671
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8B81D54E-D683-4AB4-9E5C-5CD9A77138C9"
+    },
+    {
+      "class": "group",
+      "id": "399F4871-2DDE-4489-BD03-47B2219D9A14"
+    },
+    {
+      "class": "group",
+      "id": "B83BD1E9-DB45-40DC-97BB-28C2BDCE1148"
+    },
+    {
+      "class": "group",
+      "id": "362F3E18-E382-4782-B48F-73A3F3499D16"
+    },
+    {
+      "class": "group",
+      "id": "0265454B-69AA-46EC-8ACB-48A21BE8984D"
+    },
+    {
+      "class": "group",
+      "id": "B8277357-60F2-4E0B-BD8B-E9DEBB090910"
+    },
+    {
+      "class": "group",
+      "id": "02B03981-5DE2-401D-A64E-053D8429CAEB"
+    },
+    {
+      "class": "group",
+      "id": "06600EF0-052F-42E2-A163-8874C4D8AF6A"
+    },
+    {
+      "class": "group",
+      "id": "C92C4BC7-A055-401A-843C-4367D6286C29"
+    }
+  ],
+  "name": "15_Page elements",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "do_objectID": "24FB9498-F361-498E-A125-CB4A2E5D3D3A",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

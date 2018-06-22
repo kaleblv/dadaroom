@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "E8C83D13-94A3-4522-964C-F48BEDDE7C53",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 261,
+    "width": 1438,
+    "x": 0,
+    "y": 306
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DF1FC5C4-7CAE-4CAE-B820-95F4AD11C580"
+    },
+    {
+      "class": "group",
+      "id": "E65D5B33-76B3-4A3D-A8B8-29A428AEBFA5"
+    },
+    {
+      "class": "group",
+      "id": "B7F95247-18EC-4454-BF02-4D6278DE1C33"
+    }
+  ],
+  "name": "Recommended offers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

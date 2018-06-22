@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "0C3E6CB1-4F29-425C-8557-053DE7198C1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 83,
+    "width": 782,
+    "x": 55,
+    "y": 166
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EB2EEC3B-A73E-4603-AFFF-50D4437B7B4C"
+    },
+    {
+      "class": "group",
+      "id": "203117B5-61F9-471B-8662-4ECF69A2B947"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C5E17BE-7B14-4806-B0BD-3C3E8151213E"
+    },
+    {
+      "class": "group",
+      "id": "96BCCA58-5992-45B5-8B8C-456CC048511C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4D696E18-11AE-43F9-B3EA-85B332CF13ED"
+    },
+    {
+      "class": "group",
+      "id": "B5A66B2E-FAB5-48A3-83FC-DAECC4254E17"
+    }
+  ],
+  "name": "Dwelling type",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

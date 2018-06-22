@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "06B9E668-5668-42E5-B287-4579D6B00544",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 82,
+    "width": 110,
+    "x": 30,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DD5FC1A3-234B-417F-8AE0-0A0DCA50858D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "63D49B09-AF09-44F5-883F-72F1AFAAEE92"
+    },
+    {
+      "class": "text",
+      "id": "204749F2-3306-4FC8-BCFA-19CC8AB2D0AB"
+    },
+    {
+      "class": "text",
+      "id": "5A5E57A4-47A8-4A64-A6F8-70ECA4FF7C88"
+    }
+  ],
+  "name": "Rent + active",
+  "nameIsFixed": false,
+  "originalObjectID": "5819F0AC-1E12-48A9-A1D4-E6DFFC0990EF",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

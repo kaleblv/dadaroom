@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "D4A8C434-ABC2-4BF2-98B1-024E36FE7667",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 956,
+    "x": 35,
+    "y": 59
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6593CD22-C6AC-45E6-BC10-1BE2F607BDD5"
+    },
+    {
+      "class": "text",
+      "id": "32A5515C-126E-4C77-8F5C-C39966109759"
+    },
+    {
+      "class": "text",
+      "id": "61802285-5387-43A1-9C65-F702A7043ABE"
+    },
+    {
+      "class": "text",
+      "id": "C4079FBF-5C91-4BA9-8E41-AC6684E6E03F"
+    },
+    {
+      "class": "text",
+      "id": "312532B9-BF6A-440D-8130-6EBDB833E6D3"
+    },
+    {
+      "class": "text",
+      "id": "0A4EC306-B74C-49AB-8F32-7E2284DAC9EB"
+    },
+    {
+      "class": "text",
+      "id": "01CDE6B6-7B36-4ABC-BBFA-101E725FF64E"
+    },
+    {
+      "class": "text",
+      "id": "20E48C7F-0AE1-48C7-AF76-AF76A304A0FF"
+    },
+    {
+      "class": "text",
+      "id": "F5FBCE1F-C937-487F-AA8C-25C350B62212"
+    },
+    {
+      "class": "text",
+      "id": "78DCAC6E-3FDB-4E66-B336-3237B19268DC"
+    },
+    {
+      "class": "text",
+      "id": "B2870DDD-A50D-48EA-BD2F-736433749F45"
+    },
+    {
+      "class": "text",
+      "id": "C801513C-2ADE-43EC-B1D6-62180D471CE1"
+    },
+    {
+      "class": "text",
+      "id": "80EEBB1B-5389-45F8-B416-50C4B173E3A0"
+    },
+    {
+      "class": "text",
+      "id": "82C6B4E5-2F33-4E7C-BC18-550B075443EB"
+    },
+    {
+      "class": "text",
+      "id": "325999E4-64FB-4C71-A03A-1B252E261F77"
+    }
+  ],
+  "name": "Tarasa Shevchenko",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

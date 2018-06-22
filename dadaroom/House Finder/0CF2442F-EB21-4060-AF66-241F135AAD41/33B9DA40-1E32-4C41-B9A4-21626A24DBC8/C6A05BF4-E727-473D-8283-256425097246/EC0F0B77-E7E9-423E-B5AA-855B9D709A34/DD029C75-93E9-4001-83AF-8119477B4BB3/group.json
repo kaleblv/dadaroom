@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "DD029C75-93E9-4001-83AF-8119477B4BB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B086080-B878-4C2A-8A6B-66474EAD9529",
+    "height": 214,
+    "width": 272,
+    "x": 292,
+    "y": 223
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EC540A92-385A-48B4-B345-B0F40193A495"
+    },
+    {
+      "class": "text",
+      "id": "C6391FA6-5752-43E8-9188-BF355FE0DAA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A3EB5AF9-4873-4DCF-AE20-EFA05F84A41D"
+    },
+    {
+      "class": "text",
+      "id": "20B70ECE-D012-4BA6-8D23-50CE9CF6308A"
+    },
+    {
+      "class": "text",
+      "id": "2A62AAE1-5878-48A7-AB9C-FEE4ED31F6F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2671A0A5-853B-4A11-815A-9CC1FDFE391E"
+    }
+  ],
+  "name": "4 + hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

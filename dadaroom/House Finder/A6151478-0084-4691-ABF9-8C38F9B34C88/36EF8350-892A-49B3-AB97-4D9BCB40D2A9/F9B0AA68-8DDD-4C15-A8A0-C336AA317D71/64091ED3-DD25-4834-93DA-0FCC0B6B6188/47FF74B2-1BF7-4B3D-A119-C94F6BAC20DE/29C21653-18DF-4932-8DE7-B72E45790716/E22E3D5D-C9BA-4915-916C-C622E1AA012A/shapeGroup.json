@@ -1,0 +1,76 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "E22E3D5D-C9BA-4915-916C-C622E1AA012A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C74F84F1-4E46-49F6-95B5-01F5AAB0762D",
+    "height": 13.00491616646497,
+    "width": 15,
+    "x": 0,
+    "y": 2.995083833534864
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "24C265D1-5851-4821-954D-7F4C23BA98C8"
+    },
+    {
+      "class": "shapePath",
+      "id": "D228AEEF-7969-4C99-A70E-08CBE5223163"
+    },
+    {
+      "class": "shapePath",
+      "id": "D6F5A0EA-831E-40AB-92B4-30A2420F5E3A"
+    }
+  ],
+  "name": "ic baby products",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.09090909090909094,
+          "green": 0.7935688765383088,
+          "red": 1
+        },
+        "do_objectID": "38721F9B-ACA8-413A-BF13-8827F625003E",
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "967C3A18-902A-4591-8122-C9551CC3F811",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 114,
+    "width": 32,
+    "x": 958,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8C5E0649-FDD5-4CB5-96CC-30007CD26AFB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2AEAB06E-E2A7-436E-A54B-49C0B3C3436A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABB0F307-6755-4BFA-8AC7-AE992B617DC5"
+    }
+  ],
+  "name": "Social",
+  "nameIsFixed": true,
+  "originalObjectID": "967C3A18-902A-4591-8122-C9551CC3F811",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

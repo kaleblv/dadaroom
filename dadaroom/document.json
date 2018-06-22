@@ -1,0 +1,88 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2392156862745098,
+        "green": 0.2196078431372549,
+        "red": 0.207843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3725490196078431,
+        "green": 0.4,
+        "red": 0.9176470588235294
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6,
+        "green": 0.5882352941176471,
+        "red": 0.5803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7647058823529411,
+        "green": 0.7647058823529411,
+        "red": 0.7647058823529411
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9882352941176471,
+        "green": 0.9686274509803922,
+        "red": 0.9529411764705882
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9137254901960784,
+        "green": 0.8745098039215686,
+        "red": 0.8509803921568627
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8862745098039215,
+        "green": 0.8862745098039215,
+        "red": 0.8862745098039215
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "11CC99DE-AE2B-4E0D-9C00-D34E25409897",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "50.2",
+    "build": 55047,
+    "version": 103
+  },
+  "pages": [
+    "House Finder",
+    "Symbols"
+  ]
+}
