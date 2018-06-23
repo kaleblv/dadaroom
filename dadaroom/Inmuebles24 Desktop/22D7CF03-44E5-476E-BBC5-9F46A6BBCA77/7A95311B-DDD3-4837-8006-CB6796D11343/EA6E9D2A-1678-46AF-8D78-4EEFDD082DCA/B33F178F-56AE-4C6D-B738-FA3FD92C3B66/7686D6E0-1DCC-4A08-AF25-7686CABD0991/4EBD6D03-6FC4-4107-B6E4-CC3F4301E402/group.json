@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 214,
+    "height": 203,
     "width": 272,
     "x": 583,
     "y": 0
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -44,10 +44,6 @@
     {
       "class": "text",
       "id": "8D8FF480-A214-4272-AFEE-874C2C22A496"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "22B1DEAC-0D6A-4B78-9DD0-E55526628F90"
     }
   ],
   "name": "3 + hover",

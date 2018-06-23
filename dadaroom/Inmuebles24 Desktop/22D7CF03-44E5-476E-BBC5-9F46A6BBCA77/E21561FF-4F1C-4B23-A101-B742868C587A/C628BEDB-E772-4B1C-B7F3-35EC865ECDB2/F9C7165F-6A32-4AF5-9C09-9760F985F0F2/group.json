@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 70,
-    "width": 100,
-    "x": 860,
+    "height": 599,
+    "width": 470,
+    "x": 490,
     "y": 0
   },
   "hasClickThrough": false,
@@ -31,15 +31,11 @@
     },
     {
       "class": "text",
-      "id": "12303CB6-45E5-4E74-B28F-7811D1CDF8BC"
+      "id": "308A3D86-53D0-47D4-87A7-67FE8CAD9C82"
     },
     {
-      "class": "text",
-      "id": "C7DAC5F0-B640-422E-8D3A-E36D448D435D"
-    },
-    {
-      "class": "text",
-      "id": "D88F7DC9-EDBF-4F99-B38D-FFF237F4B11F"
+      "class": "group",
+      "id": "8DCE4B81-3ADD-4DF3-88E3-C9EE36ED78EE"
     }
   ],
   "name": "Button",

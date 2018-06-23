@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "ClearSans-Bold",
               "size": 14
             }
           },
@@ -49,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "47099EFF-C843-4270-8BB8-8E63681D9375",
-    "height": 16,
+    "height": 19,
     "width": 92,
     "x": 25,
-    "y": 34
+    "y": 32
   },
-  "glyphBounds": "{{0, 2}, {92, 12}}",
+  "glyphBounds": "{{0, 5}, {92, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "ClearSans-Bold",
             "size": 14
           }
         },

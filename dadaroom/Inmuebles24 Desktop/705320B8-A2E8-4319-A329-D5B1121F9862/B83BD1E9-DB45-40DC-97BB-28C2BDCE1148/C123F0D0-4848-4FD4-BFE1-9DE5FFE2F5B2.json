@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3725490196,
-            "green": 0.4,
-            "red": 0.9176470588
+            "blue": 0.8549019607843137,
+            "green": 0,
+            "red": 0.4784313725490196
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 15
             }
           },
@@ -50,11 +50,11 @@
     "constrainProportions": false,
     "do_objectID": "95437894-8C05-41C8-B751-A3A8C4FBAEF5",
     "height": 36,
-    "width": 127,
+    "width": 129,
     "x": 113,
-    "y": 72
+    "y": 64
   },
-  "glyphBounds": "{{1, 2}, {126, 16}}",
+  "glyphBounds": "{{1, 4}, {129, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -78,14 +78,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3725490196,
-          "green": 0.4,
-          "red": 0.9176470588
+          "blue": 0.8549019607843137,
+          "green": 0,
+          "red": 0.4784313725490196
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 15
           }
         },

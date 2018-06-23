@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "CooperHewitt-Medium",
               "size": 52
             }
           },
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7F1BDF1D-B7D8-48D5-9D7A-7A2324991505",
-    "height": 61,
-    "width": 97,
-    "x": 461.5,
-    "y": 23
+    "height": 68,
+    "width": 112,
+    "x": 454,
+    "y": 32
   },
-  "glyphBounds": "{{0, 0}, {97, 61}}",
+  "glyphBounds": "{{2, -3}, {108, 43}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -62,7 +62,7 @@
   "lineSpacingBehaviour": 0,
   "name": "50%",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "CooperHewitt-Medium",
             "size": 52
           }
         },

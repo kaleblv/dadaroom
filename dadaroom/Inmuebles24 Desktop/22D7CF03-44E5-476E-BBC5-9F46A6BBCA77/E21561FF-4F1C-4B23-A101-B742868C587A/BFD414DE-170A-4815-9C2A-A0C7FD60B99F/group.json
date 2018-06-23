@@ -13,9 +13,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 213,
-    "width": 737,
-    "x": 212,
+    "height": 71,
+    "width": 564,
+    "x": 228,
     "y": 232
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -32,10 +32,6 @@
     {
       "class": "text",
       "id": "F11035C8-8539-48BA-89A0-B4552AB0376B"
-    },
-    {
-      "class": "bitmap",
-      "id": "08ED1D75-5993-40CA-90A3-D3497E2E1264"
     }
   ],
   "name": "Title",

@@ -50,7 +50,7 @@
     "height": 18,
     "width": 39,
     "x": 179,
-    "y": 0
+    "y": 2
   },
   "glyphBounds": "{{0, 0}, {39, 18}}",
   "isFlippedHorizontal": false,
@@ -61,7 +61,7 @@
   "lineSpacingBehaviour": 0,
   "name": "$ 700",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

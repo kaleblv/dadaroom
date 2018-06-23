@@ -30,12 +30,8 @@
       "id": "C36FD3E9-F3A2-4551-BEED-B1585056D66B"
     },
     {
-      "class": "text",
-      "id": "D8D84636-E72D-48EC-A283-2211C13C6B51"
-    },
-    {
-      "class": "text",
-      "id": "141CC71F-8E2F-424C-AB34-718E9BF61D34"
+      "class": "group",
+      "id": "9094828C-2CBA-48F1-ABEC-2C22DF42A890"
     }
   ],
   "name": "Button + hover",

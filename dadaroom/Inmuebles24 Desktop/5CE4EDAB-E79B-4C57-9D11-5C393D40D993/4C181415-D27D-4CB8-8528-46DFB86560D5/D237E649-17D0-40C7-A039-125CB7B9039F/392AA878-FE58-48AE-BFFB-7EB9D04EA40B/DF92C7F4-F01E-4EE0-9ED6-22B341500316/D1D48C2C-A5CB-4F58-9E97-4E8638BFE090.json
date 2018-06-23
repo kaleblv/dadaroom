@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 14
             }
           },
@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Ingrese el nombre de la ciudad"
+    "string": "Ingresa el nombre de la ciudad"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D1D48C2C-A5CB-4F58-9E97-4E8638BFE090",
@@ -47,19 +47,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0304CF37-1525-4B3D-A4F1-CEB6ECFBAC0F",
-    "height": 16,
-    "width": 187,
+    "height": 19,
+    "width": 191,
     "x": 60,
-    "y": 34
+    "y": 32
   },
-  "glyphBounds": "{{1, 2}, {185, 14}}",
+  "glyphBounds": "{{0, 4}, {190, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Enter the name of th",
+  "name": "Ingresa el nombre de",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 14
           }
         },

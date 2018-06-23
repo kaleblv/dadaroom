@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3725490196,
-            "green": 0.4,
-            "red": 0.9176470588
+            "blue": 0.8549019607843137,
+            "green": 0,
+            "red": 0.4784313725490196
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 15
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 36
           }
         },
-        "length": 7,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "Espalda"
+    "string": "Regresar"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "8884B05A-94D4-4B48-BDEF-B0BC65DD0ADB",
@@ -50,18 +50,18 @@
     "constrainProportions": false,
     "do_objectID": "DB97B32D-09C3-4C4F-8FD1-4307230D3214",
     "height": 36,
-    "width": 53,
+    "width": 60,
     "x": 16,
     "y": 0
   },
-  "glyphBounds": "{{1, 2}, {51, 16}}",
+  "glyphBounds": "{{1, 5}, {58, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Back",
+  "name": "Regresar",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -78,14 +78,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3725490196,
-          "green": 0.4,
-          "red": 0.9176470588
+          "blue": 0.8549019607843137,
+          "green": 0,
+          "red": 0.4784313725490196
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 15
           }
         },

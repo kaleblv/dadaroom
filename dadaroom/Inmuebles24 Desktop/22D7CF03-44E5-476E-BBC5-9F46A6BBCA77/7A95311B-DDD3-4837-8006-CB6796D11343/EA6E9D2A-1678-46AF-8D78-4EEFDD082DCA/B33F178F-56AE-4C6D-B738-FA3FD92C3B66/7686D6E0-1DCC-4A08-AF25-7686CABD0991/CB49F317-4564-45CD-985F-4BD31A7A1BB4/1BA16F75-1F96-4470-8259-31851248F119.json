@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "ClearSans-Bold",
               "size": 16
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Piso en Taman"
+    "string": "La Joya"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1BA16F75-1F96-4470-8259-31851248F119",
@@ -46,19 +46,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 106,
+    "height": 21,
+    "width": 55,
     "x": 11,
-    "y": 139
+    "y": 137
   },
-  "glyphBounds": "{{1, 3}, {104, 13}}",
+  "glyphBounds": "{{1, 6}, {53, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Flat in Taman",
+  "name": "La Joya",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,7 +82,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "ClearSans-Bold",
             "size": 16
           }
         },

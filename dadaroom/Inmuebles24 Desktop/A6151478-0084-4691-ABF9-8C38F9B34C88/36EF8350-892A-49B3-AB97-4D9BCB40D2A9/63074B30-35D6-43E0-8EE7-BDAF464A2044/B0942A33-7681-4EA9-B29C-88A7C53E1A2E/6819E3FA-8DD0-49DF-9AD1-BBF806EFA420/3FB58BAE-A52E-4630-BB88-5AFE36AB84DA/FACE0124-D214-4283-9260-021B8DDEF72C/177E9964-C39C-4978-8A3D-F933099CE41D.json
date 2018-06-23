@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3725490196,
-            "green": 0.4,
-            "red": 0.9176470588
+            "blue": 0.4821694302721088,
+            "green": 0.047571995754238,
+            "red": 0.2873091675127373
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 14
             }
           },
@@ -46,12 +46,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 79,
+    "height": 19,
+    "width": 66,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {79, 16}}",
+  "glyphBounds": "{{0, 4}, {65, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -60,7 +60,7 @@
   "lineSpacingBehaviour": 0,
   "name": "Alan Dixon",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -75,14 +75,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3725490196,
-          "green": 0.4,
-          "red": 0.9176470588
+          "blue": 0.4821694302721088,
+          "green": 0.047571995754238,
+          "red": 0.2873091675127373
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 14
           }
         },

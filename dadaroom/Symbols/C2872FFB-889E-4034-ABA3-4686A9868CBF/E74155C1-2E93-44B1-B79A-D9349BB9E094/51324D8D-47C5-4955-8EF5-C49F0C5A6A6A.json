@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 38,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "1 - 18 de más de 1000 ofertas en Moscú"
+    "string": "1 - 18 de más de 1000 ofertas en CDMX"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "51324D8D-47C5-4955-8EF5-C49F0C5A6A6A",
@@ -47,19 +47,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 247,
-    "x": 661,
-    "y": 29
+    "height": 19,
+    "width": 250,
+    "x": 658,
+    "y": 27
   },
-  "glyphBounds": "{{1, 2}, {245, 12}}",
+  "glyphBounds": "{{2, 4}, {247, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "1 – 18 of more than ",
+  "name": "1 - 18 de más de 100",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 14
           }
         },

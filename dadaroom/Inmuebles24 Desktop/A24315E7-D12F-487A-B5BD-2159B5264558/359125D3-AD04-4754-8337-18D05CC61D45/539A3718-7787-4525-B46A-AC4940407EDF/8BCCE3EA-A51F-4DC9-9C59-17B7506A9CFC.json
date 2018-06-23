@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3725490196,
-            "green": 0.4,
-            "red": 0.9176470588
+            "blue": 0.4821694302721088,
+            "green": 0.047571995754238,
+            "red": 0.2873091675127373
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 14
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 37
           }
         },
-        "length": 705,
+        "length": 716,
         "location": 0
       }
     ],
-    "string": "Kogi Cosby suéter calamar ético ironía interrumpir Siendo el arquero salvaje, es decir, la persona que sacó Kogi Cosby suéter calamar ético ironía interrumpir Siendo el arquero salvaje, es decir, la persona que sacó Kogi Cosby suéter calamar ético ironía interrumpir Siendo el arquero del salvaje, es decir, la persona que sacó el suéter de Kogi Cosby, la ironía ética de la calamar, siendo el arquero salvaje, es decir, la persona que sacó el suéter de Kogi Cosby, la ironía del calamar ético, el portavoz del salvaje, es decir, la persona que sacó el jersey de Kogi Cosby. ironía interrumpir Siendo el arquero del salvaje, es decir, la persona que sacó Kogi Cosby suéter calamar ético ironía interrumpir"
+    "string": "Kogi\nCosby suéter calamar ético ironía interrumpir \nSiendo el arquero salvaje, es decir, la persona que sacó \nKogi Cosby suéter calamar ético ironía interrumpir \nSiendo el arquero salvaje, es decir, la persona que sacó \nKogi Cosby suéter calamar ético ironía interrumpir \nSiendo el arquero del salvaje, es decir, la persona que sacó el suéter de \nKogi Cosby, la ironía ética de la calamar, siendo el arquero salvaje,\n es decir, la persona que sacó el suéter de Kogi Cosby, \nla ironía del calamar ético, el portavoz del salvaje, es decir,\n la persona que sacó el jersey de Kogi Cosby.\n ironía interrumpir Siendo el arquero del salvaje, es decir, \nla persona que sacó Kogi Cosby suéter calamar ético ironía interrumpir"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "8BCCE3EA-A51F-4DC9-9C59-17B7506A9CFC",
@@ -49,19 +49,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B9D04D09-3162-475C-A885-7F29BF240038",
-    "height": 37,
-    "width": 4172,
+    "height": 481,
+    "width": 443,
     "x": 0,
-    "y": 61
+    "y": 55
   },
-  "glyphBounds": "{{1, 2}, {4170, 14}}",
+  "glyphBounds": "{{0, 5}, {439, 457}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Kogi Cosby sweater e",
+  "name": "Kogi Cosby suéter ca",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -78,14 +78,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3725490196,
-          "green": 0.4,
-          "red": 0.9176470588
+          "blue": 0.4821694302721088,
+          "green": 0.047571995754238,
+          "red": 0.2873091675127373
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 14
           }
         },

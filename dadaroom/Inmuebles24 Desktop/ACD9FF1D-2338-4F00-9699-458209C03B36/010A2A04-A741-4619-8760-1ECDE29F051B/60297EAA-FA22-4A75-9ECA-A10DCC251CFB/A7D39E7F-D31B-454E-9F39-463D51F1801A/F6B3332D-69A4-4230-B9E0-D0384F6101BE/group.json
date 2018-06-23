@@ -32,6 +32,10 @@
     {
       "class": "text",
       "id": "12CB12C7-C9AB-4B2B-B778-9857D1A22478"
+    },
+    {
+      "class": "bitmap",
+      "id": "DD8C1484-CB0D-4F11-B1ED-1AD10845B1AD"
     }
   ],
   "name": "Image",

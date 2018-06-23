@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 16
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 83,
+        "length": 62,
         "location": 0
       }
     ],
-    "string": "Alquile una casa única en House Finder en todo el mundo, con cualquier presupuesto."
+    "string": "Renta una propiedad en Inmuebles24 para cualquier presupuesto."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1BF56424-C755-46E5-B179-B5F232B8946E",
@@ -47,19 +47,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 596,
-    "x": 212,
-    "y": 88
+    "height": 21,
+    "width": 467,
+    "x": 276.5,
+    "y": 86
   },
-  "glyphBounds": "{{0, 3}, {595, 16}}",
+  "glyphBounds": "{{1, 5}, {465, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Rent a unique home o",
+  "name": "Renta una propiedad",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 16
           }
         },

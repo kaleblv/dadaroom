@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 14,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Acondicionador"
+    "string": "Roof Garden"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6D35323A-9638-41F4-867C-45A2DB277586",
@@ -48,19 +48,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E812466C-909B-4BB1-9015-9588D2EE3499",
-    "height": 16,
-    "width": 97,
+    "height": 19,
+    "width": 77,
     "x": 41,
-    "y": 2.61669921875
+    "y": 0.61669921875
   },
-  "glyphBounds": "{{0, 2}, {96, 12}}",
+  "glyphBounds": "{{1, 4}, {75, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Conditioner",
+  "name": "Roof Garden",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 14
           }
         },

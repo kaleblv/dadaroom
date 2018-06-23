@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Sala común"
+    "string": "Loft"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7A7616EE-2566-4CED-9631-7A1AAB04C70B",
@@ -47,19 +47,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 73,
-    "x": 71,
-    "y": 37
+    "height": 19,
+    "width": 24,
+    "x": 95.5,
+    "y": 35
   },
-  "glyphBounds": "{{0, 2}, {72, 12}}",
+  "glyphBounds": "{{1, 4}, {23, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Common room",
+  "name": "Loft",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 14
           }
         },

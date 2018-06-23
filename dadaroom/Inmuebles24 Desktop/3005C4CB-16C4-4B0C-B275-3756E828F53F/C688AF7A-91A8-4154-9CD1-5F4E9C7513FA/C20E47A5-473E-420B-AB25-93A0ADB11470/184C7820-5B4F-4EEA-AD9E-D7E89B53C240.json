@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 13
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 31,
+        "length": 74,
         "location": 0
       }
     ],
-    "string": "Plaza Preobrazhenskaya, 12 min."
+    "string": "Angelopolis, Fraccionamiento Lomas de Angelópolis, San Andrés Cholula    \n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "184C7820-5B4F-4EEA-AD9E-D7E89B53C240",
@@ -47,19 +47,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7328E3AF-CEF7-4458-88CC-D84E9BD8E780",
-    "height": 15,
-    "width": 187,
+    "height": 36,
+    "width": 417,
     "x": 0,
-    "y": 34
+    "y": 28
   },
-  "glyphBounds": "{{1, 2}, {185, 13}}",
+  "glyphBounds": "{{0, 4}, {416, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Preobrazhenskaya squ",
+  "name": "Angelopolis, Fraccio",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 13
           }
         },

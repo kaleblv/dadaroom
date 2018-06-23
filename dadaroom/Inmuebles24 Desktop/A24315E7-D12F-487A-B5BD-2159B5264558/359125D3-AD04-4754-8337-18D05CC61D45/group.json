@@ -13,21 +13,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 718,
-    "width": 4478,
+    "height": 734,
+    "width": 946,
     "x": 45,
-    "y": 350
+    "y": 347
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "581B33D2-0AF4-4E81-9413-D71BD00A2E96"
+      "class": "symbolInstance",
+      "id": "5AF085F3-35A2-49F0-91EE-7104FBD0C3BE"
     },
     {
       "class": "group",

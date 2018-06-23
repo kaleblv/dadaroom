@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 12
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 19,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Pago por servicios:"
+    "string": "Aceptamos\nlas tarjetas:"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DD3CFC03-4EC5-416A-808E-169CB165FDE2",
@@ -48,19 +48,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 100,
+    "height": 32,
+    "width": 63,
     "x": 0,
     "y": 0.5
   },
-  "glyphBounds": "{{1, 2}, {98, 12}}",
+  "glyphBounds": "{{0, 4}, {62, 28}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Payment",
+  "name": "Aceptamos las tarjet",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 12
           }
         },

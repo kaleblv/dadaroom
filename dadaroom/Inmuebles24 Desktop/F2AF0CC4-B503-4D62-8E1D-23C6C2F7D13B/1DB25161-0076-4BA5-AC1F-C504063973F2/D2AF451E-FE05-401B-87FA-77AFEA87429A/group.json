@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 357,
-    "width": 768,
+    "height": 36,
+    "width": 76,
     "x": 0,
     "y": 0
   },
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -36,14 +36,6 @@
     {
       "class": "shapeGroup",
       "id": "4A8F3ECB-5519-4E79-87FC-E4DDA7CDE56C"
-    },
-    {
-      "class": "text",
-      "id": "7C4B2EA9-341D-46E7-B9A1-0337CF11E622"
-    },
-    {
-      "class": "group",
-      "id": "B4216C22-474C-4DEC-A477-2722DA581AF6"
     }
   ],
   "name": "Menu",

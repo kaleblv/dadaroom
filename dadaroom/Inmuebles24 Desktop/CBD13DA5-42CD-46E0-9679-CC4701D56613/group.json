@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "CBD13DA5-42CD-46E0-9679-CC4701D56613",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2068609-9624-4A7C-B47E-1ABD32D951E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4CF564A3-B29E-44F3-A45C-D1EB31204D9F",
+    "height": 100,
+    "width": 285,
+    "x": 17274,
+    "y": -7262
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DA4C7B53-F7E3-4057-9B97-902F354AD3AE"
+    },
+    {
+      "class": "text",
+      "id": "C0B5D65B-FE09-4712-BD4C-4EA4BE269E15"
+    },
+    {
+      "class": "text",
+      "id": "4CDB3F38-1BD8-4609-A73E-701D8F53EAE2"
+    }
+  ],
+  "name": "Links Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F5FF0BF3-4F45-44D3-AC72-CBBA87329EF1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

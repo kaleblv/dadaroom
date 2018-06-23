@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -67,9 +67,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8549019607843137,
-          "green": 0.8549019607843137,
-          "red": 0.8549019607843137
+          "blue": 0.5647058823529412,
+          "green": 0.5411764705882353,
+          "red": 0.5529411764705883
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

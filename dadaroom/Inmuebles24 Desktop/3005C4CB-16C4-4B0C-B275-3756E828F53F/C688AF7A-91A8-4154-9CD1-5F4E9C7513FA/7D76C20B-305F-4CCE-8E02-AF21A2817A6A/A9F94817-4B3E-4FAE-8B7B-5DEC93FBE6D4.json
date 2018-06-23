@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 13
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 21
           }
         },
-        "length": 782,
+        "length": 900,
         "location": 0
       }
     ],
-    "string": "Siendo el arquero del salvaje, es decir, la persona que sacó el remo de proa en su bote (el segundo desde adelante), fue mi alegre deber atenderlo mientras luchaba con el duro scrabble sobre la espalda de la ballena muerta. Has visto a muchachos de órganos italianos que sostienen a un mono danzante con una cuerda larga. Del mismo modo, desde el lado empinado de la nave, sostuve a Queequeg allí abajo en el mar, por lo que técnicamente se llama en la industria pesquera una cuerda de mono, sujeta a una fuerte franja de lona ceñida alrededor de su cintura. Siendo el arquero del salvaje, es decir, la persona que sacó el remo de proa en su bote (el segundo desde adelante), fue mi alegre deber atenderlo mientras luchaba con el duro scrabble sobre la espalda de la ballena muerta."
+    "string": "Bienvenido a OAK 58, donde la mayor plusvalía de Puebla se fusiona con la más alta pasión por los detalles para dar vida a un desarrollo de 230 metros de altura que se convierte en un icono de la ciudad. \n\nOAK 58 redefine el estilo de vida dentro de un residencial vertical en el país, gracias a su excelente accesibilidad, sus 30 impresionantes amenidades, así como sus acabados de lujo y elementos especiales entre los que destacan: sonido integrado BOSE, cocinas italianas PEDINI, alturas de 2.90 m, terrazas con 2.40 m de profundidad y un novedoso sistema de recolección de basura único en México.\n \nOAK 58, el innovador proyecto arquitectónico desarrollado por Elias Estudio, ofrece la oportunidad única de vivir en un desarrollo residencial con una experiencia diaria de resort de lujo operado 24 / 7. \nEstamos en etapa de preventa, el mejor momento para invertir y maximizar tus rendimientos. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A9F94817-4B3E-4FAE-8B7B-5DEC93FBE6D4",
@@ -48,19 +48,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 336,
+    "height": 420,
     "width": 310,
-    "x": 22,
-    "y": 76
+    "x": 15,
+    "y": 74
   },
-  "glyphBounds": "{{0, 2}, {308, 326}}",
+  "glyphBounds": "{{0, 4}, {307, 412}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Being the savage's b",
+  "name": "Bienvenido a OAK 58,",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 13
           }
         },

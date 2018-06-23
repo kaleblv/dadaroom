@@ -16,22 +16,22 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 13
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 19,
-            "minimumLineHeight": 19
+            "maximumLineHeight": 37,
+            "minimumLineHeight": 37
           }
         },
-        "length": 189,
+        "length": 209,
         "location": 0
       }
     ],
-    "string": "Tipo de vivienda: Tipo de cama: Espaciosa: Dormitorios: Baños: Camas: Huéspedes extra: Precio por semana: Precio por mes: Check in: Check out: País: Ciudad: Zona: Cancelación de la reserva:"
+    "string": "Tipo de desarrollo: \nSuperficie total: \nEspaciosa: \nDormitorios: \nBaños: \nCamas: \nHuéspedes extra: \nPrecio por semana: \nPrecio por mes: \nCheck in: \nCheck out: \nPaís: \nCiudad: \nZona: \nCancelación de la reserva:"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "17E3C4CD-35DC-48C4-8CDF-CAB4D2AD30AA",
@@ -49,19 +49,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1AF46279-75AD-41EB-B1F2-C125A974D351",
-    "height": 19,
-    "width": 1089,
-    "x": 367,
-    "y": 15
+    "height": 555,
+    "width": 150,
+    "x": 15,
+    "y": 3
   },
-  "glyphBounds": "{{0, 2}, {1088, 13}}",
+  "glyphBounds": "{{0, 14}, {149, 529}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
-  "name": "Dwelling type:",
+  "lineSpacingBehaviour": 2,
+  "name": "Tipo de desarrollo:",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -85,15 +85,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 13
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 19,
-          "minimumLineHeight": 19
+          "maximumLineHeight": 37,
+          "minimumLineHeight": 37
         }
       },
       "verticalAlignment": 0

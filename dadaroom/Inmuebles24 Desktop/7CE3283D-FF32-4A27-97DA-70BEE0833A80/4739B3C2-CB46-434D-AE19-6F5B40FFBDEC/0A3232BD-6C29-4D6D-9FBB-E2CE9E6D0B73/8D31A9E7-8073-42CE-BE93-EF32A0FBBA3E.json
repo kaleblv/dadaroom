@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "ClearSans-Medium",
               "size": 19
             }
           },
@@ -54,7 +54,7 @@
     "x": 1,
     "y": 432
   },
-  "glyphBounds": "{{1, 3}, {565, 49}}",
+  "glyphBounds": "{{1, 6}, {580, 47}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "ClearSans-Medium",
             "size": 19
           }
         },

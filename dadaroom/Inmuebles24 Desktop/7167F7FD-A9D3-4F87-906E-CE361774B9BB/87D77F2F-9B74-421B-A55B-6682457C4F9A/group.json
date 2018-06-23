@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AA035AB2-F6CA-4844-BBB5-E2E44954A41B",
-    "height": 982,
-    "width": 1534,
+    "height": 996,
+    "width": 1020,
     "x": 0,
     "y": 72
   },
@@ -24,7 +24,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -36,15 +36,7 @@
     },
     {
       "class": "group",
-      "id": "C2EC71E6-9652-4741-84EA-B7E62BF69BA6"
-    },
-    {
-      "class": "group",
-      "id": "FDAECC58-2A8A-4981-A4B8-12B47105A377"
-    },
-    {
-      "class": "group",
-      "id": "BC1A3D57-AE65-473D-9281-D0A3F1485B80"
+      "id": "8CDCB357-592D-450A-991F-9E45723F938F"
     }
   ],
   "name": "Body",

@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3725490196,
-            "green": 0.4,
-            "red": 0.9176470588
+            "blue": 0.9176470588,
+            "green": 0.3725490196,
+            "red": 0.6019567881355976
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LucidaGrande",
+              "name": "ClearSans",
               "size": 12
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 62,
+        "length": 53,
         "location": 0
       }
     ],
-    "string": "Inicio → Alquiler de pisos por día → Pisos por un día en Moscú"
+    "string": "Inicio → Venta de apartamentos → Apartamentos Polanco"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "75197FE2-274C-464E-ADD4-D3EF0BB5B9FE",
@@ -47,19 +47,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 366,
+    "height": 16,
+    "width": 316,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 2}, {364, 13}}",
+  "glyphBounds": "{{0, 4}, {315, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Home Page → Rent fla",
+  "name": "Inicio → Venta de ap",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -76,14 +76,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3725490196,
-          "green": 0.4,
-          "red": 0.9176470588
+          "blue": 0.9176470588,
+          "green": 0.3725490196,
+          "red": 0.6019567881355976
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LucidaGrande",
+            "name": "ClearSans",
             "size": 12
           }
         },

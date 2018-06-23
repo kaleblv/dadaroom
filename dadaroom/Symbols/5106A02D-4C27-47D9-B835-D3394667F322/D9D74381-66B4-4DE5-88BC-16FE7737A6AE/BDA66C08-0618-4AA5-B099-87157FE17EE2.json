@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 12
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 33,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "Diseño y desarrollo por Rondesign"
+    "string": "2018 ©\nTodos los derechos reservados."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BDA66C08-0618-4AA5-B099-87157FE17EE2",
@@ -48,19 +48,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 179,
+    "height": 32,
+    "width": 168,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 2}, {177, 12}}",
+  "glyphBounds": "{{0, 4}, {167, 26}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Design and developme",
+  "name": "2018 © Todos los der",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 12
           }
         },

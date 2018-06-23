@@ -1566,6 +1566,105 @@
           "timestamp": 1529699688528,
           "type": "Hue",
           "value": 1
+        },
+        {
+          "chainedLayer": "1E5846E8-1D84-45E4-AEDB-A8EAF4D8B239",
+          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
+          "referenceTarget": "Fill",
+          "target": "Fill",
+          "timestamp": 1529728630812,
+          "type": "Hue",
+          "value": 1
+        },
+        {
+          "chainedLayer": "0E209010-4A19-4E66-82E1-40E84FB4AD00",
+          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
+          "referenceTarget": "Fill",
+          "target": "Fill",
+          "timestamp": 1529728630861,
+          "type": "Hue",
+          "value": 1
+        },
+        {
+          "chainedLayer": "4AF9C354-2656-43A7-BC9E-7191B23B5590",
+          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
+          "referenceTarget": "Fill",
+          "target": "Fill",
+          "timestamp": 1529728630897,
+          "type": "Hue",
+          "value": 1
+        },
+        {
+          "chainedLayer": "AFAAB6C3-65D2-4330-892A-80583FA03802",
+          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
+          "referenceTarget": "Fill",
+          "target": "Fill",
+          "timestamp": 1529728630933,
+          "type": "Hue",
+          "value": 1
+        },
+        {
+          "chainedLayer": "96D7ADED-751F-40E1-8F3D-6F25D3EED7DF",
+          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
+          "referenceTarget": "Fill",
+          "target": "Fill",
+          "timestamp": 1529728630970,
+          "type": "Hue",
+          "value": 1
+        },
+        {
+          "chainedLayer": "2E172D79-EBA3-4974-8252-9230FB760A7D",
+          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
+          "referenceTarget": "Fill",
+          "target": "Fill",
+          "timestamp": 1529728631007,
+          "type": "Hue",
+          "value": 1
+        },
+        {
+          "chainedLayer": "A04F6AE2-0BA5-4A08-8ABA-7645E3507B59",
+          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
+          "referenceTarget": "Fill",
+          "target": "Fill",
+          "timestamp": 1529728631043,
+          "type": "Hue",
+          "value": 1
+        },
+        {
+          "chainedLayer": "6B5E58F4-D8D3-41CB-A092-DE5B0EF5733E",
+          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
+          "referenceTarget": "Fill",
+          "target": "Fill",
+          "timestamp": 1529728631083,
+          "type": "Hue",
+          "value": 1
+        },
+        {
+          "chainedLayer": "E193014F-2A55-4040-81EC-D3EAEE967EA0",
+          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
+          "referenceTarget": "Fill",
+          "target": "Fill",
+          "timestamp": 1529728631124,
+          "type": "Hue",
+          "value": 1
+        },
+        {
+          "chainedLayer": "FA36402B-D3B5-4638-BEC0-692FC5D1987B",
+          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
+          "referenceTarget": "Fill",
+          "target": "Fill",
+          "timestamp": 1529728631160,
+          "type": "Hue",
+          "value": 1
+        },
+        {
+          "chainedLayer": "8CB2F1A9-2FDB-414F-9790-622A9C5E936D",
+          "guideLayer": "DD9DBCB2-0A64-482C-BE98-7A83D8A37579",
+          "referenceTarget": "Fill",
+          "target": "Fill",
+          "timestamp": 1529728631197,
+          "type": "Hue",
+          "value": 1
         }
       ]
     }

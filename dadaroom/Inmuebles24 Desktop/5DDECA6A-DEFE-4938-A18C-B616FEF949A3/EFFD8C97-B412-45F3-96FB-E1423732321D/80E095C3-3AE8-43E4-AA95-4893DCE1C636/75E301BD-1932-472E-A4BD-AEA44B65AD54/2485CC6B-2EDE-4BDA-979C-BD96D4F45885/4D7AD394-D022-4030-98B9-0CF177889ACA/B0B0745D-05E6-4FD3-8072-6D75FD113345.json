@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "ClearSans-Bold",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 16,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "Ocultar búsqueda"
+    "string": "Ocultar Búsqueda Avanzada"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B0B0745D-05E6-4FD3-8072-6D75FD113345",
@@ -48,19 +48,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5C9D3F6C-E273-4601-B007-31A4116DABEF",
-    "height": 16,
-    "width": 111,
-    "x": 344.5,
-    "y": 9.5
+    "height": 19,
+    "width": 182,
+    "x": 309,
+    "y": 7.5
   },
-  "glyphBounds": "{{0, 2}, {111, 14}}",
+  "glyphBounds": "{{0, 4}, {181, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Hide search",
+  "name": "Ocultar Búsqueda Ava",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "ClearSans-Bold",
             "size": 14
           }
         },

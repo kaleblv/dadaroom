@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "ClearSans",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 12,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Habitaciones"
+    "string": "Cuartos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2B294085-257F-4F92-99AE-D680633858B2",
@@ -48,19 +48,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2B06B963-38DE-40FB-9DD6-285A5EE7FCA8",
-    "height": 16,
-    "width": 83,
-    "x": 0.5,
-    "y": 12.5
+    "height": 19,
+    "width": 50,
+    "x": 15,
+    "y": 10.5
   },
-  "glyphBounds": "{{1, 2}, {81, 12}}",
+  "glyphBounds": "{{0, 5}, {49, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Rooms",
+  "name": "Cuartos",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "ClearSans",
             "size": 14
           }
         },

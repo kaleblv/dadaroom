@@ -16,30 +16,30 @@
     "height": 872,
     "width": 272,
     "x": 85,
-    "y": 76
+    "y": 78
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "6A2CDC9D-5D21-4599-8865-4BCC4C95C3E5"
+      "id": "0EF5D80B-2BEB-4DB7-A8AB-FC68A80C73D9"
     },
     {
       "class": "group",
-      "id": "9CBB27F0-F252-4EC8-A27F-A55EA7C2597C"
+      "id": "AC49885F-3731-496B-89BC-35A5F07EA4D7"
     },
     {
       "class": "group",
-      "id": "BC976974-37ED-44D9-883F-81B00656AC7C"
+      "id": "EBF4B850-1F55-4AEA-BFBE-8804B2605F43"
     },
     {
       "class": "group",
-      "id": "6CA9C0E5-8FBD-476E-B59A-B42D057E1CD6"
+      "id": "EEF279FF-F728-4CFC-8C7F-0826997DCCE5"
     }
   ],
   "name": "Offers",

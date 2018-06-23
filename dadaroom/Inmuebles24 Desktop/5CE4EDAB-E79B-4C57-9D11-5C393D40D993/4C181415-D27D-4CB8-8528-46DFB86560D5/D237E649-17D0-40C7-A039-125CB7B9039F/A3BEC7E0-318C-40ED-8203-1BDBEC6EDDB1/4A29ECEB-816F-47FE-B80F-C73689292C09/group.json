@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 88,
+    "height": 80,
     "width": 154,
     "x": 288,
     "y": 0
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -36,10 +36,6 @@
     {
       "class": "shapeGroup",
       "id": "7158FB19-40AD-4C92-BA01-AD1F9F2CA747"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2A48DD0E-9919-482A-A9FD-190F89168785"
     }
   ],
   "name": "Switcher + hover",

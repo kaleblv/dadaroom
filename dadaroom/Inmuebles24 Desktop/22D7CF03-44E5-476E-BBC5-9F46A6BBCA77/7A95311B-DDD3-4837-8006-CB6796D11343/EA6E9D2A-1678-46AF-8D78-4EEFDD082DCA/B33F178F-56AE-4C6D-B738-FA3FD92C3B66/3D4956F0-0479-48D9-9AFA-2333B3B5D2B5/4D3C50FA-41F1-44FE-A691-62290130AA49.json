@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "CooperHewitt-Book",
               "size": 26
             }
           },
@@ -47,12 +47,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E1C523E6-2825-4DE8-A03D-7B59FA6C7D4B",
-    "height": 30,
-    "width": 231,
+    "height": 35,
+    "width": 225,
     "x": 1,
-    "y": 0
+    "y": 8
   },
-  "glyphBounds": "{{2, 4}, {228, 26}}",
+  "glyphBounds": "{{1, -2}, {222, 28}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "CooperHewitt-Book",
             "size": 26
           }
         },

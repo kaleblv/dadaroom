@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 17
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 15,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Reserve su casa"
+    "string": "Confirma tu publicación"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "291A45E9-36B1-466C-9B1A-15EBA836AE73",
@@ -46,19 +46,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 122,
+    "height": 23,
+    "width": 179,
     "x": 73,
-    "y": 5
+    "y": 3
   },
-  "glyphBounds": "{{1, 3}, {120, 14}}",
+  "glyphBounds": "{{1, 4}, {177, 18}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Reserve home",
+  "name": "Confirma tu publicac",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,7 +82,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 17
           }
         },

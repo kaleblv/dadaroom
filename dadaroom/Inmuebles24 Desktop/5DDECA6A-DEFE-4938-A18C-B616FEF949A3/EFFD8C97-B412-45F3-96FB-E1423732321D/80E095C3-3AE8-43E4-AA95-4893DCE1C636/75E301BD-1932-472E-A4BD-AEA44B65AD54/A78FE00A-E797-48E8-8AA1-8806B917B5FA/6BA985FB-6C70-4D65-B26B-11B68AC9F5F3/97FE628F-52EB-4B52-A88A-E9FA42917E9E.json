@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 14,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Una habitación"
+    "string": "Flat"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "97FE628F-52EB-4B52-A88A-E9FA42917E9E",
@@ -47,19 +47,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 92,
-    "x": 45.5,
-    "y": 44
+    "height": 19,
+    "width": 24,
+    "x": 79.5,
+    "y": 42
   },
-  "glyphBounds": "{{1, 2}, {90, 12}}",
+  "glyphBounds": "{{1, 4}, {23, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "One room",
+  "name": "Flat",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 14
           }
         },

@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3725490196,
-            "green": 0.4,
-            "red": 0.9176470588
+            "blue": 0.9176470588,
+            "green": 0.3725490196,
+            "red": 0.582700607402989
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "ClearSans-Medium",
               "size": 14
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 12,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "$ 2 000 / m."
+    "string": "$ 1,600,000 MN"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "243CF189-EC84-4F4E-A18C-E1D2887B16E6",
@@ -46,21 +46,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 76,
+    "height": 19,
+    "width": 105,
     "x": 97,
-    "y": 8
+    "y": 6
   },
-  "glyphBounds": "{{0, 0}, {76, 16}}",
+  "glyphBounds": "{{1, 5}, {103, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "$ 2 000 / m.",
+  "name": "$ 1,600,000 MN",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -75,14 +75,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3725490196,
-          "green": 0.4,
-          "red": 0.9176470588
+          "blue": 0.9176470588,
+          "green": 0.3725490196,
+          "red": 0.582700607402989
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "ClearSans-Medium",
             "size": 14
           }
         },

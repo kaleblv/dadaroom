@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "ClearSans",
               "size": 14
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Mazhorov"
+    "string": "Miguel Hidalgo"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4578075B-8BE8-461A-A483-F23DC1942F4B",
@@ -46,19 +46,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 62,
+    "height": 19,
+    "width": 94,
     "x": 12,
-    "y": 12.5
+    "y": 10.5
   },
-  "glyphBounds": "{{0, 0}, {62, 16}}",
+  "glyphBounds": "{{1, 4}, {92, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Mazhorov",
+  "name": "Miguel Hidalgo",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,7 +82,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "ClearSans",
             "size": 14
           }
         },

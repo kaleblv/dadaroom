@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "CooperHewitt-Light",
               "size": 36
             }
           },
@@ -47,12 +47,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "99EE2C05-B1F1-4209-89E2-381B27E2AE44",
-    "height": 42,
-    "width": 605,
+    "height": 47,
+    "width": 579,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{3, 4}, {600, 38}}",
+  "glyphBounds": "{{2, -4}, {575, 39}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "CooperHewitt-Light",
             "size": 36
           }
         },

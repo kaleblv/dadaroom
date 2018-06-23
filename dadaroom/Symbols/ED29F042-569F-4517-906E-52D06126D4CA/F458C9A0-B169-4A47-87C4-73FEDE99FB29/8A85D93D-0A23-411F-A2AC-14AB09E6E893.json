@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "ClearSans-Bold",
               "size": 17
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "$ 145"
+    "string": "$ 8,911,000 MN"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "8A85D93D-0A23-411F-A2AC-14AB09E6E893",
@@ -47,19 +47,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 44,
-    "x": 197,
-    "y": 171
+    "height": 23,
+    "width": 128,
+    "x": 113,
+    "y": 169
   },
-  "glyphBounds": "{{0, 0}, {44, 20}}",
+  "glyphBounds": "{{1, 6}, {125, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "$ 145",
+  "name": "$ 8,911,000 MN",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "ClearSans-Bold",
             "size": 17
           }
         },

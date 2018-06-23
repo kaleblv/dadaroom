@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "ClearSans-Bold",
               "size": 16
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 25,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "Apartamento en el Kremlin"
+    "string": "Bosques de La Herradura"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A1C80D7B-4E5B-4FEC-B0CD-8DB9B08CFFCA",
@@ -46,19 +46,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 193,
+    "height": 21,
+    "width": 187,
     "x": 12,
-    "y": 139
+    "y": 137
   },
-  "glyphBounds": "{{0, 3}, {192, 16}}",
+  "glyphBounds": "{{1, 5}, {185, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Apartment in the Kre",
+  "name": "Bosques de La Herrad",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,7 +82,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "ClearSans-Bold",
             "size": 16
           }
         },

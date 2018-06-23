@@ -34,10 +34,6 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "C30BBC19-7436-4125-9598-525CFFD174CF"
-    },
-    {
-      "class": "artboard",
       "id": "22D7CF03-44E5-476E-BBC5-9F46A6BBCA77"
     },
     {
@@ -97,8 +93,20 @@
       "id": "705320B8-A2E8-4319-A329-D5B1121F9862"
     },
     {
-      "class": "shapeGroup",
-      "id": "E3B7C9C8-AE73-4C2F-A72D-7B934EEA980C"
+      "class": "group",
+      "id": "1F52806E-97C5-4184-B60C-151B8001F6D2"
+    },
+    {
+      "class": "group",
+      "id": "CBD13DA5-42CD-46E0-9679-CC4701D56613"
+    },
+    {
+      "class": "group",
+      "id": "8CB8534E-60AA-45E7-99D7-F946B32DDEBE"
+    },
+    {
+      "class": "group",
+      "id": "D5B8E3E4-2192-4AEE-83AC-C44DDED3EA94"
     }
   ],
   "name": "Inmuebles24 Desktop",

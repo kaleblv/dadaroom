@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 13
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 18
           }
         },
-        "length": 56,
+        "length": 60,
         "location": 0
       }
     ],
-    "string": "Puede reservar su casa en línea o a través de un agente."
+    "string": "Puedes rentar tu propiedad en línea o a través de un agente."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "16F542C9-A14B-4E71-BFE9-4AC93CC6E794",
@@ -50,18 +50,18 @@
     "constrainProportions": false,
     "do_objectID": "6E4560A6-D000-4FA9-9227-59D35C459308",
     "height": 36,
-    "width": 184,
+    "width": 190,
     "x": 73,
-    "y": 31
+    "y": 29
   },
-  "glyphBounds": "{{0, 2}, {179, 31}}",
+  "glyphBounds": "{{1, 4}, {172, 31}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "You can reserve home",
+  "name": "Puedes rentar tu pro",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 13
           }
         },

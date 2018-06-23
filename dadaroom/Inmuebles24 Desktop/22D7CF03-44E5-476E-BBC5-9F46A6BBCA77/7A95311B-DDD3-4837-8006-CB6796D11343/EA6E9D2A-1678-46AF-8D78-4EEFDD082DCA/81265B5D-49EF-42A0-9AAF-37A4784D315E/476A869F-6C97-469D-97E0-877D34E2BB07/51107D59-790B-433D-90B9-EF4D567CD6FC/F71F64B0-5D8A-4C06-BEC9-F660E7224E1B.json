@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "ClearSans-Bold",
               "size": 16
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 18,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Villa en Mytishchi"
+    "string": "San Gervasio"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F71F64B0-5D8A-4C06-BEC9-F660E7224E1B",
@@ -46,19 +46,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 128,
+    "height": 21,
+    "width": 97,
     "x": 12,
-    "y": 139
+    "y": 137
   },
-  "glyphBounds": "{{0, 3}, {127, 16}}",
+  "glyphBounds": "{{0, 5}, {97, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Villa in Mytishchi",
+  "name": "San Gervasio",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,7 +82,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "ClearSans-Bold",
             "size": 16
           }
         },

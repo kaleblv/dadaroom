@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "Rubik-Bold",
               "size": 14
             }
           },
@@ -48,12 +48,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B6BEDEA6-6309-47E1-A64A-0F40382E55AD",
-    "height": 16,
-    "width": 85,
-    "x": 30,
+    "height": 17,
+    "width": 95,
+    "x": 25,
     "y": 12.5
   },
-  "glyphBounds": "{{0, 2}, {84, 12}}",
+  "glyphBounds": "{{0, 2}, {95, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "Rubik-Bold",
             "size": 14
           }
         },

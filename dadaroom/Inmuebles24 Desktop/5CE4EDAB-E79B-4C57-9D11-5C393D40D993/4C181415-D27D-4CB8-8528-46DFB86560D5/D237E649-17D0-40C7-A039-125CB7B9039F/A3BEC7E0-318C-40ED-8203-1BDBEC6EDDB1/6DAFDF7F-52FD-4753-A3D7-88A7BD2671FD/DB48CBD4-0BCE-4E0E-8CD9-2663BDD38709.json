@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Plano"
+    "string": "Apartamento"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DB48CBD4-0BCE-4E0E-8CD9-2663BDD38709",
@@ -48,19 +48,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "E2FE5D49-1C62-4CE8-8A20-DB9226464663",
-    "height": 16,
-    "width": 35,
-    "x": 55.5,
-    "y": 49
+    "height": 19,
+    "width": 81,
+    "x": 32.5,
+    "y": 47
   },
-  "glyphBounds": "{{1, 2}, {34, 12}}",
+  "glyphBounds": "{{0, 5}, {80, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Flat",
+  "name": "Apartamento",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 14
           }
         },

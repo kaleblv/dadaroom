@@ -30,16 +30,8 @@
       "id": "1E5846E8-1D84-45E4-AEDB-A8EAF4D8B239"
     },
     {
-      "class": "text",
-      "id": "520EA1B3-E159-419D-AC4A-7042F241CA34"
-    },
-    {
-      "class": "text",
-      "id": "B428BF9E-E7A8-4B10-B506-1805671A9248"
-    },
-    {
-      "class": "text",
-      "id": "0BCB24D2-06D8-43C7-96F4-05CEE3843DA2"
+      "class": "group",
+      "id": "30B5613A-2BCE-437E-A293-23D878DE1865"
     }
   ],
   "name": "Button",

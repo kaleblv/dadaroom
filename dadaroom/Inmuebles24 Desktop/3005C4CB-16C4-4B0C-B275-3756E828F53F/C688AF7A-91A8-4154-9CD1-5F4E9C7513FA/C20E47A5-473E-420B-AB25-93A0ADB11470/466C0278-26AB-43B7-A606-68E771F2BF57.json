@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "CooperHewitt-Light",
               "size": 23
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 41,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "Susanville, AZ, Caliangt 8597, 44145-9205"
+    "string": "Oak 58 - Departamentos de Lujo"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "466C0278-26AB-43B7-A606-68E771F2BF57",
@@ -47,21 +47,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5C7CCC67-2B13-4945-BA65-B601B4681538",
-    "height": 27,
-    "width": 420,
+    "height": 30,
+    "width": 313,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 0}, {420, 27}}",
+  "glyphBounds": "{{1, -2}, {311, 24}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Susanville, AZ, Cali",
+  "name": "Oak 58 - Departament",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "CooperHewitt-Light",
             "size": 23
           }
         },

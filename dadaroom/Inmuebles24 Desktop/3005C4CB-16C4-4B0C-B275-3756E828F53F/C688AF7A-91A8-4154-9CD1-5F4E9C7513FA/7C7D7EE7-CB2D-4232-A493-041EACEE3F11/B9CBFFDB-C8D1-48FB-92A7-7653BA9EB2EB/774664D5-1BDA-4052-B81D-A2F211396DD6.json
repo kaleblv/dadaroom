@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 13
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 15,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "7-(630)207-7824"
+    "string": "2225768881"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "774664D5-1BDA-4052-B81D-A2F211396DD6",
@@ -47,21 +47,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1AEEDFCE-FD94-4FFF-9D44-53C49DF56016",
-    "height": 15,
-    "width": 96,
+    "height": 18,
+    "width": 76,
     "x": 105,
-    "y": 50
+    "y": 48
   },
-  "glyphBounds": "{{0, 0}, {96, 15}}",
+  "glyphBounds": "{{0, 5}, {73, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "phone number",
+  "name": "2225768881",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 13
           }
         },

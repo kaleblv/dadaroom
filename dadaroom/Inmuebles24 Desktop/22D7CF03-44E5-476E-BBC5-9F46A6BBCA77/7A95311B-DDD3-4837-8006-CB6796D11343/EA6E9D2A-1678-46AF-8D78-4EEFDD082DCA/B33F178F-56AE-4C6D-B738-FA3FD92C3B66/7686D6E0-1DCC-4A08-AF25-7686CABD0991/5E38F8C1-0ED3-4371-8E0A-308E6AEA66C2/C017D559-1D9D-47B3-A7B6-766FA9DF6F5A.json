@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "ClearSans-Bold",
               "size": 16
             }
           },
@@ -29,7 +29,7 @@
         "location": 0
       }
     ],
-    "string": "Villa en Mytishchi"
+    "string": "Oasis Azcapotzalco"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C017D559-1D9D-47B3-A7B6-766FA9DF6F5A",
@@ -46,19 +46,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 128,
+    "height": 21,
+    "width": 142,
     "x": 12,
-    "y": 139
+    "y": 137
   },
-  "glyphBounds": "{{0, 3}, {127, 16}}",
+  "glyphBounds": "{{0, 5}, {141, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Villa in Mytishchi",
+  "name": "Oasis Azcapotzalco",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,7 +82,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "ClearSans-Bold",
             "size": 16
           }
         },

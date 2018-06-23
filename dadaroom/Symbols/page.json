@@ -103,6 +103,10 @@
     {
       "class": "shapeGroup",
       "id": "474468D3-E8C5-4098-9369-3F465589AC08"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2E022B40-70A7-40ED-89FD-BE8CC51CA1D4"
     }
   ],
   "name": "Symbols",

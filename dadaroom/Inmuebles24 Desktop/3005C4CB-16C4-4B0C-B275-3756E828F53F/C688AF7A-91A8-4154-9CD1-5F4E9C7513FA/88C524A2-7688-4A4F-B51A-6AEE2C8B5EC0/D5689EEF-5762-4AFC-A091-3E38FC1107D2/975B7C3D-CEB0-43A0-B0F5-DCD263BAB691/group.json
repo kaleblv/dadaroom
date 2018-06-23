@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,10 +32,6 @@
     {
       "class": "text",
       "id": "26DF87B4-C664-4E64-8AA8-80BE1D48F83D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B1EACC10-1449-4B02-8EBE-9BBC6F8DDFC7"
     }
   ],
   "name": "4 + hover",

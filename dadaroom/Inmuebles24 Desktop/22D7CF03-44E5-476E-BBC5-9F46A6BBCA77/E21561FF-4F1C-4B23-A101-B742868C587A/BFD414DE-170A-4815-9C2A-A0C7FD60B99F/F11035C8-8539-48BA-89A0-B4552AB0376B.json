@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 42,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "Apartamento de lujo cerca de la Plaza Roja"
+    "string": "Apartamentos de lujo cerca de Polanco"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F11035C8-8539-48BA-89A0-B4552AB0376B",
@@ -49,18 +49,18 @@
     "constrainProportions": false,
     "do_objectID": "B0FA8714-D5E4-4C6D-9A43-522D9F719638",
     "height": 30,
-    "width": 406,
-    "x": 95,
+    "width": 378,
+    "x": 93,
     "y": 41
   },
-  "glyphBounds": "{{0, -2}, {405, 24}}",
+  "glyphBounds": "{{0, -2}, {376, 24}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Luxury apartment nea",
+  "name": "Apartamentos de lujo",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

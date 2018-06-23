@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 14
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 16,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Helena State, IA"
+    "string": "Polanco, CDMX"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C3372985-084F-4963-B9DD-DD921F640700",
@@ -47,21 +47,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A8197461-0E31-4B19-B625-AE55DDBBDA82",
-    "height": 16,
-    "width": 97,
+    "height": 19,
+    "width": 93,
     "x": 97,
-    "y": 44
+    "y": 42
   },
-  "glyphBounds": "{{0, 0}, {97, 16}}",
+  "glyphBounds": "{{1, 4}, {92, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Helena State, IA",
+  "name": "Polanco, CDMX",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 14
           }
         },

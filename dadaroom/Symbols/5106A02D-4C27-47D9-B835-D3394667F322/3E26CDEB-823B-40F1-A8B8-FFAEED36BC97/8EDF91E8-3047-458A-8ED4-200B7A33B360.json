@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "CooperHewitt-Book",
               "size": 26
             }
           },
@@ -46,12 +46,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 216,
+    "height": 35,
+    "width": 225,
     "x": 86,
-    "y": 0
+    "y": 7
   },
-  "glyphBounds": "{{0, 0}, {216, 30}}",
+  "glyphBounds": "{{1, -2}, {223, 26}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -82,7 +82,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "CooperHewitt-Book",
             "size": 26
           }
         },

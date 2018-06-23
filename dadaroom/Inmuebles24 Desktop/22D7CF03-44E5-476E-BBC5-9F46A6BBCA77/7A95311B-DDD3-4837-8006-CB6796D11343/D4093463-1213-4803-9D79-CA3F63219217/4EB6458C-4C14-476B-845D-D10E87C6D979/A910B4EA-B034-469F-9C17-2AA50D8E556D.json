@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 13
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 18
           }
         },
-        "length": 68,
+        "length": 54,
         "location": 0
       }
     ],
-    "string": "Con la búsqueda inteligente, encuentre un hogar adecuado para ellos."
+    "string": "Con la búsqueda inteligente, encuentra tu hogar ideal."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "A910B4EA-B034-469F-9C17-2AA50D8E556D",
@@ -49,19 +49,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "34C69983-6AFF-4698-9802-FEBAF920BAA5",
-    "height": 54,
+    "height": 36,
     "width": 180,
     "x": 73,
-    "y": 31
+    "y": 29
   },
-  "glyphBounds": "{{0, 2}, {170, 49}}",
+  "glyphBounds": "{{0, 4}, {162, 31}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "With smart search fi",
+  "name": "Con la búsqueda inte",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -85,7 +85,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 13
           }
         },

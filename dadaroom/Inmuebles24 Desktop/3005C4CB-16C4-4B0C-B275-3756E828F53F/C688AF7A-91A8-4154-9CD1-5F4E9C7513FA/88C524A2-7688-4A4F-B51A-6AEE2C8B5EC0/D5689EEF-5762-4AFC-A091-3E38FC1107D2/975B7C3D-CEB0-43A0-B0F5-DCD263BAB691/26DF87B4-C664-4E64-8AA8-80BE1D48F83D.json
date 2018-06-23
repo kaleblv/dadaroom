@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2392156863,
-            "green": 0.2196078431,
-            "red": 0.2078431373
+            "blue": 0.6,
+            "green": 0.5882352941176471,
+            "red": 0.580392156862745
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 10,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Calendario"
+    "string": "Agendar Visita"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "26DF87B4-C664-4E64-8AA8-80BE1D48F83D",
@@ -47,19 +47,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 66,
-    "x": 29.5,
-    "y": 18
+    "height": 19,
+    "width": 90,
+    "x": 17.5,
+    "y": 16
   },
-  "glyphBounds": "{{0, 2}, {65, 12}}",
+  "glyphBounds": "{{0, 4}, {89, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Calendar",
+  "name": "Agendar Visita",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -76,14 +76,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2392156863,
-          "green": 0.2196078431,
-          "red": 0.2078431373
+          "blue": 0.6,
+          "green": 0.5882352941176471,
+          "red": 0.580392156862745
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 14
           }
         },

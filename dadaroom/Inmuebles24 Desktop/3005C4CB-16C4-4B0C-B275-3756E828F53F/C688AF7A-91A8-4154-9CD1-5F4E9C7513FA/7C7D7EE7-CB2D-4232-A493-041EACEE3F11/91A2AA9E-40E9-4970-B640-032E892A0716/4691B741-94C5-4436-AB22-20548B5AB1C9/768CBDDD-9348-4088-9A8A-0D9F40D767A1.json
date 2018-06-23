@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Bold",
+              "name": "ClearSans-Bold",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 35,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Solicitar una devolución de llamada"
+    "string": "Solicitar una llamada"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "768CBDDD-9348-4088-9A8A-0D9F40D767A1",
@@ -48,19 +48,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "08AA1799-B5D6-4C46-97F9-07A50444627A",
-    "height": 16,
-    "width": 224,
-    "x": 14.5,
-    "y": 15
+    "height": 19,
+    "width": 137,
+    "x": 58,
+    "y": 13
   },
-  "glyphBounds": "{{0, 2}, {223, 12}}",
+  "glyphBounds": "{{0, 4}, {136, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Request a call back",
+  "name": "Solicitar una llamad",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Bold",
+            "name": "ClearSans-Bold",
             "size": 14
           }
         },

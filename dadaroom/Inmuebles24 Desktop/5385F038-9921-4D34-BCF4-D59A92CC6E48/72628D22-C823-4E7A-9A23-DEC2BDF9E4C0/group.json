@@ -14,21 +14,21 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "13B69A83-7E5C-472C-8E62-F2B5755487BC",
-    "height": 911,
-    "width": 1175,
+    "height": 913,
+    "width": 946,
     "x": 45,
-    "y": 350
+    "y": 348
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "1A90C87C-E772-4C70-82E3-C3BAC811A5C0"
+      "class": "symbolInstance",
+      "id": "E8031697-BCE5-47AC-86F6-265C00FC843D"
     },
     {
       "class": "group",

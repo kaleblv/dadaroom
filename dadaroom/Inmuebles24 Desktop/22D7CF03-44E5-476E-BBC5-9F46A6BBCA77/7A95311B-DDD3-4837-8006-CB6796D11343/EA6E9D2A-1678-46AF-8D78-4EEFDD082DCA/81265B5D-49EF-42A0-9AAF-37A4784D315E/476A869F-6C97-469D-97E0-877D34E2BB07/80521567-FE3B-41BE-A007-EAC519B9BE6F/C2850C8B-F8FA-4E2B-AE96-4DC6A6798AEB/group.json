@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,6 +32,10 @@
     {
       "class": "text",
       "id": "4267C423-77B1-44A1-84C4-2F109AC4951B"
+    },
+    {
+      "class": "bitmap",
+      "id": "99657A1D-6931-4F65-B104-CBCEB638C574"
     },
     {
       "class": "shapeGroup",

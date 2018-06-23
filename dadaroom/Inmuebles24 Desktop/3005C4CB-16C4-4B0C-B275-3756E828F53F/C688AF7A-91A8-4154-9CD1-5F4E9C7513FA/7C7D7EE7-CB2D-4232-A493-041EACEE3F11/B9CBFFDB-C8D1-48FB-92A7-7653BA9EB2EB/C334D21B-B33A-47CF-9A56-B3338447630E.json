@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 18
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 14,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "Edward Daniels"
+    "string": "Grupo Forms"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C334D21B-B33A-47CF-9A56-B3338447630E",
@@ -46,21 +46,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 132,
+    "height": 24,
+    "width": 104,
     "x": 105,
-    "y": 26
+    "y": 24
   },
-  "glyphBounds": "{{0, 0}, {132, 21}}",
+  "glyphBounds": "{{1, 6}, {102, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Edward Daniels",
+  "name": "Grupo Forms",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -82,7 +82,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 18
           }
         },

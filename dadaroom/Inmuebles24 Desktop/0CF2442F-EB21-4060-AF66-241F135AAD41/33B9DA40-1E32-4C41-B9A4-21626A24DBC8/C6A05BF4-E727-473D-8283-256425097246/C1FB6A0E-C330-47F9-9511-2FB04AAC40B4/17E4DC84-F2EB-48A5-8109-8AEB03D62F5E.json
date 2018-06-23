@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "CooperHewitt-Book",
               "size": 26
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 27,
+        "length": 32,
         "location": 0
       }
     ],
-    "string": "Pisos por un día en Siettle"
+    "string": "Apartamentos en venta en Polanco"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "17E4DC84-F2EB-48A5-8109-8AEB03D62F5E",
@@ -47,19 +47,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "33C0F734-3D38-4D04-A60F-353F9B5AE681",
-    "height": 30,
-    "width": 300,
+    "height": 35,
+    "width": 392,
     "x": 0,
-    "y": 21
+    "y": 26
   },
-  "glyphBounds": "{{2, 4}, {297, 26}}",
+  "glyphBounds": "{{0, -1}, {391, 27}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Flats for a day in S",
+  "name": "Apartamentos en vent",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "CooperHewitt-Book",
             "size": 26
           }
         },

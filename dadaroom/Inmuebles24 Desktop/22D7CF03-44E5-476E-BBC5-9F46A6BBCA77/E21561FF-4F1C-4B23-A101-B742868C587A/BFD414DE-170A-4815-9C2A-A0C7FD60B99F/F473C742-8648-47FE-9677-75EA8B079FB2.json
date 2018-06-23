@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "CooperHewitt-Semibold",
+              "name": "CooperHewitt-Bold",
               "size": 36
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 36,
+        "length": 32,
         "location": 0
       }
     ],
-    "string": "Apartamentos en el centro de Siettle"
+    "string": "Propiedades en el centro de CDMX"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F473C742-8648-47FE-9677-75EA8B079FB2",
@@ -49,18 +49,18 @@
     "constrainProportions": false,
     "do_objectID": "E6DDB1EC-8C94-48BE-9970-3228D5D559CD",
     "height": 47,
-    "width": 596,
-    "x": 0,
+    "width": 563,
+    "x": 0.5,
     "y": 0
   },
-  "glyphBounds": "{{0, -2}, {595, 37}}",
+  "glyphBounds": "{{2, -2}, {560, 37}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Apartments in the Do",
+  "name": "Propiedades en el ce",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -106,7 +106,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "CooperHewitt-Semibold",
+            "name": "CooperHewitt-Bold",
             "size": 36
           }
         },

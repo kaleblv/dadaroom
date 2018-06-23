@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 31,
-    "width": 53,
+    "height": 32,
+    "width": 54,
     "x": 573,
     "y": 432
   },
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -32,6 +32,10 @@
     {
       "class": "text",
       "id": "2ABE03B9-611F-4552-BE11-07FDE7FF7ED9"
+    },
+    {
+      "class": "bitmap",
+      "id": "16126AE8-3C78-424A-BA60-4D2539C5CBF4"
     }
   ],
   "name": "11",

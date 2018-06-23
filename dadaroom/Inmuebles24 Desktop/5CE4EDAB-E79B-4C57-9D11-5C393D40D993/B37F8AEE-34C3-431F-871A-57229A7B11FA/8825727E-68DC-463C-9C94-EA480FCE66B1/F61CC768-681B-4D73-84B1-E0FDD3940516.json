@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "CooperHewitt-Light",
               "size": 23
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 54,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "Puede ganar dinero con House Finder alquilando su casa"
+    "string": "Gana dinero con Inmuebles24"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F61CC768-681B-4D73-84B1-E0FDD3940516",
@@ -48,19 +48,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6500D22D-5C5D-45DF-BB1E-E19AD07F3500",
-    "height": 27,
-    "width": 571,
-    "x": 0.5,
-    "y": 43
+    "height": 30,
+    "width": 287,
+    "x": 9.5,
+    "y": 41
   },
-  "glyphBounds": "{{2, 3}, {568, 23}}",
+  "glyphBounds": "{{1, -2}, {285, 20}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "You can earn money w",
+  "name": "Gana dinero con Inmu",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -68,6 +68,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.7956473273890359
+    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "shadows": [
@@ -106,7 +111,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "CooperHewitt-Light",
             "size": 23
           }
         },

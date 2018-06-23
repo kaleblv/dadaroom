@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 13
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "REGISTRARSE"
+    "string": "INICIAR SESIÓN"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F1B7552B-B34B-4542-A3EC-F690B9DA5B2F",
@@ -46,19 +46,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 84,
+    "height": 18,
+    "width": 95,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{1, 2}, {82, 11}}",
+  "glyphBounds": "{{0, 1}, {94, 14}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "SIGN IN",
+  "name": "INICIAR SESIÓN",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,7 +82,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 13
           }
         },

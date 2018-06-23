@@ -16,46 +16,46 @@
     "height": 872,
     "width": 564,
     "x": 0,
-    "y": 76
+    "y": 77
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "00377651-07FD-474F-A867-C08A4EDA0631"
+      "id": "17F5B9AD-B333-4A99-9161-8245C275CC9C"
     },
     {
       "class": "group",
-      "id": "8DD352E0-6539-40E7-AF7A-4BDA5A715823"
+      "id": "B8693BA8-115C-4137-8B37-42B425E4C6BF"
     },
     {
       "class": "group",
-      "id": "AF34C45A-A28F-4692-BF6C-248DE01FE70E"
+      "id": "01F8EB90-2548-47A0-8B06-AC81F35788BB"
     },
     {
       "class": "group",
-      "id": "DD029C75-93E9-4001-83AF-8119477B4BB3"
+      "id": "D1A5692F-8F4D-46AA-B87B-1F18C7DB33CC"
     },
     {
       "class": "group",
-      "id": "C13FEB69-3082-4EDE-88C9-2D0C5CCFFE08"
+      "id": "B095286B-F12D-4C1C-B4B4-62A30B3A4311"
     },
     {
       "class": "group",
-      "id": "FD8D036C-F4EB-49F8-A86C-CDFD59804537"
+      "id": "6C2B4D1C-03F0-4C8E-BE54-10CF7DCDD6F0"
     },
     {
       "class": "group",
-      "id": "D7B5A6F2-641E-4551-90D0-EAE9C2CC7D37"
+      "id": "D8A12745-8FBD-4A5F-9992-31A55BFB808E"
     },
     {
       "class": "group",
-      "id": "DFBE4D62-7F9D-49DD-A08C-79209204CFD5"
+      "id": "9E539009-AC10-4133-AC52-23C8C408933E"
     }
   ],
   "name": "Offers",

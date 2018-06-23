@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 21,
-    "width": 866,
-    "x": 82,
+    "width": 375,
+    "x": 79,
     "y": 309
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -36,14 +36,6 @@
     {
       "class": "group",
       "id": "2519D80B-7ED7-4A24-9F67-83B07E9BFE46"
-    },
-    {
-      "class": "group",
-      "id": "54A0A690-5885-4477-BC43-19EADD6E0CAB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "DEABC9A8-E900-4B81-9E65-EEFDE5591B2F"
     }
   ],
   "name": "Holder language",

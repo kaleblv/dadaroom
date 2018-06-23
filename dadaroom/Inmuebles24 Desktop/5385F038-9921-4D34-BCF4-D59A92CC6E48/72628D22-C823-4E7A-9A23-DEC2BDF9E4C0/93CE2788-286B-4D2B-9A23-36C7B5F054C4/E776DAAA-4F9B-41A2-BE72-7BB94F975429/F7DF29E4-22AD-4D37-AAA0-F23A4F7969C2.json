@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3725490196,
-            "green": 0.4,
-            "red": 0.9176470588
+            "blue": 0.4821694302721088,
+            "green": 0.047571995754238,
+            "red": 0.2873091675127373
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 14
             }
           },
@@ -31,7 +31,7 @@
         "location": 0
       }
     ],
-    "string": "¿Qué es este sitio? ¿Qué está pasando aquí? ¿Qué es este sitio? ¿Qué está pasando aquí?"
+    "string": "¿Qué es este sitio?\n¿Qué está pasando aquí?\n¿Qué es este sitio?\n¿Qué está pasando aquí?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F7DF29E4-22AD-4D37-AAA0-F23A4F7969C2",
@@ -49,19 +49,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D7AF7888-6FCD-465B-8B88-994166CC2A90",
-    "height": 37,
-    "width": 544,
+    "height": 148,
+    "width": 155,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 2}, {543, 14}}",
+  "glyphBounds": "{{0, 4}, {154, 125}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "What is this site",
+  "name": "¿Qué es este sitio?",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -78,14 +78,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3725490196,
-          "green": 0.4,
-          "red": 0.9176470588
+          "blue": 0.4821694302721088,
+          "green": 0.047571995754238,
+          "red": 0.2873091675127373
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 14
           }
         },

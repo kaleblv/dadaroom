@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 12
             }
           },
@@ -27,11 +27,11 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 20,
+        "length": 21,
         "location": 0
       }
     ],
-    "string": "Para más información"
+    "string": "Para más \ninformación"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4E001F92-4A56-4C7E-98F7-0729E6F24F72",
@@ -48,19 +48,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 117,
+    "height": 32,
+    "width": 63,
     "x": 0,
-    "y": 3
+    "y": 0
   },
-  "glyphBounds": "{{1, 1}, {115, 11}}",
+  "glyphBounds": "{{0, 3}, {62, 27}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "For more",
+  "name": "Para más información",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 12
           }
         },

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 12
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "REGISTRO"
+    "string": "REGISTRARME"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FC69F113-A8C9-4E68-BAE3-CAACEA2C4798",
@@ -46,19 +46,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 56,
+    "height": 16,
+    "width": 78,
     "x": 0,
     "y": 17
   },
-  "glyphBounds": "{{1, 2}, {55, 10}}",
+  "glyphBounds": "{{1, 4}, {76, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "REGISTER",
+  "name": "REGISTRARME",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,7 +82,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 12
           }
         },

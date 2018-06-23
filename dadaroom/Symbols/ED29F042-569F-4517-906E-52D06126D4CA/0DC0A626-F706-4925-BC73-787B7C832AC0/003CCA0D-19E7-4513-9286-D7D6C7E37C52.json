@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 13
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 12,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "1 habitación"
+    "string": "2 cuartos"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "003CCA0D-19E7-4513-9286-D7D6C7E37C52",
@@ -46,19 +46,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 70,
+    "height": 18,
+    "width": 55,
     "x": 12,
-    "y": 173.5
+    "y": 171.5
   },
-  "glyphBounds": "{{1, 2}, {68, 11}}",
+  "glyphBounds": "{{0, 5}, {54, 10}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "1 room",
+  "name": "2 cuartos",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,7 +82,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 13
           }
         },

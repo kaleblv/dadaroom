@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
+              "name": "ClearSans",
               "size": 14
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Alquilar"
+    "string": "Rentar"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "945416EC-1FA3-4E34-9606-236554B29F76",
@@ -47,19 +47,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DE082B15-A1B9-4B1B-AF46-C67D3480BD02",
-    "height": 16,
-    "width": 48,
+    "height": 19,
+    "width": 42,
     "x": 12,
-    "y": 12.5
+    "y": 10.5
   },
-  "glyphBounds": "{{0, 2}, {48, 14}}",
+  "glyphBounds": "{{1, 5}, {41, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Rent",
+  "name": "Rentar",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
+            "name": "ClearSans",
             "size": 14
           }
         },

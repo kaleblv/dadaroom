@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
+              "name": "ClearSans-Medium",
               "size": 13
             }
           },
@@ -24,15 +24,72 @@
             "_class": "paragraphStyle",
             "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 19,
-            "minimumLineHeight": 19
+            "maximumLineHeight": 37,
+            "minimumLineHeight": 37
           }
         },
-        "length": 101,
+        "length": 14,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2392156863,
+            "green": 0.2196078431,
+            "red": 0.2078431373
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "ClearSans-Medium",
+              "size": 13
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 1,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 37,
+            "minimumLineHeight": 37
+          }
+        },
+        "length": 1,
+        "location": 14
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2392156863,
+            "green": 0.2196078431,
+            "red": 0.2078431373
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "ClearSans-Medium",
+              "size": 13
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 1,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 37,
+            "minimumLineHeight": 37
+          }
+        },
+        "length": 83,
+        "location": 15
       }
     ],
-    "string": "Una habitación Cama real 2 1 1 1 Gratis $ 560 $ 2 200 13:00 12:00 EE.UU. Brooklyn Williamsburg Medium"
+    "string": "Vertical\n230 m3\n 1\n 1\n 1\n Gratis\n $ 560\n $ 2 200\n 13:00\n 12:00\nMéxico\n CDMX\nMiguel Hidalgo\n Medium"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "FE0D39AB-C6A1-4939-93DB-0C50196C0F70",
@@ -50,19 +107,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8375E837-2A6B-4842-B953-8A5B342FF996",
-    "height": 19,
-    "width": 612,
-    "x": 0,
-    "y": 15
+    "height": 518,
+    "width": 88,
+    "x": 176,
+    "y": 3
   },
-  "glyphBounds": "{{0, 1}, {611, 14}}",
+  "glyphBounds": "{{1, 14}, {87, 492}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 1,
-  "name": "One room Real bed 2",
+  "lineSpacingBehaviour": 2,
+  "name": "Vertical 230 m3 1 1",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -86,7 +143,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
+            "name": "ClearSans-Medium",
             "size": 13
           }
         },
@@ -94,8 +151,8 @@
           "_class": "paragraphStyle",
           "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 19,
-          "minimumLineHeight": 19
+          "maximumLineHeight": 37,
+          "minimumLineHeight": 37
         }
       },
       "verticalAlignment": 0

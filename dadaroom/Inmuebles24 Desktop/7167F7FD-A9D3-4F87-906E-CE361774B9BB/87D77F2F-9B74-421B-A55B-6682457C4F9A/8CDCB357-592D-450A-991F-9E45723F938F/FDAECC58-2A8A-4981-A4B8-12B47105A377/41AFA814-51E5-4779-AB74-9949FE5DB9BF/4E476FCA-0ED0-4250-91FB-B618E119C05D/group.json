@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "4E476FCA-0ED0-4250-91FB-B618E119C05D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 135,
+    "width": 15,
+    "x": 0,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5378FE65-2039-4DB8-9B72-618C46A22ED0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B4A1140C-ABBF-497D-8CEC-604BE1032F27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F5E8E0C9-B25D-42AC-896D-64BB25281405"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32BE0C30-B9DF-4C67-B5B4-02FB11054A51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F91FBB26-7142-4345-B22A-595878AAD4CE"
+    }
+  ],
+  "name": "Points",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

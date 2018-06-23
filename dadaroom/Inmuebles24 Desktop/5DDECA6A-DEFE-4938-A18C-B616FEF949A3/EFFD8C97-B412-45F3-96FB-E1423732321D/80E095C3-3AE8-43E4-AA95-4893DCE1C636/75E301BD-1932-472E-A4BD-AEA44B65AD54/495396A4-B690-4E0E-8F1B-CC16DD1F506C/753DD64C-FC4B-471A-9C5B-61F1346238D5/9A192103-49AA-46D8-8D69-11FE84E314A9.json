@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
+              "name": "ClearSans-Light",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 22,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "Estacionamiento gratis"
+    "string": "Estacionamiento"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9A192103-49AA-46D8-8D69-11FE84E314A9",
@@ -48,19 +48,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F6AA2A00-2104-454C-8BB3-7B9A7800DC45",
-    "height": 16,
-    "width": 141,
+    "height": 19,
+    "width": 103,
     "x": 40.5,
-    "y": 2.61669921875
+    "y": 0.61669921875
   },
-  "glyphBounds": "{{1, 2}, {140, 14}}",
+  "glyphBounds": "{{1, 5}, {101, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Free parking",
+  "name": "Estacionamiento",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
+            "name": "ClearSans-Light",
             "size": 14
           }
         },
