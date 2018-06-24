@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "0AC78F17-EFF2-42DF-A141-9DC659F78181",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "998CF6AB-507F-4E96-B376-CB8FD33870BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E1B8F398-BDF6-440D-B500-7974D5D2C12D",
+    "height": 798,
+    "width": 1203,
+    "x": -8,
+    "y": -37
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/58fdd19f013483353d4dcf3a112d6dcd15577ebf.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "hero-background",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "286E26A5-73F7-4C54-A95D-690ADF9E28A6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

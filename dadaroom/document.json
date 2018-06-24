@@ -83,8 +83,9 @@
   },
   "pages": [
     "Inmuebles24 Desktop",
+    "Symbols",
     "Sitemap & User Flows",
-    "Symbols"
+    "Composition"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

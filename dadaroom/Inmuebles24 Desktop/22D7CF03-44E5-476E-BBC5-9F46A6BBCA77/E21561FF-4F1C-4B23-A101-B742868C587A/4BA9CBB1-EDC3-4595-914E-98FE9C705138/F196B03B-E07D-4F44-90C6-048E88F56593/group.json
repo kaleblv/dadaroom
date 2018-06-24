@@ -30,12 +30,12 @@
       "id": "35BC1BB5-D076-4873-85F7-E8E135DC972C"
     },
     {
-      "class": "bitmap",
-      "id": "3C5C28DE-CA0F-4312-9515-86D16D694B00"
-    },
-    {
       "class": "text",
       "id": "CD6784D2-F0CE-4915-B7CC-392A3226DC68"
+    },
+    {
+      "class": "bitmap",
+      "id": "3C5C28DE-CA0F-4312-9515-86D16D694B00"
     },
     {
       "class": "shapeGroup",
