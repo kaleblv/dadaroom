@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 781,
+    "height": 480,
     "width": 1200,
     "x": -792,
     "y": -473
@@ -44,7 +44,7 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "CCACF70B-23CC-4E3A-887E-19733B22CFEE"
+      "id": "B4494CC4-556F-4F21-8488-67A9C7D346BB"
     }
   ],
   "name": "sitemap",
