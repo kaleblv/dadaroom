@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,8 +29,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 1182,
+    "height": 683,
+    "width": 1200,
     "x": 713,
     "y": 1433
   },
@@ -42,9 +51,13 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "bitmap",
+      "id": "444B4DB8-E9DE-4DE6-A88F-876BE5A09765"
+    }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "laptop",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

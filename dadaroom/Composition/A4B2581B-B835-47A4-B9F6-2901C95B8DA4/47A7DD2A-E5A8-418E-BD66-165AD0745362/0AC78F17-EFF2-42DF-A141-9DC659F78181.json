@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "E1B8F398-BDF6-440D-B500-7974D5D2C12D",
-    "height": 798,
-    "width": 1203,
+    "height": 812,
+    "width": 1224,
     "x": -8,
-    "y": -37
+    "y": -38
   },
   "image": {
     "_class": "MSJSONFileReference",

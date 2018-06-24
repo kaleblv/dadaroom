@@ -11,6 +11,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -20,13 +29,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 461,
-    "width": 1182,
+    "height": 625,
+    "width": 1200,
     "x": 713,
-    "y": 2201
+    "y": 3957
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,6 +54,10 @@
     {
       "class": "bitmap",
       "id": "6A311A9C-5AA2-4254-966B-9594FA39EFA9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5183C545-1DB0-4C1E-850E-235D38971043"
     }
   ],
   "name": "sitemap",

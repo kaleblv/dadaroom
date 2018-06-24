@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "F4CBAA82-B79C-47EA-A921-90C86CC7B85F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9A985EC-224C-4E39-ADE3-640B65B811AA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E2F9A99-927B-42DF-82A5-B1ECB07C50A0",
+    "height": 136,
+    "width": 654,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B39744AB-CFAA-4A9D-8790-E4F2C711DF77"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E6D799E-3EDC-47E5-AB4D-68DBB1C6FC39"
+    }
+  ],
+  "name": "Logo White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "FD6DF51A-D9A9-47B0-806C-65F13879A99F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 26,
+      "type": 0
+    },
+    "do_objectID": "7E763BEC-374A-4A59-AD6D-889032D70CB5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

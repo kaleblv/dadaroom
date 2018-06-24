@@ -26,11 +26,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 8,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "REGISTRO"
+    "string": "INICIAR SESIÓN"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "C165B4EA-BD74-406D-A345-080E40681432",
@@ -49,18 +49,18 @@
     "constrainProportions": false,
     "do_objectID": "142010E6-5D7B-48CC-8406-333BACBC0B08",
     "height": 18,
-    "width": 72,
-    "x": 92,
+    "width": 110,
+    "x": 73,
     "y": 13.5
   },
-  "glyphBounds": "{{0, 3}, {71, 12}}",
+  "glyphBounds": "{{1, 0}, {108, 15}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "REGISTER",
+  "name": "INICIAR SESIÓN",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

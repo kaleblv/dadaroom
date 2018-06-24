@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "REGISTRARSE"
+    "string": "REGISTRARME"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F3C94C37-5CDA-4F09-81D0-6BDE001D4B62",
@@ -49,18 +49,18 @@
     "constrainProportions": false,
     "do_objectID": "B2B96BB0-3ECD-4725-9F6C-6D41862612B8",
     "height": 18,
-    "width": 98,
-    "x": 79,
+    "width": 102,
+    "x": 77,
     "y": 13.5
   },
-  "glyphBounds": "{{0, 3}, {98, 12}}",
+  "glyphBounds": "{{0, 3}, {102, 12}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "SIGN IN",
+  "name": "REGISTRARME",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
