@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.9882352941176471,
+    "green": 0.9803921568627451,
+    "red": 0.9764705882352941
   },
   "do_objectID": "95063D77-0377-42C5-B41C-023B213E089F",
   "exportOptions": {
@@ -25,7 +25,7 @@
     "x": -792,
     "y": -473
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -40,11 +40,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "bitmap",
+      "id": "CCACF70B-23CC-4E3A-887E-19733B22CFEE"
+    }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "sitemap",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
